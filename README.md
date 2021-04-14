@@ -15,9 +15,12 @@ O presente projeto foi originado no contexto das atividades da disciplina de pó
 
 
 # Descrição Resumida do Projeto
-> Descrição do tema do projeto, incluindo motivação e contexto gerador.
-> 
-> Link para vídeo de apresentação da proposta do projeto (máximo 3 minutos).
+No período compreendido entre 2010 e 2017, foram notificados mais de 500.000 casos de intoxicações notificadas no SINAN. Tais dados apontam para uma maior incidência de casos de intoxicação medicamentosa do que por agrotóxicos. Simultaneamente, um estudo feito pelo Conselho Federal de Farmácia em 2019 mostrou que 77% da população brasileira se automedica, o que chamou a atenção para a questão da automedicação como possível fator capaz de levar a casos de intoxicação medicamentosa. Ainda neste contexto, a Organização Mundial da Saúde prevê que cerca de 10 milhões de óbitos sejam causados por automedicação por ano em 2050. Tratam-se de previsões sombrias e alarmantes que infelizmente são coerentes com os dados do estudo na população brasileira em 2019. Esta pesquisa de 2019 apontou ainda que as principais classes medicamentosas associadas à automedicação são: analgésicos e relaxantes musculares, com destaque para a dipirona como medicamento mais consumido nesse contexto. Além desse panorama, cabe destacar a grande variabilidade entre as cinco regiões brasileiras, tanto do ponto de vista socioeconômico quanto às notificações de intoxicações. 
+
+Desta forma, nosso grupo se interessou em analisar estes tópicos, partindo desde análises dos perfis socioeconômicos das regiões brasileiras, procurando correlacionar os mesmos com a incidência de intoxicações medicamentosas até relacionar dados de intoxicações com automedicação e, se possível, considerar ainda o papel da propaganda de medicamentos sobre a automedicação.
+  
+Link para o vídeo https://youtu.be/Dt77q7QpOvs  
+
 
 # Perguntas de Pesquisa
 1. Qual a relação entre a quantidade de notificações por intoxicação e a quantidade de intoxicações por automedicação na população brasileira?
