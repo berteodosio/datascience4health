@@ -1,5 +1,5 @@
-# Projeto `<Título em Português>`
-# Project `<Title in English>`
+# Projeto `Uma análise sobre a relação entre a quantidade de notificações por intoxicação e a quantidade de intoxicações por automedicação na população brasileira`
+# Project `An analysis of the relationship between the number of intoxication notifications and the number of self-medication intoxications in the Brazilian population`
 
 # Apresentação
 
