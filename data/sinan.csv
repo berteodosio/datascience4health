@@ -1,0 +1,5551 @@
+Ano;Agente TÛxico;Estado;Quantidade
+2007;Ign/Branco;RO;59
+2007;Medicamento;RO;16
+2007;AgrotÛxico agrÌcola;RO;46
+2007;AgrotÛxico domÈstico;RO;8
+2007;AgrotÛxico sa˙de p˙blica;RO;0
+2007;Raticida;RO;11
+2007;Prod. veterin·rio;RO;8
+2007;Prod. uso domiciliar;RO;8
+2007;CosmÈtico;RO;1
+2007;Prod. quÌmico;RO;6
+2007;Metal;RO;0
+2007;Drogas de abuso;RO;0
+2007;Planta tÛxica;RO;3
+2007;Alimento e bebida;RO;5
+2007;Outro;RO;4
+2007;Ign/Branco;AM;6
+2007;Medicamento;AM;0
+2007;AgrotÛxico agrÌcola;AM;0
+2007;AgrotÛxico domÈstico;AM;1
+2007;AgrotÛxico sa˙de p˙blica;AM;0
+2007;Raticida;AM;2
+2007;Prod. veterin·rio;AM;0
+2007;Prod. uso domiciliar;AM;12
+2007;CosmÈtico;AM;0
+2007;Prod. quÌmico;AM;0
+2007;Metal;AM;0
+2007;Drogas de abuso;AM;0
+2007;Planta tÛxica;AM;0
+2007;Alimento e bebida;AM;0
+2007;Outro;AM;2
+2007;Ign/Branco;RR;1
+2007;Medicamento;RR;8
+2007;AgrotÛxico agrÌcola;RR;0
+2007;AgrotÛxico domÈstico;RR;1
+2007;AgrotÛxico sa˙de p˙blica;RR;0
+2007;Raticida;RR;4
+2007;Prod. veterin·rio;RR;1
+2007;Prod. uso domiciliar;RR;4
+2007;CosmÈtico;RR;3
+2007;Prod. quÌmico;RR;2
+2007;Metal;RR;0
+2007;Drogas de abuso;RR;1
+2007;Planta tÛxica;RR;5
+2007;Alimento e bebida;RR;1
+2007;Outro;RR;6
+2007;Ign/Branco;PA;6
+2007;Medicamento;PA;0
+2007;AgrotÛxico agrÌcola;PA;6
+2007;AgrotÛxico domÈstico;PA;0
+2007;AgrotÛxico sa˙de p˙blica;PA;0
+2007;Raticida;PA;2
+2007;Prod. veterin·rio;PA;0
+2007;Prod. uso domiciliar;PA;0
+2007;CosmÈtico;PA;0
+2007;Prod. quÌmico;PA;0
+2007;Metal;PA;0
+2007;Drogas de abuso;PA;0
+2007;Planta tÛxica;PA;0
+2007;Alimento e bebida;PA;1
+2007;Outro;PA;0
+2007;Ign/Branco;TO;72
+2007;Medicamento;TO;61
+2007;AgrotÛxico agrÌcola;TO;12
+2007;AgrotÛxico domÈstico;TO;10
+2007;AgrotÛxico sa˙de p˙blica;TO;20
+2007;Raticida;TO;36
+2007;Prod. veterin·rio;TO;11
+2007;Prod. uso domiciliar;TO;15
+2007;CosmÈtico;TO;2
+2007;Prod. quÌmico;TO;7
+2007;Metal;TO;0
+2007;Drogas de abuso;TO;0
+2007;Planta tÛxica;TO;7
+2007;Alimento e bebida;TO;23
+2007;Outro;TO;9
+2007;Ign/Branco;MA;18
+2007;Medicamento;MA;10
+2007;AgrotÛxico agrÌcola;MA;8
+2007;AgrotÛxico domÈstico;MA;0
+2007;AgrotÛxico sa˙de p˙blica;MA;0
+2007;Raticida;MA;9
+2007;Prod. veterin·rio;MA;1
+2007;Prod. uso domiciliar;MA;2
+2007;CosmÈtico;MA;1
+2007;Prod. quÌmico;MA;2
+2007;Metal;MA;0
+2007;Drogas de abuso;MA;0
+2007;Planta tÛxica;MA;1
+2007;Alimento e bebida;MA;3
+2007;Outro;MA;4
+2007;Ign/Branco;PI;23
+2007;Medicamento;PI;20
+2007;AgrotÛxico agrÌcola;PI;24
+2007;AgrotÛxico domÈstico;PI;1
+2007;AgrotÛxico sa˙de p˙blica;PI;0
+2007;Raticida;PI;6
+2007;Prod. veterin·rio;PI;1
+2007;Prod. uso domiciliar;PI;6
+2007;CosmÈtico;PI;1
+2007;Prod. quÌmico;PI;1
+2007;Metal;PI;0
+2007;Drogas de abuso;PI;1
+2007;Planta tÛxica;PI;2
+2007;Alimento e bebida;PI;9
+2007;Outro;PI;4
+2007;Ign/Branco;CE;71
+2007;Medicamento;CE;179
+2007;AgrotÛxico agrÌcola;CE;81
+2007;AgrotÛxico domÈstico;CE;2
+2007;AgrotÛxico sa˙de p˙blica;CE;0
+2007;Raticida;CE;68
+2007;Prod. veterin·rio;CE;5
+2007;Prod. uso domiciliar;CE;38
+2007;CosmÈtico;CE;8
+2007;Prod. quÌmico;CE;18
+2007;Metal;CE;0
+2007;Drogas de abuso;CE;29
+2007;Planta tÛxica;CE;1
+2007;Alimento e bebida;CE;174
+2007;Outro;CE;7
+2007;Ign/Branco;RN;20
+2007;Medicamento;RN;7
+2007;AgrotÛxico agrÌcola;RN;0
+2007;AgrotÛxico domÈstico;RN;0
+2007;AgrotÛxico sa˙de p˙blica;RN;1
+2007;Raticida;RN;2
+2007;Prod. veterin·rio;RN;0
+2007;Prod. uso domiciliar;RN;1
+2007;CosmÈtico;RN;0
+2007;Prod. quÌmico;RN;2
+2007;Metal;RN;0
+2007;Drogas de abuso;RN;0
+2007;Planta tÛxica;RN;1
+2007;Alimento e bebida;RN;3
+2007;Outro;RN;0
+2007;Ign/Branco;PB;34
+2007;Medicamento;PB;6
+2007;AgrotÛxico agrÌcola;PB;0
+2007;AgrotÛxico domÈstico;PB;0
+2007;AgrotÛxico sa˙de p˙blica;PB;23
+2007;Raticida;PB;0
+2007;Prod. veterin·rio;PB;0
+2007;Prod. uso domiciliar;PB;0
+2007;CosmÈtico;PB;0
+2007;Prod. quÌmico;PB;0
+2007;Metal;PB;1
+2007;Drogas de abuso;PB;0
+2007;Planta tÛxica;PB;0
+2007;Alimento e bebida;PB;3
+2007;Outro;PB;0
+2007;Ign/Branco;PE;350
+2007;Medicamento;PE;882
+2007;AgrotÛxico agrÌcola;PE;271
+2007;AgrotÛxico domÈstico;PE;39
+2007;AgrotÛxico sa˙de p˙blica;PE;1
+2007;Raticida;PE;256
+2007;Prod. veterin·rio;PE;10
+2007;Prod. uso domiciliar;PE;128
+2007;CosmÈtico;PE;10
+2007;Prod. quÌmico;PE;89
+2007;Metal;PE;1
+2007;Drogas de abuso;PE;62
+2007;Planta tÛxica;PE;13
+2007;Alimento e bebida;PE;304
+2007;Outro;PE;107
+2007;Ign/Branco;AL;216
+2007;Medicamento;AL;80
+2007;AgrotÛxico agrÌcola;AL;49
+2007;AgrotÛxico domÈstico;AL;0
+2007;AgrotÛxico sa˙de p˙blica;AL;0
+2007;Raticida;AL;11
+2007;Prod. veterin·rio;AL;1
+2007;Prod. uso domiciliar;AL;31
+2007;CosmÈtico;AL;3
+2007;Prod. quÌmico;AL;7
+2007;Metal;AL;1
+2007;Drogas de abuso;AL;1
+2007;Planta tÛxica;AL;45
+2007;Alimento e bebida;AL;4
+2007;Outro;AL;21
+2007;Ign/Branco;SE;0
+2007;Medicamento;SE;0
+2007;AgrotÛxico agrÌcola;SE;1
+2007;AgrotÛxico domÈstico;SE;0
+2007;AgrotÛxico sa˙de p˙blica;SE;0
+2007;Raticida;SE;0
+2007;Prod. veterin·rio;SE;0
+2007;Prod. uso domiciliar;SE;0
+2007;CosmÈtico;SE;0
+2007;Prod. quÌmico;SE;0
+2007;Metal;SE;0
+2007;Drogas de abuso;SE;0
+2007;Planta tÛxica;SE;0
+2007;Alimento e bebida;SE;1
+2007;Outro;SE;0
+2007;Ign/Branco;BA;240
+2007;Medicamento;BA;95
+2007;AgrotÛxico agrÌcola;BA;89
+2007;AgrotÛxico domÈstico;BA;10
+2007;AgrotÛxico sa˙de p˙blica;BA;1
+2007;Raticida;BA;44
+2007;Prod. veterin·rio;BA;4
+2007;Prod. uso domiciliar;BA;19
+2007;CosmÈtico;BA;2
+2007;Prod. quÌmico;BA;12
+2007;Metal;BA;1
+2007;Drogas de abuso;BA;6
+2007;Planta tÛxica;BA;8
+2007;Alimento e bebida;BA;50
+2007;Outro;BA;10
+2007;Ign/Branco;MG;266
+2007;Medicamento;MG;1204
+2007;AgrotÛxico agrÌcola;MG;128
+2007;AgrotÛxico domÈstico;MG;37
+2007;AgrotÛxico sa˙de p˙blica;MG;28
+2007;Raticida;MG;188
+2007;Prod. veterin·rio;MG;41
+2007;Prod. uso domiciliar;MG;147
+2007;CosmÈtico;MG;37
+2007;Prod. quÌmico;MG;73
+2007;Metal;MG;6
+2007;Drogas de abuso;MG;73
+2007;Planta tÛxica;MG;36
+2007;Alimento e bebida;MG;323
+2007;Outro;MG;162
+2007;Ign/Branco;ES;74
+2007;Medicamento;ES;124
+2007;AgrotÛxico agrÌcola;ES;69
+2007;AgrotÛxico domÈstico;ES;5
+2007;AgrotÛxico sa˙de p˙blica;ES;2
+2007;Raticida;ES;35
+2007;Prod. veterin·rio;ES;0
+2007;Prod. uso domiciliar;ES;12
+2007;CosmÈtico;ES;1
+2007;Prod. quÌmico;ES;11
+2007;Metal;ES;0
+2007;Drogas de abuso;ES;39
+2007;Planta tÛxica;ES;14
+2007;Alimento e bebida;ES;205
+2007;Outro;ES;11
+2007;Ign/Branco;RJ;1696
+2007;Medicamento;RJ;130
+2007;AgrotÛxico agrÌcola;RJ;12
+2007;AgrotÛxico domÈstico;RJ;6
+2007;AgrotÛxico sa˙de p˙blica;RJ;3
+2007;Raticida;RJ;61
+2007;Prod. veterin·rio;RJ;1
+2007;Prod. uso domiciliar;RJ;26
+2007;CosmÈtico;RJ;1
+2007;Prod. quÌmico;RJ;14
+2007;Metal;RJ;0
+2007;Drogas de abuso;RJ;9
+2007;Planta tÛxica;RJ;2
+2007;Alimento e bebida;RJ;29
+2007;Outro;RJ;15
+2007;Ign/Branco;SP;580
+2007;Medicamento;SP;1583
+2007;AgrotÛxico agrÌcola;SP;224
+2007;AgrotÛxico domÈstico;SP;60
+2007;AgrotÛxico sa˙de p˙blica;SP;8
+2007;Raticida;SP;462
+2007;Prod. veterin·rio;SP;63
+2007;Prod. uso domiciliar;SP;335
+2007;CosmÈtico;SP;32
+2007;Prod. quÌmico;SP;191
+2007;Metal;SP;8
+2007;Drogas de abuso;SP;229
+2007;Planta tÛxica;SP;22
+2007;Alimento e bebida;SP;146
+2007;Outro;SP;130
+2007;Ign/Branco;PR;607
+2007;Medicamento;PR;3492
+2007;AgrotÛxico agrÌcola;PR;729
+2007;AgrotÛxico domÈstico;PR;183
+2007;AgrotÛxico sa˙de p˙blica;PR;7
+2007;Raticida;PR;541
+2007;Prod. veterin·rio;PR;108
+2007;Prod. uso domiciliar;PR;632
+2007;CosmÈtico;PR;66
+2007;Prod. quÌmico;PR;453
+2007;Metal;PR;34
+2007;Drogas de abuso;PR;464
+2007;Planta tÛxica;PR;102
+2007;Alimento e bebida;PR;498
+2007;Outro;PR;140
+2007;Ign/Branco;SC;401
+2007;Medicamento;SC;475
+2007;AgrotÛxico agrÌcola;SC;141
+2007;AgrotÛxico domÈstico;SC;19
+2007;AgrotÛxico sa˙de p˙blica;SC;1
+2007;Raticida;SC;71
+2007;Prod. veterin·rio;SC;12
+2007;Prod. uso domiciliar;SC;56
+2007;CosmÈtico;SC;10
+2007;Prod. quÌmico;SC;29
+2007;Metal;SC;3
+2007;Drogas de abuso;SC;64
+2007;Planta tÛxica;SC;11
+2007;Alimento e bebida;SC;49
+2007;Outro;SC;15
+2007;Ign/Branco;RS;40
+2007;Medicamento;RS;143
+2007;AgrotÛxico agrÌcola;RS;39
+2007;AgrotÛxico domÈstico;RS;10
+2007;AgrotÛxico sa˙de p˙blica;RS;0
+2007;Raticida;RS;16
+2007;Prod. veterin·rio;RS;4
+2007;Prod. uso domiciliar;RS;8
+2007;CosmÈtico;RS;2
+2007;Prod. quÌmico;RS;9
+2007;Metal;RS;0
+2007;Drogas de abuso;RS;10
+2007;Planta tÛxica;RS;1
+2007;Alimento e bebida;RS;28
+2007;Outro;RS;14
+2007;Ign/Branco;MS;52
+2007;Medicamento;MS;242
+2007;AgrotÛxico agrÌcola;MS;39
+2007;AgrotÛxico domÈstico;MS;13
+2007;AgrotÛxico sa˙de p˙blica;MS;10
+2007;Raticida;MS;50
+2007;Prod. veterin·rio;MS;26
+2007;Prod. uso domiciliar;MS;103
+2007;CosmÈtico;MS;4
+2007;Prod. quÌmico;MS;23
+2007;Metal;MS;1
+2007;Drogas de abuso;MS;16
+2007;Planta tÛxica;MS;26
+2007;Alimento e bebida;MS;17
+2007;Outro;MS;9
+2007;Ign/Branco;MT;64
+2007;Medicamento;MT;17
+2007;AgrotÛxico agrÌcola;MT;51
+2007;AgrotÛxico domÈstico;MT;6
+2007;AgrotÛxico sa˙de p˙blica;MT;1
+2007;Raticida;MT;7
+2007;Prod. veterin·rio;MT;4
+2007;Prod. uso domiciliar;MT;4
+2007;CosmÈtico;MT;1
+2007;Prod. quÌmico;MT;14
+2007;Metal;MT;0
+2007;Drogas de abuso;MT;0
+2007;Planta tÛxica;MT;2
+2007;Alimento e bebida;MT;4
+2007;Outro;MT;3
+2007;Ign/Branco;GO;171
+2007;Medicamento;GO;273
+2007;AgrotÛxico agrÌcola;GO;70
+2007;AgrotÛxico domÈstico;GO;25
+2007;AgrotÛxico sa˙de p˙blica;GO;3
+2007;Raticida;GO;102
+2007;Prod. veterin·rio;GO;26
+2007;Prod. uso domiciliar;GO;36
+2007;CosmÈtico;GO;6
+2007;Prod. quÌmico;GO;35
+2007;Metal;GO;2
+2007;Drogas de abuso;GO;9
+2007;Planta tÛxica;GO;10
+2007;Alimento e bebida;GO;86
+2007;Outro;GO;22
+2007;Ign/Branco;DF;0
+2007;Medicamento;DF;1
+2007;AgrotÛxico agrÌcola;DF;0
+2007;AgrotÛxico domÈstico;DF;0
+2007;AgrotÛxico sa˙de p˙blica;DF;0
+2007;Raticida;DF;0
+2007;Prod. veterin·rio;DF;0
+2007;Prod. uso domiciliar;DF;0
+2007;CosmÈtico;DF;0
+2007;Prod. quÌmico;DF;0
+2007;Metal;DF;0
+2007;Drogas de abuso;DF;0
+2007;Planta tÛxica;DF;0
+2007;Alimento e bebida;DF;0
+2007;Outro;DF;0
+2008;Ign/Branco;RO;26
+2008;Medicamento;RO;28
+2008;AgrotÛxico agrÌcola;RO;44
+2008;AgrotÛxico domÈstico;RO;6
+2008;AgrotÛxico sa˙de p˙blica;RO;1
+2008;Raticida;RO;16
+2008;Prod. veterin·rio;RO;7
+2008;Prod. uso domiciliar;RO;11
+2008;CosmÈtico;RO;2
+2008;Prod. quÌmico;RO;7
+2008;Metal;RO;0
+2008;Drogas de abuso;RO;0
+2008;Planta tÛxica;RO;1
+2008;Alimento e bebida;RO;23
+2008;Outro;RO;1
+2008;Ign/Branco;AM;5
+2008;Medicamento;AM;1
+2008;AgrotÛxico agrÌcola;AM;2
+2008;AgrotÛxico domÈstico;AM;0
+2008;AgrotÛxico sa˙de p˙blica;AM;0
+2008;Raticida;AM;2
+2008;Prod. veterin·rio;AM;0
+2008;Prod. uso domiciliar;AM;2
+2008;CosmÈtico;AM;0
+2008;Prod. quÌmico;AM;0
+2008;Metal;AM;0
+2008;Drogas de abuso;AM;0
+2008;Planta tÛxica;AM;0
+2008;Alimento e bebida;AM;0
+2008;Outro;AM;2
+2008;Ign/Branco;RR;3
+2008;Medicamento;RR;19
+2008;AgrotÛxico agrÌcola;RR;0
+2008;AgrotÛxico domÈstico;RR;0
+2008;AgrotÛxico sa˙de p˙blica;RR;0
+2008;Raticida;RR;2
+2008;Prod. veterin·rio;RR;1
+2008;Prod. uso domiciliar;RR;20
+2008;CosmÈtico;RR;5
+2008;Prod. quÌmico;RR;2
+2008;Metal;RR;0
+2008;Drogas de abuso;RR;3
+2008;Planta tÛxica;RR;5
+2008;Alimento e bebida;RR;31
+2008;Outro;RR;8
+2008;Ign/Branco;PA;29
+2008;Medicamento;PA;7
+2008;AgrotÛxico agrÌcola;PA;5
+2008;AgrotÛxico domÈstico;PA;2
+2008;AgrotÛxico sa˙de p˙blica;PA;1
+2008;Raticida;PA;14
+2008;Prod. veterin·rio;PA;0
+2008;Prod. uso domiciliar;PA;9
+2008;CosmÈtico;PA;0
+2008;Prod. quÌmico;PA;5
+2008;Metal;PA;0
+2008;Drogas de abuso;PA;2
+2008;Planta tÛxica;PA;0
+2008;Alimento e bebida;PA;10
+2008;Outro;PA;2
+2008;Ign/Branco;TO;99
+2008;Medicamento;TO;113
+2008;AgrotÛxico agrÌcola;TO;26
+2008;AgrotÛxico domÈstico;TO;14
+2008;AgrotÛxico sa˙de p˙blica;TO;13
+2008;Raticida;TO;67
+2008;Prod. veterin·rio;TO;26
+2008;Prod. uso domiciliar;TO;59
+2008;CosmÈtico;TO;6
+2008;Prod. quÌmico;TO;22
+2008;Metal;TO;1
+2008;Drogas de abuso;TO;12
+2008;Planta tÛxica;TO;13
+2008;Alimento e bebida;TO;137
+2008;Outro;TO;30
+2008;Ign/Branco;MA;7
+2008;Medicamento;MA;9
+2008;AgrotÛxico agrÌcola;MA;8
+2008;AgrotÛxico domÈstico;MA;2
+2008;AgrotÛxico sa˙de p˙blica;MA;1
+2008;Raticida;MA;20
+2008;Prod. veterin·rio;MA;3
+2008;Prod. uso domiciliar;MA;6
+2008;CosmÈtico;MA;0
+2008;Prod. quÌmico;MA;1
+2008;Metal;MA;0
+2008;Drogas de abuso;MA;1
+2008;Planta tÛxica;MA;1
+2008;Alimento e bebida;MA;1
+2008;Outro;MA;0
+2008;Ign/Branco;PI;96
+2008;Medicamento;PI;63
+2008;AgrotÛxico agrÌcola;PI;12
+2008;AgrotÛxico domÈstico;PI;6
+2008;AgrotÛxico sa˙de p˙blica;PI;0
+2008;Raticida;PI;10
+2008;Prod. veterin·rio;PI;3
+2008;Prod. uso domiciliar;PI;7
+2008;CosmÈtico;PI;3
+2008;Prod. quÌmico;PI;4
+2008;Metal;PI;0
+2008;Drogas de abuso;PI;12
+2008;Planta tÛxica;PI;4
+2008;Alimento e bebida;PI;42
+2008;Outro;PI;6
+2008;Ign/Branco;CE;114
+2008;Medicamento;CE;222
+2008;AgrotÛxico agrÌcola;CE;42
+2008;AgrotÛxico domÈstico;CE;8
+2008;AgrotÛxico sa˙de p˙blica;CE;1
+2008;Raticida;CE;61
+2008;Prod. veterin·rio;CE;8
+2008;Prod. uso domiciliar;CE;26
+2008;CosmÈtico;CE;8
+2008;Prod. quÌmico;CE;12
+2008;Metal;CE;0
+2008;Drogas de abuso;CE;57
+2008;Planta tÛxica;CE;7
+2008;Alimento e bebida;CE;104
+2008;Outro;CE;11
+2008;Ign/Branco;RN;28
+2008;Medicamento;RN;6
+2008;AgrotÛxico agrÌcola;RN;10
+2008;AgrotÛxico domÈstico;RN;9
+2008;AgrotÛxico sa˙de p˙blica;RN;0
+2008;Raticida;RN;2
+2008;Prod. veterin·rio;RN;1
+2008;Prod. uso domiciliar;RN;2
+2008;CosmÈtico;RN;0
+2008;Prod. quÌmico;RN;2
+2008;Metal;RN;0
+2008;Drogas de abuso;RN;0
+2008;Planta tÛxica;RN;1
+2008;Alimento e bebida;RN;13
+2008;Outro;RN;0
+2008;Ign/Branco;PB;11
+2008;Medicamento;PB;7
+2008;AgrotÛxico agrÌcola;PB;4
+2008;AgrotÛxico domÈstico;PB;0
+2008;AgrotÛxico sa˙de p˙blica;PB;16
+2008;Raticida;PB;1
+2008;Prod. veterin·rio;PB;1
+2008;Prod. uso domiciliar;PB;3
+2008;CosmÈtico;PB;0
+2008;Prod. quÌmico;PB;1
+2008;Metal;PB;0
+2008;Drogas de abuso;PB;1
+2008;Planta tÛxica;PB;0
+2008;Alimento e bebida;PB;9
+2008;Outro;PB;3
+2008;Ign/Branco;PE;467
+2008;Medicamento;PE;1141
+2008;AgrotÛxico agrÌcola;PE;314
+2008;AgrotÛxico domÈstico;PE;39
+2008;AgrotÛxico sa˙de p˙blica;PE;0
+2008;Raticida;PE;266
+2008;Prod. veterin·rio;PE;19
+2008;Prod. uso domiciliar;PE;211
+2008;CosmÈtico;PE;17
+2008;Prod. quÌmico;PE;98
+2008;Metal;PE;1
+2008;Drogas de abuso;PE;113
+2008;Planta tÛxica;PE;27
+2008;Alimento e bebida;PE;615
+2008;Outro;PE;118
+2008;Ign/Branco;AL;372
+2008;Medicamento;AL;579
+2008;AgrotÛxico agrÌcola;AL;134
+2008;AgrotÛxico domÈstico;AL;41
+2008;AgrotÛxico sa˙de p˙blica;AL;1
+2008;Raticida;AL;52
+2008;Prod. veterin·rio;AL;30
+2008;Prod. uso domiciliar;AL;156
+2008;CosmÈtico;AL;8
+2008;Prod. quÌmico;AL;14
+2008;Metal;AL;0
+2008;Drogas de abuso;AL;5
+2008;Planta tÛxica;AL;46
+2008;Alimento e bebida;AL;161
+2008;Outro;AL;175
+2008;Ign/Branco;SE;2
+2008;Medicamento;SE;0
+2008;AgrotÛxico agrÌcola;SE;1
+2008;AgrotÛxico domÈstico;SE;0
+2008;AgrotÛxico sa˙de p˙blica;SE;0
+2008;Raticida;SE;0
+2008;Prod. veterin·rio;SE;0
+2008;Prod. uso domiciliar;SE;0
+2008;CosmÈtico;SE;0
+2008;Prod. quÌmico;SE;0
+2008;Metal;SE;0
+2008;Drogas de abuso;SE;0
+2008;Planta tÛxica;SE;0
+2008;Alimento e bebida;SE;0
+2008;Outro;SE;0
+2008;Ign/Branco;BA;232
+2008;Medicamento;BA;173
+2008;AgrotÛxico agrÌcola;BA;64
+2008;AgrotÛxico domÈstico;BA;10
+2008;AgrotÛxico sa˙de p˙blica;BA;3
+2008;Raticida;BA;67
+2008;Prod. veterin·rio;BA;5
+2008;Prod. uso domiciliar;BA;41
+2008;CosmÈtico;BA;2
+2008;Prod. quÌmico;BA;24
+2008;Metal;BA;4
+2008;Drogas de abuso;BA;27
+2008;Planta tÛxica;BA;26
+2008;Alimento e bebida;BA;115
+2008;Outro;BA;12
+2008;Ign/Branco;MG;396
+2008;Medicamento;MG;1915
+2008;AgrotÛxico agrÌcola;MG;181
+2008;AgrotÛxico domÈstico;MG;46
+2008;AgrotÛxico sa˙de p˙blica;MG;9
+2008;Raticida;MG;323
+2008;Prod. veterin·rio;MG;70
+2008;Prod. uso domiciliar;MG;248
+2008;CosmÈtico;MG;62
+2008;Prod. quÌmico;MG;116
+2008;Metal;MG;94
+2008;Drogas de abuso;MG;123
+2008;Planta tÛxica;MG;62
+2008;Alimento e bebida;MG;741
+2008;Outro;MG;337
+2008;Ign/Branco;ES;102
+2008;Medicamento;ES;255
+2008;AgrotÛxico agrÌcola;ES;88
+2008;AgrotÛxico domÈstico;ES;11
+2008;AgrotÛxico sa˙de p˙blica;ES;2
+2008;Raticida;ES;31
+2008;Prod. veterin·rio;ES;5
+2008;Prod. uso domiciliar;ES;29
+2008;CosmÈtico;ES;5
+2008;Prod. quÌmico;ES;19
+2008;Metal;ES;1
+2008;Drogas de abuso;ES;19
+2008;Planta tÛxica;ES;5
+2008;Alimento e bebida;ES;202
+2008;Outro;ES;12
+2008;Ign/Branco;RJ;1183
+2008;Medicamento;RJ;296
+2008;AgrotÛxico agrÌcola;RJ;51
+2008;AgrotÛxico domÈstico;RJ;14
+2008;AgrotÛxico sa˙de p˙blica;RJ;24
+2008;Raticida;RJ;94
+2008;Prod. veterin·rio;RJ;3
+2008;Prod. uso domiciliar;RJ;163
+2008;CosmÈtico;RJ;13
+2008;Prod. quÌmico;RJ;50
+2008;Metal;RJ;9
+2008;Drogas de abuso;RJ;35
+2008;Planta tÛxica;RJ;4
+2008;Alimento e bebida;RJ;40
+2008;Outro;RJ;61
+2008;Ign/Branco;SP;757
+2008;Medicamento;SP;2517
+2008;AgrotÛxico agrÌcola;SP;307
+2008;AgrotÛxico domÈstico;SP;87
+2008;AgrotÛxico sa˙de p˙blica;SP;13
+2008;Raticida;SP;641
+2008;Prod. veterin·rio;SP;64
+2008;Prod. uso domiciliar;SP;412
+2008;CosmÈtico;SP;36
+2008;Prod. quÌmico;SP;231
+2008;Metal;SP;15
+2008;Drogas de abuso;SP;660
+2008;Planta tÛxica;SP;37
+2008;Alimento e bebida;SP;199
+2008;Outro;SP;206
+2008;Ign/Branco;PR;448
+2008;Medicamento;PR;3254
+2008;AgrotÛxico agrÌcola;PR;652
+2008;AgrotÛxico domÈstico;PR;162
+2008;AgrotÛxico sa˙de p˙blica;PR;5
+2008;Raticida;PR;466
+2008;Prod. veterin·rio;PR;96
+2008;Prod. uso domiciliar;PR;528
+2008;CosmÈtico;PR;60
+2008;Prod. quÌmico;PR;385
+2008;Metal;PR;28
+2008;Drogas de abuso;PR;548
+2008;Planta tÛxica;PR;123
+2008;Alimento e bebida;PR;360
+2008;Outro;PR;122
+2008;Ign/Branco;SC;138
+2008;Medicamento;SC;806
+2008;AgrotÛxico agrÌcola;SC;227
+2008;AgrotÛxico domÈstico;SC;32
+2008;AgrotÛxico sa˙de p˙blica;SC;4
+2008;Raticida;SC;107
+2008;Prod. veterin·rio;SC;32
+2008;Prod. uso domiciliar;SC;84
+2008;CosmÈtico;SC;6
+2008;Prod. quÌmico;SC;70
+2008;Metal;SC;0
+2008;Drogas de abuso;SC;73
+2008;Planta tÛxica;SC;13
+2008;Alimento e bebida;SC;40
+2008;Outro;SC;37
+2008;Ign/Branco;RS;52
+2008;Medicamento;RS;141
+2008;AgrotÛxico agrÌcola;RS;50
+2008;AgrotÛxico domÈstico;RS;9
+2008;AgrotÛxico sa˙de p˙blica;RS;0
+2008;Raticida;RS;8
+2008;Prod. veterin·rio;RS;10
+2008;Prod. uso domiciliar;RS;14
+2008;CosmÈtico;RS;0
+2008;Prod. quÌmico;RS;8
+2008;Metal;RS;0
+2008;Drogas de abuso;RS;12
+2008;Planta tÛxica;RS;2
+2008;Alimento e bebida;RS;27
+2008;Outro;RS;6
+2008;Ign/Branco;MS;52
+2008;Medicamento;MS;283
+2008;AgrotÛxico agrÌcola;MS;56
+2008;AgrotÛxico domÈstico;MS;20
+2008;AgrotÛxico sa˙de p˙blica;MS;6
+2008;Raticida;MS;42
+2008;Prod. veterin·rio;MS;13
+2008;Prod. uso domiciliar;MS;58
+2008;CosmÈtico;MS;4
+2008;Prod. quÌmico;MS;40
+2008;Metal;MS;3
+2008;Drogas de abuso;MS;109
+2008;Planta tÛxica;MS;13
+2008;Alimento e bebida;MS;59
+2008;Outro;MS;38
+2008;Ign/Branco;MT;122
+2008;Medicamento;MT;154
+2008;AgrotÛxico agrÌcola;MT;115
+2008;AgrotÛxico domÈstico;MT;12
+2008;AgrotÛxico sa˙de p˙blica;MT;4
+2008;Raticida;MT;33
+2008;Prod. veterin·rio;MT;12
+2008;Prod. uso domiciliar;MT;43
+2008;CosmÈtico;MT;0
+2008;Prod. quÌmico;MT;39
+2008;Metal;MT;0
+2008;Drogas de abuso;MT;9
+2008;Planta tÛxica;MT;13
+2008;Alimento e bebida;MT;38
+2008;Outro;MT;20
+2008;Ign/Branco;GO;129
+2008;Medicamento;GO;285
+2008;AgrotÛxico agrÌcola;GO;99
+2008;AgrotÛxico domÈstico;GO;19
+2008;AgrotÛxico sa˙de p˙blica;GO;1
+2008;Raticida;GO;92
+2008;Prod. veterin·rio;GO;36
+2008;Prod. uso domiciliar;GO;42
+2008;CosmÈtico;GO;7
+2008;Prod. quÌmico;GO;41
+2008;Metal;GO;0
+2008;Drogas de abuso;GO;17
+2008;Planta tÛxica;GO;8
+2008;Alimento e bebida;GO;62
+2008;Outro;GO;10
+2008;Ign/Branco;DF;15
+2008;Medicamento;DF;1
+2008;AgrotÛxico agrÌcola;DF;1
+2008;AgrotÛxico domÈstico;DF;7
+2008;AgrotÛxico sa˙de p˙blica;DF;0
+2008;Raticida;DF;0
+2008;Prod. veterin·rio;DF;0
+2008;Prod. uso domiciliar;DF;0
+2008;CosmÈtico;DF;0
+2008;Prod. quÌmico;DF;2
+2008;Metal;DF;0
+2008;Drogas de abuso;DF;0
+2008;Planta tÛxica;DF;0
+2008;Alimento e bebida;DF;0
+2008;Outro;DF;0
+2009;Ign/Branco;RO;56
+2009;Medicamento;RO;45
+2009;AgrotÛxico agrÌcola;RO;38
+2009;AgrotÛxico domÈstico;RO;7
+2009;AgrotÛxico sa˙de p˙blica;RO;0
+2009;Raticida;RO;13
+2009;Prod. veterin·rio;RO;6
+2009;Prod. uso domiciliar;RO;12
+2009;CosmÈtico;RO;0
+2009;Prod. quÌmico;RO;34
+2009;Metal;RO;0
+2009;Drogas de abuso;RO;2
+2009;Planta tÛxica;RO;5
+2009;Alimento e bebida;RO;13
+2009;Outro;RO;4
+2009;Ign/Branco;AM;1
+2009;Medicamento;AM;1
+2009;AgrotÛxico agrÌcola;AM;0
+2009;AgrotÛxico domÈstico;AM;2
+2009;AgrotÛxico sa˙de p˙blica;AM;0
+2009;Raticida;AM;3
+2009;Prod. veterin·rio;AM;0
+2009;Prod. uso domiciliar;AM;2
+2009;CosmÈtico;AM;0
+2009;Prod. quÌmico;AM;1
+2009;Metal;AM;0
+2009;Drogas de abuso;AM;0
+2009;Planta tÛxica;AM;0
+2009;Alimento e bebida;AM;0
+2009;Outro;AM;2
+2009;Ign/Branco;RR;17
+2009;Medicamento;RR;29
+2009;AgrotÛxico agrÌcola;RR;0
+2009;AgrotÛxico domÈstico;RR;3
+2009;AgrotÛxico sa˙de p˙blica;RR;0
+2009;Raticida;RR;12
+2009;Prod. veterin·rio;RR;1
+2009;Prod. uso domiciliar;RR;21
+2009;CosmÈtico;RR;7
+2009;Prod. quÌmico;RR;12
+2009;Metal;RR;0
+2009;Drogas de abuso;RR;0
+2009;Planta tÛxica;RR;3
+2009;Alimento e bebida;RR;43
+2009;Outro;RR;11
+2009;Ign/Branco;PA;13
+2009;Medicamento;PA;7
+2009;AgrotÛxico agrÌcola;PA;1
+2009;AgrotÛxico domÈstico;PA;3
+2009;AgrotÛxico sa˙de p˙blica;PA;0
+2009;Raticida;PA;20
+2009;Prod. veterin·rio;PA;0
+2009;Prod. uso domiciliar;PA;5
+2009;CosmÈtico;PA;0
+2009;Prod. quÌmico;PA;1
+2009;Metal;PA;0
+2009;Drogas de abuso;PA;1
+2009;Planta tÛxica;PA;3
+2009;Alimento e bebida;PA;11
+2009;Outro;PA;2
+2009;Ign/Branco;TO;75
+2009;Medicamento;TO;196
+2009;AgrotÛxico agrÌcola;TO;40
+2009;AgrotÛxico domÈstico;TO;32
+2009;AgrotÛxico sa˙de p˙blica;TO;31
+2009;Raticida;TO;62
+2009;Prod. veterin·rio;TO;18
+2009;Prod. uso domiciliar;TO;65
+2009;CosmÈtico;TO;14
+2009;Prod. quÌmico;TO;36
+2009;Metal;TO;2
+2009;Drogas de abuso;TO;12
+2009;Planta tÛxica;TO;26
+2009;Alimento e bebida;TO;191
+2009;Outro;TO;26
+2009;Ign/Branco;MA;15
+2009;Medicamento;MA;25
+2009;AgrotÛxico agrÌcola;MA;16
+2009;AgrotÛxico domÈstico;MA;1
+2009;AgrotÛxico sa˙de p˙blica;MA;0
+2009;Raticida;MA;32
+2009;Prod. veterin·rio;MA;4
+2009;Prod. uso domiciliar;MA;15
+2009;CosmÈtico;MA;4
+2009;Prod. quÌmico;MA;2
+2009;Metal;MA;1
+2009;Drogas de abuso;MA;2
+2009;Planta tÛxica;MA;1
+2009;Alimento e bebida;MA;5
+2009;Outro;MA;2
+2009;Ign/Branco;PI;81
+2009;Medicamento;PI;114
+2009;AgrotÛxico agrÌcola;PI;16
+2009;AgrotÛxico domÈstico;PI;6
+2009;AgrotÛxico sa˙de p˙blica;PI;7
+2009;Raticida;PI;13
+2009;Prod. veterin·rio;PI;5
+2009;Prod. uso domiciliar;PI;12
+2009;CosmÈtico;PI;5
+2009;Prod. quÌmico;PI;6
+2009;Metal;PI;0
+2009;Drogas de abuso;PI;6
+2009;Planta tÛxica;PI;3
+2009;Alimento e bebida;PI;32
+2009;Outro;PI;13
+2009;Ign/Branco;CE;108
+2009;Medicamento;CE;364
+2009;AgrotÛxico agrÌcola;CE;120
+2009;AgrotÛxico domÈstico;CE;22
+2009;AgrotÛxico sa˙de p˙blica;CE;2
+2009;Raticida;CE;72
+2009;Prod. veterin·rio;CE;16
+2009;Prod. uso domiciliar;CE;43
+2009;CosmÈtico;CE;8
+2009;Prod. quÌmico;CE;32
+2009;Metal;CE;0
+2009;Drogas de abuso;CE;35
+2009;Planta tÛxica;CE;5
+2009;Alimento e bebida;CE;204
+2009;Outro;CE;24
+2009;Ign/Branco;RN;69
+2009;Medicamento;RN;11
+2009;AgrotÛxico agrÌcola;RN;8
+2009;AgrotÛxico domÈstico;RN;1
+2009;AgrotÛxico sa˙de p˙blica;RN;2
+2009;Raticida;RN;4
+2009;Prod. veterin·rio;RN;1
+2009;Prod. uso domiciliar;RN;6
+2009;CosmÈtico;RN;1
+2009;Prod. quÌmico;RN;7
+2009;Metal;RN;2
+2009;Drogas de abuso;RN;2
+2009;Planta tÛxica;RN;2
+2009;Alimento e bebida;RN;43
+2009;Outro;RN;5
+2009;Ign/Branco;PB;21
+2009;Medicamento;PB;15
+2009;AgrotÛxico agrÌcola;PB;1
+2009;AgrotÛxico domÈstico;PB;1
+2009;AgrotÛxico sa˙de p˙blica;PB;1
+2009;Raticida;PB;4
+2009;Prod. veterin·rio;PB;1
+2009;Prod. uso domiciliar;PB;0
+2009;CosmÈtico;PB;0
+2009;Prod. quÌmico;PB;1
+2009;Metal;PB;1
+2009;Drogas de abuso;PB;1
+2009;Planta tÛxica;PB;0
+2009;Alimento e bebida;PB;3
+2009;Outro;PB;0
+2009;Ign/Branco;PE;500
+2009;Medicamento;PE;1300
+2009;AgrotÛxico agrÌcola;PE;160
+2009;AgrotÛxico domÈstico;PE;85
+2009;AgrotÛxico sa˙de p˙blica;PE;3
+2009;Raticida;PE;238
+2009;Prod. veterin·rio;PE;22
+2009;Prod. uso domiciliar;PE;219
+2009;CosmÈtico;PE;36
+2009;Prod. quÌmico;PE;96
+2009;Metal;PE;4
+2009;Drogas de abuso;PE;183
+2009;Planta tÛxica;PE;32
+2009;Alimento e bebida;PE;867
+2009;Outro;PE;127
+2009;Ign/Branco;AL;206
+2009;Medicamento;AL;477
+2009;AgrotÛxico agrÌcola;AL;97
+2009;AgrotÛxico domÈstico;AL;32
+2009;AgrotÛxico sa˙de p˙blica;AL;7
+2009;Raticida;AL;42
+2009;Prod. veterin·rio;AL;14
+2009;Prod. uso domiciliar;AL;108
+2009;CosmÈtico;AL;13
+2009;Prod. quÌmico;AL;16
+2009;Metal;AL;0
+2009;Drogas de abuso;AL;0
+2009;Planta tÛxica;AL;102
+2009;Alimento e bebida;AL;98
+2009;Outro;AL;67
+2009;Ign/Branco;SE;12
+2009;Medicamento;SE;2
+2009;AgrotÛxico agrÌcola;SE;1
+2009;AgrotÛxico domÈstico;SE;1
+2009;AgrotÛxico sa˙de p˙blica;SE;0
+2009;Raticida;SE;0
+2009;Prod. veterin·rio;SE;0
+2009;Prod. uso domiciliar;SE;0
+2009;CosmÈtico;SE;0
+2009;Prod. quÌmico;SE;1
+2009;Metal;SE;0
+2009;Drogas de abuso;SE;0
+2009;Planta tÛxica;SE;0
+2009;Alimento e bebida;SE;2
+2009;Outro;SE;0
+2009;Ign/Branco;BA;332
+2009;Medicamento;BA;282
+2009;AgrotÛxico agrÌcola;BA;88
+2009;AgrotÛxico domÈstico;BA;14
+2009;AgrotÛxico sa˙de p˙blica;BA;27
+2009;Raticida;BA;98
+2009;Prod. veterin·rio;BA;15
+2009;Prod. uso domiciliar;BA;76
+2009;CosmÈtico;BA;6
+2009;Prod. quÌmico;BA;36
+2009;Metal;BA;4
+2009;Drogas de abuso;BA;50
+2009;Planta tÛxica;BA;18
+2009;Alimento e bebida;BA;174
+2009;Outro;BA;21
+2009;Ign/Branco;MG;676
+2009;Medicamento;MG;3098
+2009;AgrotÛxico agrÌcola;MG;271
+2009;AgrotÛxico domÈstico;MG;82
+2009;AgrotÛxico sa˙de p˙blica;MG;21
+2009;Raticida;MG;568
+2009;Prod. veterin·rio;MG;96
+2009;Prod. uso domiciliar;MG;353
+2009;CosmÈtico;MG;100
+2009;Prod. quÌmico;MG;213
+2009;Metal;MG;10
+2009;Drogas de abuso;MG;297
+2009;Planta tÛxica;MG;76
+2009;Alimento e bebida;MG;1145
+2009;Outro;MG;307
+2009;Ign/Branco;ES;115
+2009;Medicamento;ES;265
+2009;AgrotÛxico agrÌcola;ES;117
+2009;AgrotÛxico domÈstico;ES;25
+2009;AgrotÛxico sa˙de p˙blica;ES;0
+2009;Raticida;ES;45
+2009;Prod. veterin·rio;ES;3
+2009;Prod. uso domiciliar;ES;41
+2009;CosmÈtico;ES;3
+2009;Prod. quÌmico;ES;22
+2009;Metal;ES;1
+2009;Drogas de abuso;ES;16
+2009;Planta tÛxica;ES;7
+2009;Alimento e bebida;ES;235
+2009;Outro;ES;13
+2009;Ign/Branco;RJ;1224
+2009;Medicamento;RJ;381
+2009;AgrotÛxico agrÌcola;RJ;63
+2009;AgrotÛxico domÈstico;RJ;8
+2009;AgrotÛxico sa˙de p˙blica;RJ;14
+2009;Raticida;RJ;121
+2009;Prod. veterin·rio;RJ;6
+2009;Prod. uso domiciliar;RJ;101
+2009;CosmÈtico;RJ;10
+2009;Prod. quÌmico;RJ;45
+2009;Metal;RJ;7
+2009;Drogas de abuso;RJ;92
+2009;Planta tÛxica;RJ;3
+2009;Alimento e bebida;RJ;83
+2009;Outro;RJ;24
+2009;Ign/Branco;SP;1069
+2009;Medicamento;SP;3514
+2009;AgrotÛxico agrÌcola;SP;388
+2009;AgrotÛxico domÈstico;SP;129
+2009;AgrotÛxico sa˙de p˙blica;SP;13
+2009;Raticida;SP;730
+2009;Prod. veterin·rio;SP;88
+2009;Prod. uso domiciliar;SP;511
+2009;CosmÈtico;SP;58
+2009;Prod. quÌmico;SP;329
+2009;Metal;SP;30
+2009;Drogas de abuso;SP;1183
+2009;Planta tÛxica;SP;40
+2009;Alimento e bebida;SP;498
+2009;Outro;SP;158
+2009;Ign/Branco;PR;798
+2009;Medicamento;PR;3149
+2009;AgrotÛxico agrÌcola;PR;635
+2009;AgrotÛxico domÈstico;PR;152
+2009;AgrotÛxico sa˙de p˙blica;PR;7
+2009;Raticida;PR;418
+2009;Prod. veterin·rio;PR;90
+2009;Prod. uso domiciliar;PR;512
+2009;CosmÈtico;PR;42
+2009;Prod. quÌmico;PR;353
+2009;Metal;PR;17
+2009;Drogas de abuso;PR;694
+2009;Planta tÛxica;PR;75
+2009;Alimento e bebida;PR;211
+2009;Outro;PR;120
+2009;Ign/Branco;SC;161
+2009;Medicamento;SC;1009
+2009;AgrotÛxico agrÌcola;SC;247
+2009;AgrotÛxico domÈstico;SC;53
+2009;AgrotÛxico sa˙de p˙blica;SC;3
+2009;Raticida;SC;95
+2009;Prod. veterin·rio;SC;13
+2009;Prod. uso domiciliar;SC;92
+2009;CosmÈtico;SC;14
+2009;Prod. quÌmico;SC;72
+2009;Metal;SC;7
+2009;Drogas de abuso;SC;91
+2009;Planta tÛxica;SC;27
+2009;Alimento e bebida;SC;97
+2009;Outro;SC;49
+2009;Ign/Branco;RS;42
+2009;Medicamento;RS;178
+2009;AgrotÛxico agrÌcola;RS;89
+2009;AgrotÛxico domÈstico;RS;11
+2009;AgrotÛxico sa˙de p˙blica;RS;1
+2009;Raticida;RS;20
+2009;Prod. veterin·rio;RS;6
+2009;Prod. uso domiciliar;RS;9
+2009;CosmÈtico;RS;2
+2009;Prod. quÌmico;RS;6
+2009;Metal;RS;0
+2009;Drogas de abuso;RS;18
+2009;Planta tÛxica;RS;9
+2009;Alimento e bebida;RS;26
+2009;Outro;RS;8
+2009;Ign/Branco;MS;80
+2009;Medicamento;MS;292
+2009;AgrotÛxico agrÌcola;MS;52
+2009;AgrotÛxico domÈstico;MS;30
+2009;AgrotÛxico sa˙de p˙blica;MS;13
+2009;Raticida;MS;49
+2009;Prod. veterin·rio;MS;14
+2009;Prod. uso domiciliar;MS;55
+2009;CosmÈtico;MS;2
+2009;Prod. quÌmico;MS;29
+2009;Metal;MS;6
+2009;Drogas de abuso;MS;121
+2009;Planta tÛxica;MS;14
+2009;Alimento e bebida;MS;101
+2009;Outro;MS;24
+2009;Ign/Branco;MT;73
+2009;Medicamento;MT;130
+2009;AgrotÛxico agrÌcola;MT;100
+2009;AgrotÛxico domÈstico;MT;29
+2009;AgrotÛxico sa˙de p˙blica;MT;5
+2009;Raticida;MT;37
+2009;Prod. veterin·rio;MT;17
+2009;Prod. uso domiciliar;MT;40
+2009;CosmÈtico;MT;2
+2009;Prod. quÌmico;MT;36
+2009;Metal;MT;1
+2009;Drogas de abuso;MT;23
+2009;Planta tÛxica;MT;12
+2009;Alimento e bebida;MT;87
+2009;Outro;MT;13
+2009;Ign/Branco;GO;333
+2009;Medicamento;GO;420
+2009;AgrotÛxico agrÌcola;GO;170
+2009;AgrotÛxico domÈstico;GO;36
+2009;AgrotÛxico sa˙de p˙blica;GO;6
+2009;Raticida;GO;141
+2009;Prod. veterin·rio;GO;36
+2009;Prod. uso domiciliar;GO;71
+2009;CosmÈtico;GO;19
+2009;Prod. quÌmico;GO;71
+2009;Metal;GO;1
+2009;Drogas de abuso;GO;232
+2009;Planta tÛxica;GO;34
+2009;Alimento e bebida;GO;225
+2009;Outro;GO;39
+2009;Ign/Branco;DF;14
+2009;Medicamento;DF;5
+2009;AgrotÛxico agrÌcola;DF;20
+2009;AgrotÛxico domÈstico;DF;0
+2009;AgrotÛxico sa˙de p˙blica;DF;0
+2009;Raticida;DF;2
+2009;Prod. veterin·rio;DF;0
+2009;Prod. uso domiciliar;DF;1
+2009;CosmÈtico;DF;0
+2009;Prod. quÌmico;DF;4
+2009;Metal;DF;0
+2009;Drogas de abuso;DF;0
+2009;Planta tÛxica;DF;2
+2009;Alimento e bebida;DF;1
+2009;Outro;DF;1
+2010;Ign/Branco;RO;31
+2010;Medicamento;RO;25
+2010;AgrotÛxico agrÌcola;RO;53
+2010;AgrotÛxico domÈstico;RO;6
+2010;AgrotÛxico sa˙de p˙blica;RO;1
+2010;Raticida;RO;17
+2010;Prod. veterin·rio;RO;12
+2010;Prod. uso domiciliar;RO;20
+2010;CosmÈtico;RO;1
+2010;Prod. quÌmico;RO;8
+2010;Metal;RO;0
+2010;Drogas de abuso;RO;1
+2010;Planta tÛxica;RO;2
+2010;Alimento e bebida;RO;14
+2010;Outro;RO;4
+2010;Ign/Branco;AC;1
+2010;Medicamento;AC;1
+2010;AgrotÛxico agrÌcola;AC;0
+2010;AgrotÛxico domÈstico;AC;0
+2010;AgrotÛxico sa˙de p˙blica;AC;0
+2010;Raticida;AC;0
+2010;Prod. veterin·rio;AC;0
+2010;Prod. uso domiciliar;AC;0
+2010;CosmÈtico;AC;0
+2010;Prod. quÌmico;AC;0
+2010;Metal;AC;0
+2010;Drogas de abuso;AC;0
+2010;Planta tÛxica;AC;0
+2010;Alimento e bebida;AC;3
+2010;Outro;AC;0
+2010;Ign/Branco;AM;32
+2010;Medicamento;AM;20
+2010;AgrotÛxico agrÌcola;AM;6
+2010;AgrotÛxico domÈstico;AM;3
+2010;AgrotÛxico sa˙de p˙blica;AM;0
+2010;Raticida;AM;8
+2010;Prod. veterin·rio;AM;2
+2010;Prod. uso domiciliar;AM;3
+2010;CosmÈtico;AM;1
+2010;Prod. quÌmico;AM;18
+2010;Metal;AM;0
+2010;Drogas de abuso;AM;32
+2010;Planta tÛxica;AM;5
+2010;Alimento e bebida;AM;30
+2010;Outro;AM;6
+2010;Ign/Branco;RR;3
+2010;Medicamento;RR;20
+2010;AgrotÛxico agrÌcola;RR;0
+2010;AgrotÛxico domÈstico;RR;2
+2010;AgrotÛxico sa˙de p˙blica;RR;0
+2010;Raticida;RR;8
+2010;Prod. veterin·rio;RR;2
+2010;Prod. uso domiciliar;RR;18
+2010;CosmÈtico;RR;7
+2010;Prod. quÌmico;RR;14
+2010;Metal;RR;0
+2010;Drogas de abuso;RR;1
+2010;Planta tÛxica;RR;7
+2010;Alimento e bebida;RR;29
+2010;Outro;RR;10
+2010;Ign/Branco;PA;15
+2010;Medicamento;PA;14
+2010;AgrotÛxico agrÌcola;PA;7
+2010;AgrotÛxico domÈstico;PA;3
+2010;AgrotÛxico sa˙de p˙blica;PA;0
+2010;Raticida;PA;17
+2010;Prod. veterin·rio;PA;2
+2010;Prod. uso domiciliar;PA;5
+2010;CosmÈtico;PA;1
+2010;Prod. quÌmico;PA;2
+2010;Metal;PA;0
+2010;Drogas de abuso;PA;1
+2010;Planta tÛxica;PA;3
+2010;Alimento e bebida;PA;16
+2010;Outro;PA;3
+2010;Ign/Branco;TO;89
+2010;Medicamento;TO;237
+2010;AgrotÛxico agrÌcola;TO;63
+2010;AgrotÛxico domÈstico;TO;41
+2010;AgrotÛxico sa˙de p˙blica;TO;7
+2010;Raticida;TO;84
+2010;Prod. veterin·rio;TO;19
+2010;Prod. uso domiciliar;TO;79
+2010;CosmÈtico;TO;8
+2010;Prod. quÌmico;TO;41
+2010;Metal;TO;1
+2010;Drogas de abuso;TO;24
+2010;Planta tÛxica;TO;17
+2010;Alimento e bebida;TO;256
+2010;Outro;TO;38
+2010;Ign/Branco;MA;34
+2010;Medicamento;MA;39
+2010;AgrotÛxico agrÌcola;MA;14
+2010;AgrotÛxico domÈstico;MA;3
+2010;AgrotÛxico sa˙de p˙blica;MA;3
+2010;Raticida;MA;27
+2010;Prod. veterin·rio;MA;2
+2010;Prod. uso domiciliar;MA;27
+2010;CosmÈtico;MA;4
+2010;Prod. quÌmico;MA;5
+2010;Metal;MA;0
+2010;Drogas de abuso;MA;1
+2010;Planta tÛxica;MA;1
+2010;Alimento e bebida;MA;8
+2010;Outro;MA;0
+2010;Ign/Branco;PI;54
+2010;Medicamento;PI;126
+2010;AgrotÛxico agrÌcola;PI;20
+2010;AgrotÛxico domÈstico;PI;6
+2010;AgrotÛxico sa˙de p˙blica;PI;1
+2010;Raticida;PI;20
+2010;Prod. veterin·rio;PI;2
+2010;Prod. uso domiciliar;PI;33
+2010;CosmÈtico;PI;3
+2010;Prod. quÌmico;PI;4
+2010;Metal;PI;0
+2010;Drogas de abuso;PI;6
+2010;Planta tÛxica;PI;1
+2010;Alimento e bebida;PI;14
+2010;Outro;PI;4
+2010;Ign/Branco;CE;170
+2010;Medicamento;CE;641
+2010;AgrotÛxico agrÌcola;CE;244
+2010;AgrotÛxico domÈstico;CE;36
+2010;AgrotÛxico sa˙de p˙blica;CE;7
+2010;Raticida;CE;122
+2010;Prod. veterin·rio;CE;34
+2010;Prod. uso domiciliar;CE;80
+2010;CosmÈtico;CE;18
+2010;Prod. quÌmico;CE;74
+2010;Metal;CE;4
+2010;Drogas de abuso;CE;63
+2010;Planta tÛxica;CE;13
+2010;Alimento e bebida;CE;114
+2010;Outro;CE;21
+2010;Ign/Branco;RN;83
+2010;Medicamento;RN;99
+2010;AgrotÛxico agrÌcola;RN;6
+2010;AgrotÛxico domÈstico;RN;5
+2010;AgrotÛxico sa˙de p˙blica;RN;3
+2010;Raticida;RN;1
+2010;Prod. veterin·rio;RN;2
+2010;Prod. uso domiciliar;RN;4
+2010;CosmÈtico;RN;6
+2010;Prod. quÌmico;RN;16
+2010;Metal;RN;0
+2010;Drogas de abuso;RN;3
+2010;Planta tÛxica;RN;5
+2010;Alimento e bebida;RN;83
+2010;Outro;RN;12
+2010;Ign/Branco;PB;66
+2010;Medicamento;PB;64
+2010;AgrotÛxico agrÌcola;PB;3
+2010;AgrotÛxico domÈstico;PB;3
+2010;AgrotÛxico sa˙de p˙blica;PB;2
+2010;Raticida;PB;6
+2010;Prod. veterin·rio;PB;0
+2010;Prod. uso domiciliar;PB;3
+2010;CosmÈtico;PB;5
+2010;Prod. quÌmico;PB;5
+2010;Metal;PB;0
+2010;Drogas de abuso;PB;5
+2010;Planta tÛxica;PB;1
+2010;Alimento e bebida;PB;153
+2010;Outro;PB;0
+2010;Ign/Branco;PE;643
+2010;Medicamento;PE;1254
+2010;AgrotÛxico agrÌcola;PE;225
+2010;AgrotÛxico domÈstico;PE;61
+2010;AgrotÛxico sa˙de p˙blica;PE;10
+2010;Raticida;PE;264
+2010;Prod. veterin·rio;PE;23
+2010;Prod. uso domiciliar;PE;152
+2010;CosmÈtico;PE;36
+2010;Prod. quÌmico;PE;115
+2010;Metal;PE;6
+2010;Drogas de abuso;PE;155
+2010;Planta tÛxica;PE;14
+2010;Alimento e bebida;PE;822
+2010;Outro;PE;124
+2010;Ign/Branco;AL;565
+2010;Medicamento;AL;638
+2010;AgrotÛxico agrÌcola;AL;66
+2010;AgrotÛxico domÈstico;AL;27
+2010;AgrotÛxico sa˙de p˙blica;AL;2
+2010;Raticida;AL;59
+2010;Prod. veterin·rio;AL;18
+2010;Prod. uso domiciliar;AL;97
+2010;CosmÈtico;AL;16
+2010;Prod. quÌmico;AL;26
+2010;Metal;AL;0
+2010;Drogas de abuso;AL;9
+2010;Planta tÛxica;AL;62
+2010;Alimento e bebida;AL;268
+2010;Outro;AL;20
+2010;Ign/Branco;SE;4
+2010;Medicamento;SE;11
+2010;AgrotÛxico agrÌcola;SE;5
+2010;AgrotÛxico domÈstico;SE;4
+2010;AgrotÛxico sa˙de p˙blica;SE;0
+2010;Raticida;SE;16
+2010;Prod. veterin·rio;SE;4
+2010;Prod. uso domiciliar;SE;28
+2010;CosmÈtico;SE;1
+2010;Prod. quÌmico;SE;3
+2010;Metal;SE;0
+2010;Drogas de abuso;SE;12
+2010;Planta tÛxica;SE;0
+2010;Alimento e bebida;SE;2
+2010;Outro;SE;5
+2010;Ign/Branco;BA;412
+2010;Medicamento;BA;369
+2010;AgrotÛxico agrÌcola;BA;109
+2010;AgrotÛxico domÈstico;BA;22
+2010;AgrotÛxico sa˙de p˙blica;BA;13
+2010;Raticida;BA;124
+2010;Prod. veterin·rio;BA;23
+2010;Prod. uso domiciliar;BA;101
+2010;CosmÈtico;BA;15
+2010;Prod. quÌmico;BA;45
+2010;Metal;BA;7
+2010;Drogas de abuso;BA;37
+2010;Planta tÛxica;BA;17
+2010;Alimento e bebida;BA;203
+2010;Outro;BA;64
+2010;Ign/Branco;MG;729
+2010;Medicamento;MG;3857
+2010;AgrotÛxico agrÌcola;MG;338
+2010;AgrotÛxico domÈstico;MG;105
+2010;AgrotÛxico sa˙de p˙blica;MG;29
+2010;Raticida;MG;606
+2010;Prod. veterin·rio;MG;106
+2010;Prod. uso domiciliar;MG;447
+2010;CosmÈtico;MG;94
+2010;Prod. quÌmico;MG;293
+2010;Metal;MG;14
+2010;Drogas de abuso;MG;538
+2010;Planta tÛxica;MG;79
+2010;Alimento e bebida;MG;1436
+2010;Outro;MG;277
+2010;Ign/Branco;ES;118
+2010;Medicamento;ES;520
+2010;AgrotÛxico agrÌcola;ES;178
+2010;AgrotÛxico domÈstico;ES;14
+2010;AgrotÛxico sa˙de p˙blica;ES;4
+2010;Raticida;ES;46
+2010;Prod. veterin·rio;ES;9
+2010;Prod. uso domiciliar;ES;68
+2010;CosmÈtico;ES;16
+2010;Prod. quÌmico;ES;37
+2010;Metal;ES;2
+2010;Drogas de abuso;ES;57
+2010;Planta tÛxica;ES;22
+2010;Alimento e bebida;ES;393
+2010;Outro;ES;48
+2010;Ign/Branco;RJ;583
+2010;Medicamento;RJ;484
+2010;AgrotÛxico agrÌcola;RJ;76
+2010;AgrotÛxico domÈstico;RJ;21
+2010;AgrotÛxico sa˙de p˙blica;RJ;12
+2010;Raticida;RJ;189
+2010;Prod. veterin·rio;RJ;5
+2010;Prod. uso domiciliar;RJ;129
+2010;CosmÈtico;RJ;15
+2010;Prod. quÌmico;RJ;44
+2010;Metal;RJ;5
+2010;Drogas de abuso;RJ;341
+2010;Planta tÛxica;RJ;7
+2010;Alimento e bebida;RJ;156
+2010;Outro;RJ;24
+2010;Ign/Branco;SP;928
+2010;Medicamento;SP;3862
+2010;AgrotÛxico agrÌcola;SP;291
+2010;AgrotÛxico domÈstico;SP;138
+2010;AgrotÛxico sa˙de p˙blica;SP;23
+2010;Raticida;SP;819
+2010;Prod. veterin·rio;SP;81
+2010;Prod. uso domiciliar;SP;543
+2010;CosmÈtico;SP;52
+2010;Prod. quÌmico;SP;371
+2010;Metal;SP;35
+2010;Drogas de abuso;SP;1449
+2010;Planta tÛxica;SP;51
+2010;Alimento e bebida;SP;642
+2010;Outro;SP;171
+2010;Ign/Branco;PR;617
+2010;Medicamento;PR;3181
+2010;AgrotÛxico agrÌcola;PR;548
+2010;AgrotÛxico domÈstico;PR;188
+2010;AgrotÛxico sa˙de p˙blica;PR;9
+2010;Raticida;PR;464
+2010;Prod. veterin·rio;PR;87
+2010;Prod. uso domiciliar;PR;503
+2010;CosmÈtico;PR;56
+2010;Prod. quÌmico;PR;409
+2010;Metal;PR;21
+2010;Drogas de abuso;PR;538
+2010;Planta tÛxica;PR;71
+2010;Alimento e bebida;PR;143
+2010;Outro;PR;123
+2010;Ign/Branco;SC;147
+2010;Medicamento;SC;1132
+2010;AgrotÛxico agrÌcola;SC;248
+2010;AgrotÛxico domÈstico;SC;41
+2010;AgrotÛxico sa˙de p˙blica;SC;2
+2010;Raticida;SC;128
+2010;Prod. veterin·rio;SC;19
+2010;Prod. uso domiciliar;SC;140
+2010;CosmÈtico;SC;9
+2010;Prod. quÌmico;SC;81
+2010;Metal;SC;2
+2010;Drogas de abuso;SC;170
+2010;Planta tÛxica;SC;36
+2010;Alimento e bebida;SC;61
+2010;Outro;SC;31
+2010;Ign/Branco;RS;63
+2010;Medicamento;RS;281
+2010;AgrotÛxico agrÌcola;RS;100
+2010;AgrotÛxico domÈstico;RS;21
+2010;AgrotÛxico sa˙de p˙blica;RS;1
+2010;Raticida;RS;18
+2010;Prod. veterin·rio;RS;10
+2010;Prod. uso domiciliar;RS;26
+2010;CosmÈtico;RS;3
+2010;Prod. quÌmico;RS;23
+2010;Metal;RS;0
+2010;Drogas de abuso;RS;26
+2010;Planta tÛxica;RS;2
+2010;Alimento e bebida;RS;65
+2010;Outro;RS;8
+2010;Ign/Branco;MS;56
+2010;Medicamento;MS;335
+2010;AgrotÛxico agrÌcola;MS;63
+2010;AgrotÛxico domÈstico;MS;25
+2010;AgrotÛxico sa˙de p˙blica;MS;5
+2010;Raticida;MS;49
+2010;Prod. veterin·rio;MS;35
+2010;Prod. uso domiciliar;MS;56
+2010;CosmÈtico;MS;9
+2010;Prod. quÌmico;MS;21
+2010;Metal;MS;2
+2010;Drogas de abuso;MS;48
+2010;Planta tÛxica;MS;14
+2010;Alimento e bebida;MS;105
+2010;Outro;MS;32
+2010;Ign/Branco;MT;53
+2010;Medicamento;MT;216
+2010;AgrotÛxico agrÌcola;MT;107
+2010;AgrotÛxico domÈstico;MT;30
+2010;AgrotÛxico sa˙de p˙blica;MT;21
+2010;Raticida;MT;51
+2010;Prod. veterin·rio;MT;23
+2010;Prod. uso domiciliar;MT;66
+2010;CosmÈtico;MT;8
+2010;Prod. quÌmico;MT;26
+2010;Metal;MT;3
+2010;Drogas de abuso;MT;29
+2010;Planta tÛxica;MT;14
+2010;Alimento e bebida;MT;155
+2010;Outro;MT;23
+2010;Ign/Branco;GO;341
+2010;Medicamento;GO;436
+2010;AgrotÛxico agrÌcola;GO;157
+2010;AgrotÛxico domÈstico;GO;48
+2010;AgrotÛxico sa˙de p˙blica;GO;8
+2010;Raticida;GO;184
+2010;Prod. veterin·rio;GO;45
+2010;Prod. uso domiciliar;GO;59
+2010;CosmÈtico;GO;16
+2010;Prod. quÌmico;GO;71
+2010;Metal;GO;0
+2010;Drogas de abuso;GO;233
+2010;Planta tÛxica;GO;16
+2010;Alimento e bebida;GO;162
+2010;Outro;GO;39
+2010;Ign/Branco;DF;94
+2010;Medicamento;DF;68
+2010;AgrotÛxico agrÌcola;DF;36
+2010;AgrotÛxico domÈstico;DF;2
+2010;AgrotÛxico sa˙de p˙blica;DF;1
+2010;Raticida;DF;22
+2010;Prod. veterin·rio;DF;5
+2010;Prod. uso domiciliar;DF;16
+2010;CosmÈtico;DF;4
+2010;Prod. quÌmico;DF;19
+2010;Metal;DF;1
+2010;Drogas de abuso;DF;20
+2010;Planta tÛxica;DF;6
+2010;Alimento e bebida;DF;37
+2010;Outro;DF;5
+2011;Ign/Branco;RO;44
+2011;Medicamento;RO;56
+2011;AgrotÛxico agrÌcola;RO;65
+2011;AgrotÛxico domÈstico;RO;8
+2011;AgrotÛxico sa˙de p˙blica;RO;12
+2011;Raticida;RO;39
+2011;Prod. veterin·rio;RO;7
+2011;Prod. uso domiciliar;RO;19
+2011;CosmÈtico;RO;1
+2011;Prod. quÌmico;RO;6
+2011;Metal;RO;0
+2011;Drogas de abuso;RO;2
+2011;Planta tÛxica;RO;6
+2011;Alimento e bebida;RO;32
+2011;Outro;RO;9
+2011;Ign/Branco;AC;0
+2011;Medicamento;AC;1
+2011;AgrotÛxico agrÌcola;AC;0
+2011;AgrotÛxico domÈstico;AC;1
+2011;AgrotÛxico sa˙de p˙blica;AC;0
+2011;Raticida;AC;0
+2011;Prod. veterin·rio;AC;0
+2011;Prod. uso domiciliar;AC;0
+2011;CosmÈtico;AC;0
+2011;Prod. quÌmico;AC;0
+2011;Metal;AC;0
+2011;Drogas de abuso;AC;0
+2011;Planta tÛxica;AC;0
+2011;Alimento e bebida;AC;0
+2011;Outro;AC;0
+2011;Ign/Branco;AM;118
+2011;Medicamento;AM;16
+2011;AgrotÛxico agrÌcola;AM;8
+2011;AgrotÛxico domÈstico;AM;6
+2011;AgrotÛxico sa˙de p˙blica;AM;1
+2011;Raticida;AM;13
+2011;Prod. veterin·rio;AM;1
+2011;Prod. uso domiciliar;AM;31
+2011;CosmÈtico;AM;5
+2011;Prod. quÌmico;AM;11
+2011;Metal;AM;0
+2011;Drogas de abuso;AM;34
+2011;Planta tÛxica;AM;1
+2011;Alimento e bebida;AM;69
+2011;Outro;AM;15
+2011;Ign/Branco;RR;4
+2011;Medicamento;RR;30
+2011;AgrotÛxico agrÌcola;RR;2
+2011;AgrotÛxico domÈstico;RR;1
+2011;AgrotÛxico sa˙de p˙blica;RR;0
+2011;Raticida;RR;13
+2011;Prod. veterin·rio;RR;1
+2011;Prod. uso domiciliar;RR;30
+2011;CosmÈtico;RR;0
+2011;Prod. quÌmico;RR;17
+2011;Metal;RR;0
+2011;Drogas de abuso;RR;9
+2011;Planta tÛxica;RR;7
+2011;Alimento e bebida;RR;48
+2011;Outro;RR;17
+2011;Ign/Branco;PA;27
+2011;Medicamento;PA;59
+2011;AgrotÛxico agrÌcola;PA;14
+2011;AgrotÛxico domÈstico;PA;5
+2011;AgrotÛxico sa˙de p˙blica;PA;0
+2011;Raticida;PA;75
+2011;Prod. veterin·rio;PA;0
+2011;Prod. uso domiciliar;PA;25
+2011;CosmÈtico;PA;0
+2011;Prod. quÌmico;PA;22
+2011;Metal;PA;0
+2011;Drogas de abuso;PA;7
+2011;Planta tÛxica;PA;3
+2011;Alimento e bebida;PA;25
+2011;Outro;PA;13
+2011;Ign/Branco;TO;68
+2011;Medicamento;TO;280
+2011;AgrotÛxico agrÌcola;TO;81
+2011;AgrotÛxico domÈstico;TO;33
+2011;AgrotÛxico sa˙de p˙blica;TO;15
+2011;Raticida;TO;92
+2011;Prod. veterin·rio;TO;31
+2011;Prod. uso domiciliar;TO;95
+2011;CosmÈtico;TO;18
+2011;Prod. quÌmico;TO;60
+2011;Metal;TO;2
+2011;Drogas de abuso;TO;10
+2011;Planta tÛxica;TO;24
+2011;Alimento e bebida;TO;152
+2011;Outro;TO;39
+2011;Ign/Branco;MA;31
+2011;Medicamento;MA;64
+2011;AgrotÛxico agrÌcola;MA;12
+2011;AgrotÛxico domÈstico;MA;5
+2011;AgrotÛxico sa˙de p˙blica;MA;1
+2011;Raticida;MA;21
+2011;Prod. veterin·rio;MA;7
+2011;Prod. uso domiciliar;MA;15
+2011;CosmÈtico;MA;3
+2011;Prod. quÌmico;MA;9
+2011;Metal;MA;0
+2011;Drogas de abuso;MA;1
+2011;Planta tÛxica;MA;15
+2011;Alimento e bebida;MA;8
+2011;Outro;MA;18
+2011;Ign/Branco;PI;74
+2011;Medicamento;PI;183
+2011;AgrotÛxico agrÌcola;PI;20
+2011;AgrotÛxico domÈstico;PI;9
+2011;AgrotÛxico sa˙de p˙blica;PI;1
+2011;Raticida;PI;42
+2011;Prod. veterin·rio;PI;7
+2011;Prod. uso domiciliar;PI;30
+2011;CosmÈtico;PI;4
+2011;Prod. quÌmico;PI;6
+2011;Metal;PI;0
+2011;Drogas de abuso;PI;8
+2011;Planta tÛxica;PI;7
+2011;Alimento e bebida;PI;64
+2011;Outro;PI;16
+2011;Ign/Branco;CE;360
+2011;Medicamento;CE;667
+2011;AgrotÛxico agrÌcola;CE;243
+2011;AgrotÛxico domÈstico;CE;45
+2011;AgrotÛxico sa˙de p˙blica;CE;13
+2011;Raticida;CE;124
+2011;Prod. veterin·rio;CE;35
+2011;Prod. uso domiciliar;CE;93
+2011;CosmÈtico;CE;28
+2011;Prod. quÌmico;CE;64
+2011;Metal;CE;3
+2011;Drogas de abuso;CE;205
+2011;Planta tÛxica;CE;13
+2011;Alimento e bebida;CE;164
+2011;Outro;CE;18
+2011;Ign/Branco;RN;193
+2011;Medicamento;RN;187
+2011;AgrotÛxico agrÌcola;RN;10
+2011;AgrotÛxico domÈstico;RN;6
+2011;AgrotÛxico sa˙de p˙blica;RN;1
+2011;Raticida;RN;18
+2011;Prod. veterin·rio;RN;4
+2011;Prod. uso domiciliar;RN;32
+2011;CosmÈtico;RN;13
+2011;Prod. quÌmico;RN;20
+2011;Metal;RN;0
+2011;Drogas de abuso;RN;5
+2011;Planta tÛxica;RN;4
+2011;Alimento e bebida;RN;117
+2011;Outro;RN;18
+2011;Ign/Branco;PB;170
+2011;Medicamento;PB;132
+2011;AgrotÛxico agrÌcola;PB;8
+2011;AgrotÛxico domÈstico;PB;5
+2011;AgrotÛxico sa˙de p˙blica;PB;0
+2011;Raticida;PB;37
+2011;Prod. veterin·rio;PB;8
+2011;Prod. uso domiciliar;PB;26
+2011;CosmÈtico;PB;4
+2011;Prod. quÌmico;PB;19
+2011;Metal;PB;1
+2011;Drogas de abuso;PB;3
+2011;Planta tÛxica;PB;1
+2011;Alimento e bebida;PB;215
+2011;Outro;PB;26
+2011;Ign/Branco;PE;661
+2011;Medicamento;PE;1546
+2011;AgrotÛxico agrÌcola;PE;256
+2011;AgrotÛxico domÈstico;PE;110
+2011;AgrotÛxico sa˙de p˙blica;PE;10
+2011;Raticida;PE;394
+2011;Prod. veterin·rio;PE;43
+2011;Prod. uso domiciliar;PE;271
+2011;CosmÈtico;PE;38
+2011;Prod. quÌmico;PE;140
+2011;Metal;PE;11
+2011;Drogas de abuso;PE;713
+2011;Planta tÛxica;PE;35
+2011;Alimento e bebida;PE;1242
+2011;Outro;PE;104
+2011;Ign/Branco;AL;424
+2011;Medicamento;AL;771
+2011;AgrotÛxico agrÌcola;AL;66
+2011;AgrotÛxico domÈstico;AL;27
+2011;AgrotÛxico sa˙de p˙blica;AL;18
+2011;Raticida;AL;76
+2011;Prod. veterin·rio;AL;12
+2011;Prod. uso domiciliar;AL;134
+2011;CosmÈtico;AL;18
+2011;Prod. quÌmico;AL;142
+2011;Metal;AL;2
+2011;Drogas de abuso;AL;7
+2011;Planta tÛxica;AL;60
+2011;Alimento e bebida;AL;363
+2011;Outro;AL;38
+2011;Ign/Branco;SE;15
+2011;Medicamento;SE;131
+2011;AgrotÛxico agrÌcola;SE;12
+2011;AgrotÛxico domÈstico;SE;25
+2011;AgrotÛxico sa˙de p˙blica;SE;3
+2011;Raticida;SE;75
+2011;Prod. veterin·rio;SE;13
+2011;Prod. uso domiciliar;SE;57
+2011;CosmÈtico;SE;6
+2011;Prod. quÌmico;SE;8
+2011;Metal;SE;0
+2011;Drogas de abuso;SE;53
+2011;Planta tÛxica;SE;10
+2011;Alimento e bebida;SE;6
+2011;Outro;SE;2
+2011;Ign/Branco;BA;721
+2011;Medicamento;BA;688
+2011;AgrotÛxico agrÌcola;BA;153
+2011;AgrotÛxico domÈstico;BA;57
+2011;AgrotÛxico sa˙de p˙blica;BA;9
+2011;Raticida;BA;267
+2011;Prod. veterin·rio;BA;34
+2011;Prod. uso domiciliar;BA;171
+2011;CosmÈtico;BA;31
+2011;Prod. quÌmico;BA;99
+2011;Metal;BA;205
+2011;Drogas de abuso;BA;86
+2011;Planta tÛxica;BA;28
+2011;Alimento e bebida;BA;272
+2011;Outro;BA;108
+2011;Ign/Branco;MG;815
+2011;Medicamento;MG;5597
+2011;AgrotÛxico agrÌcola;MG;436
+2011;AgrotÛxico domÈstico;MG;141
+2011;AgrotÛxico sa˙de p˙blica;MG;46
+2011;Raticida;MG;919
+2011;Prod. veterin·rio;MG;176
+2011;Prod. uso domiciliar;MG;571
+2011;CosmÈtico;MG;137
+2011;Prod. quÌmico;MG;396
+2011;Metal;MG;14
+2011;Drogas de abuso;MG;844
+2011;Planta tÛxica;MG;86
+2011;Alimento e bebida;MG;1421
+2011;Outro;MG;292
+2011;Ign/Branco;ES;95
+2011;Medicamento;ES;779
+2011;AgrotÛxico agrÌcola;ES;263
+2011;AgrotÛxico domÈstico;ES;24
+2011;AgrotÛxico sa˙de p˙blica;ES;3
+2011;Raticida;ES;55
+2011;Prod. veterin·rio;ES;11
+2011;Prod. uso domiciliar;ES;188
+2011;CosmÈtico;ES;23
+2011;Prod. quÌmico;ES;63
+2011;Metal;ES;5
+2011;Drogas de abuso;ES;284
+2011;Planta tÛxica;ES;28
+2011;Alimento e bebida;ES;373
+2011;Outro;ES;38
+2011;Ign/Branco;RJ;525
+2011;Medicamento;RJ;433
+2011;AgrotÛxico agrÌcola;RJ;60
+2011;AgrotÛxico domÈstico;RJ;18
+2011;AgrotÛxico sa˙de p˙blica;RJ;19
+2011;Raticida;RJ;137
+2011;Prod. veterin·rio;RJ;13
+2011;Prod. uso domiciliar;RJ;91
+2011;CosmÈtico;RJ;6
+2011;Prod. quÌmico;RJ;65
+2011;Metal;RJ;6
+2011;Drogas de abuso;RJ;506
+2011;Planta tÛxica;RJ;12
+2011;Alimento e bebida;RJ;545
+2011;Outro;RJ;64
+2011;Ign/Branco;SP;1336
+2011;Medicamento;SP;6158
+2011;AgrotÛxico agrÌcola;SP;438
+2011;AgrotÛxico domÈstico;SP;185
+2011;AgrotÛxico sa˙de p˙blica;SP;28
+2011;Raticida;SP;1054
+2011;Prod. veterin·rio;SP;116
+2011;Prod. uso domiciliar;SP;936
+2011;CosmÈtico;SP;124
+2011;Prod. quÌmico;SP;357
+2011;Metal;SP;201
+2011;Drogas de abuso;SP;2469
+2011;Planta tÛxica;SP;51
+2011;Alimento e bebida;SP;1279
+2011;Outro;SP;296
+2011;Ign/Branco;PR;503
+2011;Medicamento;PR;3978
+2011;AgrotÛxico agrÌcola;PR;558
+2011;AgrotÛxico domÈstico;PR;172
+2011;AgrotÛxico sa˙de p˙blica;PR;30
+2011;Raticida;PR;514
+2011;Prod. veterin·rio;PR;102
+2011;Prod. uso domiciliar;PR;578
+2011;CosmÈtico;PR;67
+2011;Prod. quÌmico;PR;466
+2011;Metal;PR;13
+2011;Drogas de abuso;PR;444
+2011;Planta tÛxica;PR;81
+2011;Alimento e bebida;PR;471
+2011;Outro;PR;170
+2011;Ign/Branco;SC;175
+2011;Medicamento;SC;1479
+2011;AgrotÛxico agrÌcola;SC;210
+2011;AgrotÛxico domÈstico;SC;64
+2011;AgrotÛxico sa˙de p˙blica;SC;5
+2011;Raticida;SC;132
+2011;Prod. veterin·rio;SC;29
+2011;Prod. uso domiciliar;SC;117
+2011;CosmÈtico;SC;10
+2011;Prod. quÌmico;SC;87
+2011;Metal;SC;4
+2011;Drogas de abuso;SC;212
+2011;Planta tÛxica;SC;24
+2011;Alimento e bebida;SC;57
+2011;Outro;SC;56
+2011;Ign/Branco;RS;113
+2011;Medicamento;RS;428
+2011;AgrotÛxico agrÌcola;RS;155
+2011;AgrotÛxico domÈstico;RS;19
+2011;AgrotÛxico sa˙de p˙blica;RS;3
+2011;Raticida;RS;26
+2011;Prod. veterin·rio;RS;11
+2011;Prod. uso domiciliar;RS;19
+2011;CosmÈtico;RS;1
+2011;Prod. quÌmico;RS;68
+2011;Metal;RS;11
+2011;Drogas de abuso;RS;64
+2011;Planta tÛxica;RS;9
+2011;Alimento e bebida;RS;81
+2011;Outro;RS;33
+2011;Ign/Branco;MS;90
+2011;Medicamento;MS;493
+2011;AgrotÛxico agrÌcola;MS;76
+2011;AgrotÛxico domÈstico;MS;50
+2011;AgrotÛxico sa˙de p˙blica;MS;4
+2011;Raticida;MS;66
+2011;Prod. veterin·rio;MS;38
+2011;Prod. uso domiciliar;MS;105
+2011;CosmÈtico;MS;6
+2011;Prod. quÌmico;MS;48
+2011;Metal;MS;1
+2011;Drogas de abuso;MS;121
+2011;Planta tÛxica;MS;17
+2011;Alimento e bebida;MS;230
+2011;Outro;MS;49
+2011;Ign/Branco;MT;55
+2011;Medicamento;MT;224
+2011;AgrotÛxico agrÌcola;MT;119
+2011;AgrotÛxico domÈstico;MT;22
+2011;AgrotÛxico sa˙de p˙blica;MT;5
+2011;Raticida;MT;43
+2011;Prod. veterin·rio;MT;37
+2011;Prod. uso domiciliar;MT;77
+2011;CosmÈtico;MT;4
+2011;Prod. quÌmico;MT;40
+2011;Metal;MT;0
+2011;Drogas de abuso;MT;28
+2011;Planta tÛxica;MT;10
+2011;Alimento e bebida;MT;59
+2011;Outro;MT;19
+2011;Ign/Branco;GO;287
+2011;Medicamento;GO;460
+2011;AgrotÛxico agrÌcola;GO;146
+2011;AgrotÛxico domÈstico;GO;51
+2011;AgrotÛxico sa˙de p˙blica;GO;4
+2011;Raticida;GO;160
+2011;Prod. veterin·rio;GO;24
+2011;Prod. uso domiciliar;GO;95
+2011;CosmÈtico;GO;12
+2011;Prod. quÌmico;GO;71
+2011;Metal;GO;9
+2011;Drogas de abuso;GO;201
+2011;Planta tÛxica;GO;43
+2011;Alimento e bebida;GO;169
+2011;Outro;GO;34
+2011;Ign/Branco;DF;217
+2011;Medicamento;DF;314
+2011;AgrotÛxico agrÌcola;DF;22
+2011;AgrotÛxico domÈstico;DF;11
+2011;AgrotÛxico sa˙de p˙blica;DF;1
+2011;Raticida;DF;65
+2011;Prod. veterin·rio;DF;4
+2011;Prod. uso domiciliar;DF;70
+2011;CosmÈtico;DF;21
+2011;Prod. quÌmico;DF;35
+2011;Metal;DF;1
+2011;Drogas de abuso;DF;116
+2011;Planta tÛxica;DF;8
+2011;Alimento e bebida;DF;130
+2011;Outro;DF;15
+2012;Ign/Branco;RO;51
+2012;Medicamento;RO;61
+2012;AgrotÛxico agrÌcola;RO;66
+2012;AgrotÛxico domÈstico;RO;20
+2012;AgrotÛxico sa˙de p˙blica;RO;0
+2012;Raticida;RO;22
+2012;Prod. veterin·rio;RO;13
+2012;Prod. uso domiciliar;RO;22
+2012;CosmÈtico;RO;0
+2012;Prod. quÌmico;RO;6
+2012;Metal;RO;0
+2012;Drogas de abuso;RO;75
+2012;Planta tÛxica;RO;4
+2012;Alimento e bebida;RO;42
+2012;Outro;RO;23
+2012;Ign/Branco;AC;1
+2012;Medicamento;AC;1
+2012;AgrotÛxico agrÌcola;AC;0
+2012;AgrotÛxico domÈstico;AC;0
+2012;AgrotÛxico sa˙de p˙blica;AC;0
+2012;Raticida;AC;0
+2012;Prod. veterin·rio;AC;0
+2012;Prod. uso domiciliar;AC;0
+2012;CosmÈtico;AC;0
+2012;Prod. quÌmico;AC;0
+2012;Metal;AC;0
+2012;Drogas de abuso;AC;0
+2012;Planta tÛxica;AC;0
+2012;Alimento e bebida;AC;0
+2012;Outro;AC;0
+2012;Ign/Branco;AM;204
+2012;Medicamento;AM;52
+2012;AgrotÛxico agrÌcola;AM;8
+2012;AgrotÛxico domÈstico;AM;15
+2012;AgrotÛxico sa˙de p˙blica;AM;0
+2012;Raticida;AM;18
+2012;Prod. veterin·rio;AM;4
+2012;Prod. uso domiciliar;AM;48
+2012;CosmÈtico;AM;10
+2012;Prod. quÌmico;AM;15
+2012;Metal;AM;0
+2012;Drogas de abuso;AM;122
+2012;Planta tÛxica;AM;3
+2012;Alimento e bebida;AM;266
+2012;Outro;AM;8
+2012;Ign/Branco;RR;6
+2012;Medicamento;RR;39
+2012;AgrotÛxico agrÌcola;RR;2
+2012;AgrotÛxico domÈstico;RR;4
+2012;AgrotÛxico sa˙de p˙blica;RR;0
+2012;Raticida;RR;13
+2012;Prod. veterin·rio;RR;5
+2012;Prod. uso domiciliar;RR;31
+2012;CosmÈtico;RR;9
+2012;Prod. quÌmico;RR;29
+2012;Metal;RR;0
+2012;Drogas de abuso;RR;16
+2012;Planta tÛxica;RR;3
+2012;Alimento e bebida;RR;79
+2012;Outro;RR;32
+2012;Ign/Branco;PA;26
+2012;Medicamento;PA;46
+2012;AgrotÛxico agrÌcola;PA;26
+2012;AgrotÛxico domÈstico;PA;12
+2012;AgrotÛxico sa˙de p˙blica;PA;1
+2012;Raticida;PA;50
+2012;Prod. veterin·rio;PA;4
+2012;Prod. uso domiciliar;PA;14
+2012;CosmÈtico;PA;1
+2012;Prod. quÌmico;PA;14
+2012;Metal;PA;0
+2012;Drogas de abuso;PA;0
+2012;Planta tÛxica;PA;0
+2012;Alimento e bebida;PA;12
+2012;Outro;PA;5
+2012;Ign/Branco;AP;1
+2012;Medicamento;AP;1
+2012;AgrotÛxico agrÌcola;AP;0
+2012;AgrotÛxico domÈstico;AP;0
+2012;AgrotÛxico sa˙de p˙blica;AP;0
+2012;Raticida;AP;1
+2012;Prod. veterin·rio;AP;0
+2012;Prod. uso domiciliar;AP;1
+2012;CosmÈtico;AP;1
+2012;Prod. quÌmico;AP;0
+2012;Metal;AP;0
+2012;Drogas de abuso;AP;0
+2012;Planta tÛxica;AP;0
+2012;Alimento e bebida;AP;7
+2012;Outro;AP;0
+2012;Ign/Branco;TO;114
+2012;Medicamento;TO;259
+2012;AgrotÛxico agrÌcola;TO;94
+2012;AgrotÛxico domÈstico;TO;27
+2012;AgrotÛxico sa˙de p˙blica;TO;5
+2012;Raticida;TO;66
+2012;Prod. veterin·rio;TO;33
+2012;Prod. uso domiciliar;TO;83
+2012;CosmÈtico;TO;14
+2012;Prod. quÌmico;TO;47
+2012;Metal;TO;1
+2012;Drogas de abuso;TO;10
+2012;Planta tÛxica;TO;26
+2012;Alimento e bebida;TO;140
+2012;Outro;TO;24
+2012;Ign/Branco;MA;108
+2012;Medicamento;MA;90
+2012;AgrotÛxico agrÌcola;MA;12
+2012;AgrotÛxico domÈstico;MA;1
+2012;AgrotÛxico sa˙de p˙blica;MA;3
+2012;Raticida;MA;34
+2012;Prod. veterin·rio;MA;6
+2012;Prod. uso domiciliar;MA;35
+2012;CosmÈtico;MA;7
+2012;Prod. quÌmico;MA;18
+2012;Metal;MA;1
+2012;Drogas de abuso;MA;5
+2012;Planta tÛxica;MA;7
+2012;Alimento e bebida;MA;55
+2012;Outro;MA;6
+2012;Ign/Branco;PI;89
+2012;Medicamento;PI;281
+2012;AgrotÛxico agrÌcola;PI;31
+2012;AgrotÛxico domÈstico;PI;15
+2012;AgrotÛxico sa˙de p˙blica;PI;1
+2012;Raticida;PI;53
+2012;Prod. veterin·rio;PI;13
+2012;Prod. uso domiciliar;PI;49
+2012;CosmÈtico;PI;11
+2012;Prod. quÌmico;PI;10
+2012;Metal;PI;0
+2012;Drogas de abuso;PI;19
+2012;Planta tÛxica;PI;16
+2012;Alimento e bebida;PI;84
+2012;Outro;PI;13
+2012;Ign/Branco;CE;555
+2012;Medicamento;CE;646
+2012;AgrotÛxico agrÌcola;CE;274
+2012;AgrotÛxico domÈstico;CE;44
+2012;AgrotÛxico sa˙de p˙blica;CE;4
+2012;Raticida;CE;137
+2012;Prod. veterin·rio;CE;45
+2012;Prod. uso domiciliar;CE;91
+2012;CosmÈtico;CE;27
+2012;Prod. quÌmico;CE;62
+2012;Metal;CE;1
+2012;Drogas de abuso;CE;163
+2012;Planta tÛxica;CE;17
+2012;Alimento e bebida;CE;125
+2012;Outro;CE;16
+2012;Ign/Branco;RN;269
+2012;Medicamento;RN;209
+2012;AgrotÛxico agrÌcola;RN;5
+2012;AgrotÛxico domÈstico;RN;11
+2012;AgrotÛxico sa˙de p˙blica;RN;1
+2012;Raticida;RN;17
+2012;Prod. veterin·rio;RN;2
+2012;Prod. uso domiciliar;RN;14
+2012;CosmÈtico;RN;10
+2012;Prod. quÌmico;RN;21
+2012;Metal;RN;0
+2012;Drogas de abuso;RN;15
+2012;Planta tÛxica;RN;8
+2012;Alimento e bebida;RN;187
+2012;Outro;RN;9
+2012;Ign/Branco;PB;179
+2012;Medicamento;PB;467
+2012;AgrotÛxico agrÌcola;PB;28
+2012;AgrotÛxico domÈstico;PB;33
+2012;AgrotÛxico sa˙de p˙blica;PB;0
+2012;Raticida;PB;92
+2012;Prod. veterin·rio;PB;10
+2012;Prod. uso domiciliar;PB;97
+2012;CosmÈtico;PB;27
+2012;Prod. quÌmico;PB;69
+2012;Metal;PB;2
+2012;Drogas de abuso;PB;82
+2012;Planta tÛxica;PB;17
+2012;Alimento e bebida;PB;205
+2012;Outro;PB;43
+2012;Ign/Branco;PE;729
+2012;Medicamento;PE;1772
+2012;AgrotÛxico agrÌcola;PE;246
+2012;AgrotÛxico domÈstico;PE;109
+2012;AgrotÛxico sa˙de p˙blica;PE;12
+2012;Raticida;PE;419
+2012;Prod. veterin·rio;PE;63
+2012;Prod. uso domiciliar;PE;362
+2012;CosmÈtico;PE;39
+2012;Prod. quÌmico;PE;219
+2012;Metal;PE;24
+2012;Drogas de abuso;PE;694
+2012;Planta tÛxica;PE;38
+2012;Alimento e bebida;PE;1358
+2012;Outro;PE;87
+2012;Ign/Branco;AL;771
+2012;Medicamento;AL;827
+2012;AgrotÛxico agrÌcola;AL;63
+2012;AgrotÛxico domÈstico;AL;13
+2012;AgrotÛxico sa˙de p˙blica;AL;3
+2012;Raticida;AL;88
+2012;Prod. veterin·rio;AL;28
+2012;Prod. uso domiciliar;AL;151
+2012;CosmÈtico;AL;23
+2012;Prod. quÌmico;AL;62
+2012;Metal;AL;0
+2012;Drogas de abuso;AL;11
+2012;Planta tÛxica;AL;37
+2012;Alimento e bebida;AL;580
+2012;Outro;AL;41
+2012;Ign/Branco;SE;256
+2012;Medicamento;SE;171
+2012;AgrotÛxico agrÌcola;SE;11
+2012;AgrotÛxico domÈstico;SE;29
+2012;AgrotÛxico sa˙de p˙blica;SE;0
+2012;Raticida;SE;61
+2012;Prod. veterin·rio;SE;23
+2012;Prod. uso domiciliar;SE;55
+2012;CosmÈtico;SE;4
+2012;Prod. quÌmico;SE;14
+2012;Metal;SE;1
+2012;Drogas de abuso;SE;114
+2012;Planta tÛxica;SE;12
+2012;Alimento e bebida;SE;79
+2012;Outro;SE;9
+2012;Ign/Branco;BA;750
+2012;Medicamento;BA;975
+2012;AgrotÛxico agrÌcola;BA;175
+2012;AgrotÛxico domÈstico;BA;69
+2012;AgrotÛxico sa˙de p˙blica;BA;19
+2012;Raticida;BA;277
+2012;Prod. veterin·rio;BA;33
+2012;Prod. uso domiciliar;BA;201
+2012;CosmÈtico;BA;42
+2012;Prod. quÌmico;BA;100
+2012;Metal;BA;11
+2012;Drogas de abuso;BA;172
+2012;Planta tÛxica;BA;28
+2012;Alimento e bebida;BA;474
+2012;Outro;BA;114
+2012;Ign/Branco;MG;1030
+2012;Medicamento;MG;7022
+2012;AgrotÛxico agrÌcola;MG;599
+2012;AgrotÛxico domÈstico;MG;186
+2012;AgrotÛxico sa˙de p˙blica;MG;27
+2012;Raticida;MG;941
+2012;Prod. veterin·rio;MG;152
+2012;Prod. uso domiciliar;MG;709
+2012;CosmÈtico;MG;184
+2012;Prod. quÌmico;MG;554
+2012;Metal;MG;24
+2012;Drogas de abuso;MG;1100
+2012;Planta tÛxica;MG;119
+2012;Alimento e bebida;MG;1366
+2012;Outro;MG;425
+2012;Ign/Branco;ES;94
+2012;Medicamento;ES;1270
+2012;AgrotÛxico agrÌcola;ES;266
+2012;AgrotÛxico domÈstico;ES;39
+2012;AgrotÛxico sa˙de p˙blica;ES;19
+2012;Raticida;ES;76
+2012;Prod. veterin·rio;ES;23
+2012;Prod. uso domiciliar;ES;217
+2012;CosmÈtico;ES;47
+2012;Prod. quÌmico;ES;74
+2012;Metal;ES;11
+2012;Drogas de abuso;ES;270
+2012;Planta tÛxica;ES;41
+2012;Alimento e bebida;ES;495
+2012;Outro;ES;45
+2012;Ign/Branco;RJ;1157
+2012;Medicamento;RJ;242
+2012;AgrotÛxico agrÌcola;RJ;38
+2012;AgrotÛxico domÈstico;RJ;9
+2012;AgrotÛxico sa˙de p˙blica;RJ;5
+2012;Raticida;RJ;67
+2012;Prod. veterin·rio;RJ;13
+2012;Prod. uso domiciliar;RJ;53
+2012;CosmÈtico;RJ;14
+2012;Prod. quÌmico;RJ;44
+2012;Metal;RJ;9
+2012;Drogas de abuso;RJ;731
+2012;Planta tÛxica;RJ;2
+2012;Alimento e bebida;RJ;308
+2012;Outro;RJ;14
+2012;Ign/Branco;SP;1914
+2012;Medicamento;SP;8141
+2012;AgrotÛxico agrÌcola;SP;433
+2012;AgrotÛxico domÈstico;SP;192
+2012;AgrotÛxico sa˙de p˙blica;SP;23
+2012;Raticida;SP;1316
+2012;Prod. veterin·rio;SP;157
+2012;Prod. uso domiciliar;SP;1197
+2012;CosmÈtico;SP;142
+2012;Prod. quÌmico;SP;567
+2012;Metal;SP;180
+2012;Drogas de abuso;SP;3773
+2012;Planta tÛxica;SP;48
+2012;Alimento e bebida;SP;2271
+2012;Outro;SP;451
+2012;Ign/Branco;PR;441
+2012;Medicamento;PR;4464
+2012;AgrotÛxico agrÌcola;PR;535
+2012;AgrotÛxico domÈstico;PR;203
+2012;AgrotÛxico sa˙de p˙blica;PR;19
+2012;Raticida;PR;587
+2012;Prod. veterin·rio;PR;117
+2012;Prod. uso domiciliar;PR;597
+2012;CosmÈtico;PR;78
+2012;Prod. quÌmico;PR;440
+2012;Metal;PR;19
+2012;Drogas de abuso;PR;983
+2012;Planta tÛxica;PR;82
+2012;Alimento e bebida;PR;181
+2012;Outro;PR;144
+2012;Ign/Branco;SC;249
+2012;Medicamento;SC;1726
+2012;AgrotÛxico agrÌcola;SC;234
+2012;AgrotÛxico domÈstico;SC;62
+2012;AgrotÛxico sa˙de p˙blica;SC;1
+2012;Raticida;SC;160
+2012;Prod. veterin·rio;SC;28
+2012;Prod. uso domiciliar;SC;141
+2012;CosmÈtico;SC;14
+2012;Prod. quÌmico;SC;97
+2012;Metal;SC;1
+2012;Drogas de abuso;SC;230
+2012;Planta tÛxica;SC;44
+2012;Alimento e bebida;SC;184
+2012;Outro;SC;66
+2012;Ign/Branco;RS;111
+2012;Medicamento;RS;534
+2012;AgrotÛxico agrÌcola;RS;126
+2012;AgrotÛxico domÈstico;RS;13
+2012;AgrotÛxico sa˙de p˙blica;RS;1
+2012;Raticida;RS;19
+2012;Prod. veterin·rio;RS;15
+2012;Prod. uso domiciliar;RS;30
+2012;CosmÈtico;RS;6
+2012;Prod. quÌmico;RS;37
+2012;Metal;RS;4
+2012;Drogas de abuso;RS;55
+2012;Planta tÛxica;RS;7
+2012;Alimento e bebida;RS;190
+2012;Outro;RS;38
+2012;Ign/Branco;MS;111
+2012;Medicamento;MS;660
+2012;AgrotÛxico agrÌcola;MS;96
+2012;AgrotÛxico domÈstico;MS;62
+2012;AgrotÛxico sa˙de p˙blica;MS;7
+2012;Raticida;MS;72
+2012;Prod. veterin·rio;MS;49
+2012;Prod. uso domiciliar;MS;117
+2012;CosmÈtico;MS;11
+2012;Prod. quÌmico;MS;44
+2012;Metal;MS;4
+2012;Drogas de abuso;MS;135
+2012;Planta tÛxica;MS;34
+2012;Alimento e bebida;MS;332
+2012;Outro;MS;55
+2012;Ign/Branco;MT;104
+2012;Medicamento;MT;202
+2012;AgrotÛxico agrÌcola;MT;93
+2012;AgrotÛxico domÈstico;MT;29
+2012;AgrotÛxico sa˙de p˙blica;MT;8
+2012;Raticida;MT;64
+2012;Prod. veterin·rio;MT;20
+2012;Prod. uso domiciliar;MT;74
+2012;CosmÈtico;MT;1
+2012;Prod. quÌmico;MT;59
+2012;Metal;MT;0
+2012;Drogas de abuso;MT;12
+2012;Planta tÛxica;MT;11
+2012;Alimento e bebida;MT;26
+2012;Outro;MT;27
+2012;Ign/Branco;GO;481
+2012;Medicamento;GO;636
+2012;AgrotÛxico agrÌcola;GO;192
+2012;AgrotÛxico domÈstico;GO;66
+2012;AgrotÛxico sa˙de p˙blica;GO;14
+2012;Raticida;GO;201
+2012;Prod. veterin·rio;GO;42
+2012;Prod. uso domiciliar;GO;137
+2012;CosmÈtico;GO;23
+2012;Prod. quÌmico;GO;104
+2012;Metal;GO;3
+2012;Drogas de abuso;GO;343
+2012;Planta tÛxica;GO;18
+2012;Alimento e bebida;GO;236
+2012;Outro;GO;34
+2012;Ign/Branco;DF;194
+2012;Medicamento;DF;631
+2012;AgrotÛxico agrÌcola;DF;20
+2012;AgrotÛxico domÈstico;DF;23
+2012;AgrotÛxico sa˙de p˙blica;DF;11
+2012;Raticida;DF;173
+2012;Prod. veterin·rio;DF;8
+2012;Prod. uso domiciliar;DF;139
+2012;CosmÈtico;DF;31
+2012;Prod. quÌmico;DF;88
+2012;Metal;DF;9
+2012;Drogas de abuso;DF;90
+2012;Planta tÛxica;DF;16
+2012;Alimento e bebida;DF;97
+2012;Outro;DF;24
+2013;Ign/Branco;RO;48
+2013;Medicamento;RO;60
+2013;AgrotÛxico agrÌcola;RO;55
+2013;AgrotÛxico domÈstico;RO;11
+2013;AgrotÛxico sa˙de p˙blica;RO;1
+2013;Raticida;RO;25
+2013;Prod. veterin·rio;RO;6
+2013;Prod. uso domiciliar;RO;20
+2013;CosmÈtico;RO;2
+2013;Prod. quÌmico;RO;16
+2013;Metal;RO;0
+2013;Drogas de abuso;RO;3
+2013;Planta tÛxica;RO;1
+2013;Alimento e bebida;RO;17
+2013;Outro;RO;10
+2013;Ign/Branco;AC;5
+2013;Medicamento;AC;0
+2013;AgrotÛxico agrÌcola;AC;0
+2013;AgrotÛxico domÈstico;AC;0
+2013;AgrotÛxico sa˙de p˙blica;AC;0
+2013;Raticida;AC;0
+2013;Prod. veterin·rio;AC;0
+2013;Prod. uso domiciliar;AC;0
+2013;CosmÈtico;AC;0
+2013;Prod. quÌmico;AC;0
+2013;Metal;AC;0
+2013;Drogas de abuso;AC;0
+2013;Planta tÛxica;AC;0
+2013;Alimento e bebida;AC;0
+2013;Outro;AC;0
+2013;Ign/Branco;AM;49
+2013;Medicamento;AM;92
+2013;AgrotÛxico agrÌcola;AM;10
+2013;AgrotÛxico domÈstico;AM;9
+2013;AgrotÛxico sa˙de p˙blica;AM;3
+2013;Raticida;AM;27
+2013;Prod. veterin·rio;AM;1
+2013;Prod. uso domiciliar;AM;55
+2013;CosmÈtico;AM;8
+2013;Prod. quÌmico;AM;9
+2013;Metal;AM;1
+2013;Drogas de abuso;AM;147
+2013;Planta tÛxica;AM;8
+2013;Alimento e bebida;AM;229
+2013;Outro;AM;18
+2013;Ign/Branco;RR;10
+2013;Medicamento;RR;42
+2013;AgrotÛxico agrÌcola;RR;5
+2013;AgrotÛxico domÈstico;RR;2
+2013;AgrotÛxico sa˙de p˙blica;RR;0
+2013;Raticida;RR;12
+2013;Prod. veterin·rio;RR;2
+2013;Prod. uso domiciliar;RR;21
+2013;CosmÈtico;RR;9
+2013;Prod. quÌmico;RR;21
+2013;Metal;RR;0
+2013;Drogas de abuso;RR;0
+2013;Planta tÛxica;RR;3
+2013;Alimento e bebida;RR;10
+2013;Outro;RR;12
+2013;Ign/Branco;PA;46
+2013;Medicamento;PA;112
+2013;AgrotÛxico agrÌcola;PA;39
+2013;AgrotÛxico domÈstico;PA;22
+2013;AgrotÛxico sa˙de p˙blica;PA;2
+2013;Raticida;PA;83
+2013;Prod. veterin·rio;PA;4
+2013;Prod. uso domiciliar;PA;35
+2013;CosmÈtico;PA;8
+2013;Prod. quÌmico;PA;25
+2013;Metal;PA;0
+2013;Drogas de abuso;PA;3
+2013;Planta tÛxica;PA;4
+2013;Alimento e bebida;PA;78
+2013;Outro;PA;14
+2013;Ign/Branco;AP;2
+2013;Medicamento;AP;8
+2013;AgrotÛxico agrÌcola;AP;0
+2013;AgrotÛxico domÈstico;AP;1
+2013;AgrotÛxico sa˙de p˙blica;AP;0
+2013;Raticida;AP;10
+2013;Prod. veterin·rio;AP;0
+2013;Prod. uso domiciliar;AP;5
+2013;CosmÈtico;AP;0
+2013;Prod. quÌmico;AP;1
+2013;Metal;AP;0
+2013;Drogas de abuso;AP;0
+2013;Planta tÛxica;AP;0
+2013;Alimento e bebida;AP;0
+2013;Outro;AP;1
+2013;Ign/Branco;TO;102
+2013;Medicamento;TO;366
+2013;AgrotÛxico agrÌcola;TO;100
+2013;AgrotÛxico domÈstico;TO;43
+2013;AgrotÛxico sa˙de p˙blica;TO;13
+2013;Raticida;TO;83
+2013;Prod. veterin·rio;TO;26
+2013;Prod. uso domiciliar;TO;108
+2013;CosmÈtico;TO;18
+2013;Prod. quÌmico;TO;146
+2013;Metal;TO;4
+2013;Drogas de abuso;TO;7
+2013;Planta tÛxica;TO;27
+2013;Alimento e bebida;TO;129
+2013;Outro;TO;32
+2013;Ign/Branco;MA;108
+2013;Medicamento;MA;128
+2013;AgrotÛxico agrÌcola;MA;15
+2013;AgrotÛxico domÈstico;MA;5
+2013;AgrotÛxico sa˙de p˙blica;MA;7
+2013;Raticida;MA;45
+2013;Prod. veterin·rio;MA;1
+2013;Prod. uso domiciliar;MA;26
+2013;CosmÈtico;MA;8
+2013;Prod. quÌmico;MA;12
+2013;Metal;MA;0
+2013;Drogas de abuso;MA;10
+2013;Planta tÛxica;MA;2
+2013;Alimento e bebida;MA;100
+2013;Outro;MA;9
+2013;Ign/Branco;PI;146
+2013;Medicamento;PI;446
+2013;AgrotÛxico agrÌcola;PI;23
+2013;AgrotÛxico domÈstico;PI;23
+2013;AgrotÛxico sa˙de p˙blica;PI;4
+2013;Raticida;PI;44
+2013;Prod. veterin·rio;PI;13
+2013;Prod. uso domiciliar;PI;44
+2013;CosmÈtico;PI;12
+2013;Prod. quÌmico;PI;28
+2013;Metal;PI;0
+2013;Drogas de abuso;PI;16
+2013;Planta tÛxica;PI;14
+2013;Alimento e bebida;PI;51
+2013;Outro;PI;15
+2013;Ign/Branco;CE;747
+2013;Medicamento;CE;695
+2013;AgrotÛxico agrÌcola;CE;210
+2013;AgrotÛxico domÈstico;CE;46
+2013;AgrotÛxico sa˙de p˙blica;CE;5
+2013;Raticida;CE;127
+2013;Prod. veterin·rio;CE;39
+2013;Prod. uso domiciliar;CE;107
+2013;CosmÈtico;CE;29
+2013;Prod. quÌmico;CE;93
+2013;Metal;CE;5
+2013;Drogas de abuso;CE;298
+2013;Planta tÛxica;CE;7
+2013;Alimento e bebida;CE;141
+2013;Outro;CE;30
+2013;Ign/Branco;RN;740
+2013;Medicamento;RN;226
+2013;AgrotÛxico agrÌcola;RN;6
+2013;AgrotÛxico domÈstico;RN;4
+2013;AgrotÛxico sa˙de p˙blica;RN;0
+2013;Raticida;RN;29
+2013;Prod. veterin·rio;RN;3
+2013;Prod. uso domiciliar;RN;39
+2013;CosmÈtico;RN;9
+2013;Prod. quÌmico;RN;33
+2013;Metal;RN;1
+2013;Drogas de abuso;RN;628
+2013;Planta tÛxica;RN;11
+2013;Alimento e bebida;RN;158
+2013;Outro;RN;15
+2013;Ign/Branco;PB;203
+2013;Medicamento;PB;598
+2013;AgrotÛxico agrÌcola;PB;50
+2013;AgrotÛxico domÈstico;PB;34
+2013;AgrotÛxico sa˙de p˙blica;PB;3
+2013;Raticida;PB;96
+2013;Prod. veterin·rio;PB;15
+2013;Prod. uso domiciliar;PB;97
+2013;CosmÈtico;PB;37
+2013;Prod. quÌmico;PB;55
+2013;Metal;PB;2
+2013;Drogas de abuso;PB;158
+2013;Planta tÛxica;PB;15
+2013;Alimento e bebida;PB;341
+2013;Outro;PB;70
+2013;Ign/Branco;PE;965
+2013;Medicamento;PE;2179
+2013;AgrotÛxico agrÌcola;PE;404
+2013;AgrotÛxico domÈstico;PE;199
+2013;AgrotÛxico sa˙de p˙blica;PE;14
+2013;Raticida;PE;309
+2013;Prod. veterin·rio;PE;70
+2013;Prod. uso domiciliar;PE;441
+2013;CosmÈtico;PE;67
+2013;Prod. quÌmico;PE;249
+2013;Metal;PE;11
+2013;Drogas de abuso;PE;563
+2013;Planta tÛxica;PE;34
+2013;Alimento e bebida;PE;1264
+2013;Outro;PE;122
+2013;Ign/Branco;AL;1553
+2013;Medicamento;AL;1288
+2013;AgrotÛxico agrÌcola;AL;208
+2013;AgrotÛxico domÈstico;AL;28
+2013;AgrotÛxico sa˙de p˙blica;AL;6
+2013;Raticida;AL;134
+2013;Prod. veterin·rio;AL;32
+2013;Prod. uso domiciliar;AL;191
+2013;CosmÈtico;AL;43
+2013;Prod. quÌmico;AL;56
+2013;Metal;AL;1
+2013;Drogas de abuso;AL;333
+2013;Planta tÛxica;AL;60
+2013;Alimento e bebida;AL;510
+2013;Outro;AL;58
+2013;Ign/Branco;SE;78
+2013;Medicamento;SE;263
+2013;AgrotÛxico agrÌcola;SE;8
+2013;AgrotÛxico domÈstico;SE;22
+2013;AgrotÛxico sa˙de p˙blica;SE;1
+2013;Raticida;SE;78
+2013;Prod. veterin·rio;SE;9
+2013;Prod. uso domiciliar;SE;76
+2013;CosmÈtico;SE;17
+2013;Prod. quÌmico;SE;20
+2013;Metal;SE;0
+2013;Drogas de abuso;SE;232
+2013;Planta tÛxica;SE;9
+2013;Alimento e bebida;SE;73
+2013;Outro;SE;7
+2013;Ign/Branco;BA;765
+2013;Medicamento;BA;1064
+2013;AgrotÛxico agrÌcola;BA;240
+2013;AgrotÛxico domÈstico;BA;51
+2013;AgrotÛxico sa˙de p˙blica;BA;36
+2013;Raticida;BA;260
+2013;Prod. veterin·rio;BA;47
+2013;Prod. uso domiciliar;BA;220
+2013;CosmÈtico;BA;40
+2013;Prod. quÌmico;BA;164
+2013;Metal;BA;5
+2013;Drogas de abuso;BA;187
+2013;Planta tÛxica;BA;33
+2013;Alimento e bebida;BA;398
+2013;Outro;BA;91
+2013;Ign/Branco;MG;1281
+2013;Medicamento;MG;7676
+2013;AgrotÛxico agrÌcola;MG;863
+2013;AgrotÛxico domÈstico;MG;174
+2013;AgrotÛxico sa˙de p˙blica;MG;54
+2013;Raticida;MG;938
+2013;Prod. veterin·rio;MG;187
+2013;Prod. uso domiciliar;MG;804
+2013;CosmÈtico;MG;192
+2013;Prod. quÌmico;MG;577
+2013;Metal;MG;19
+2013;Drogas de abuso;MG;1329
+2013;Planta tÛxica;MG;119
+2013;Alimento e bebida;MG;1342
+2013;Outro;MG;546
+2013;Ign/Branco;ES;141
+2013;Medicamento;ES;1711
+2013;AgrotÛxico agrÌcola;ES;355
+2013;AgrotÛxico domÈstico;ES;73
+2013;AgrotÛxico sa˙de p˙blica;ES;22
+2013;Raticida;ES;95
+2013;Prod. veterin·rio;ES;38
+2013;Prod. uso domiciliar;ES;377
+2013;CosmÈtico;ES;61
+2013;Prod. quÌmico;ES;237
+2013;Metal;ES;5
+2013;Drogas de abuso;ES;356
+2013;Planta tÛxica;ES;49
+2013;Alimento e bebida;ES;556
+2013;Outro;ES;73
+2013;Ign/Branco;RJ;668
+2013;Medicamento;RJ;389
+2013;AgrotÛxico agrÌcola;RJ;28
+2013;AgrotÛxico domÈstico;RJ;20
+2013;AgrotÛxico sa˙de p˙blica;RJ;15
+2013;Raticida;RJ;106
+2013;Prod. veterin·rio;RJ;14
+2013;Prod. uso domiciliar;RJ;114
+2013;CosmÈtico;RJ;6
+2013;Prod. quÌmico;RJ;41
+2013;Metal;RJ;2
+2013;Drogas de abuso;RJ;626
+2013;Planta tÛxica;RJ;18
+2013;Alimento e bebida;RJ;216
+2013;Outro;RJ;26
+2013;Ign/Branco;SP;1851
+2013;Medicamento;SP;9231
+2013;AgrotÛxico agrÌcola;SP;479
+2013;AgrotÛxico domÈstico;SP;240
+2013;AgrotÛxico sa˙de p˙blica;SP;39
+2013;Raticida;SP;1265
+2013;Prod. veterin·rio;SP;176
+2013;Prod. uso domiciliar;SP;1498
+2013;CosmÈtico;SP;204
+2013;Prod. quÌmico;SP;708
+2013;Metal;SP;45
+2013;Drogas de abuso;SP;5129
+2013;Planta tÛxica;SP;73
+2013;Alimento e bebida;SP;2465
+2013;Outro;SP;658
+2013;Ign/Branco;PR;468
+2013;Medicamento;PR;4588
+2013;AgrotÛxico agrÌcola;PR;632
+2013;AgrotÛxico domÈstico;PR;220
+2013;AgrotÛxico sa˙de p˙blica;PR;11
+2013;Raticida;PR;520
+2013;Prod. veterin·rio;PR;103
+2013;Prod. uso domiciliar;PR;689
+2013;CosmÈtico;PR;88
+2013;Prod. quÌmico;PR;577
+2013;Metal;PR;27
+2013;Drogas de abuso;PR;892
+2013;Planta tÛxica;PR;59
+2013;Alimento e bebida;PR;217
+2013;Outro;PR;336
+2013;Ign/Branco;SC;277
+2013;Medicamento;SC;2119
+2013;AgrotÛxico agrÌcola;SC;221
+2013;AgrotÛxico domÈstico;SC;93
+2013;AgrotÛxico sa˙de p˙blica;SC;1
+2013;Raticida;SC;173
+2013;Prod. veterin·rio;SC;24
+2013;Prod. uso domiciliar;SC;196
+2013;CosmÈtico;SC;21
+2013;Prod. quÌmico;SC;164
+2013;Metal;SC;5
+2013;Drogas de abuso;SC;327
+2013;Planta tÛxica;SC;38
+2013;Alimento e bebida;SC;151
+2013;Outro;SC;123
+2013;Ign/Branco;RS;184
+2013;Medicamento;RS;535
+2013;AgrotÛxico agrÌcola;RS;93
+2013;AgrotÛxico domÈstico;RS;12
+2013;AgrotÛxico sa˙de p˙blica;RS;1
+2013;Raticida;RS;38
+2013;Prod. veterin·rio;RS;14
+2013;Prod. uso domiciliar;RS;50
+2013;CosmÈtico;RS;2
+2013;Prod. quÌmico;RS;70
+2013;Metal;RS;2
+2013;Drogas de abuso;RS;53
+2013;Planta tÛxica;RS;10
+2013;Alimento e bebida;RS;225
+2013;Outro;RS;1237
+2013;Ign/Branco;MS;181
+2013;Medicamento;MS;612
+2013;AgrotÛxico agrÌcola;MS;82
+2013;AgrotÛxico domÈstico;MS;45
+2013;AgrotÛxico sa˙de p˙blica;MS;12
+2013;Raticida;MS;62
+2013;Prod. veterin·rio;MS;37
+2013;Prod. uso domiciliar;MS;79
+2013;CosmÈtico;MS;8
+2013;Prod. quÌmico;MS;49
+2013;Metal;MS;0
+2013;Drogas de abuso;MS;42
+2013;Planta tÛxica;MS;11
+2013;Alimento e bebida;MS;115
+2013;Outro;MS;41
+2013;Ign/Branco;MT;89
+2013;Medicamento;MT;243
+2013;AgrotÛxico agrÌcola;MT;111
+2013;AgrotÛxico domÈstico;MT;41
+2013;AgrotÛxico sa˙de p˙blica;MT;5
+2013;Raticida;MT;82
+2013;Prod. veterin·rio;MT;29
+2013;Prod. uso domiciliar;MT;72
+2013;CosmÈtico;MT;7
+2013;Prod. quÌmico;MT;51
+2013;Metal;MT;1
+2013;Drogas de abuso;MT;33
+2013;Planta tÛxica;MT;9
+2013;Alimento e bebida;MT;91
+2013;Outro;MT;53
+2013;Ign/Branco;GO;308
+2013;Medicamento;GO;1011
+2013;AgrotÛxico agrÌcola;GO;369
+2013;AgrotÛxico domÈstico;GO;96
+2013;AgrotÛxico sa˙de p˙blica;GO;18
+2013;Raticida;GO;265
+2013;Prod. veterin·rio;GO;82
+2013;Prod. uso domiciliar;GO;217
+2013;CosmÈtico;GO;63
+2013;Prod. quÌmico;GO;343
+2013;Metal;GO;4
+2013;Drogas de abuso;GO;586
+2013;Planta tÛxica;GO;47
+2013;Alimento e bebida;GO;310
+2013;Outro;GO;75
+2013;Ign/Branco;DF;210
+2013;Medicamento;DF;1272
+2013;AgrotÛxico agrÌcola;DF;58
+2013;AgrotÛxico domÈstico;DF;69
+2013;AgrotÛxico sa˙de p˙blica;DF;0
+2013;Raticida;DF;178
+2013;Prod. veterin·rio;DF;7
+2013;Prod. uso domiciliar;DF;317
+2013;CosmÈtico;DF;69
+2013;Prod. quÌmico;DF;161
+2013;Metal;DF;5
+2013;Drogas de abuso;DF;95
+2013;Planta tÛxica;DF;40
+2013;Alimento e bebida;DF;65
+2013;Outro;DF;35
+2014;Ign/Branco;RO;50
+2014;Medicamento;RO;57
+2014;AgrotÛxico agrÌcola;RO;72
+2014;AgrotÛxico domÈstico;RO;16
+2014;AgrotÛxico sa˙de p˙blica;RO;4
+2014;Raticida;RO;36
+2014;Prod. veterin·rio;RO;8
+2014;Prod. uso domiciliar;RO;10
+2014;CosmÈtico;RO;3
+2014;Prod. quÌmico;RO;10
+2014;Metal;RO;1
+2014;Drogas de abuso;RO;1
+2014;Planta tÛxica;RO;1
+2014;Alimento e bebida;RO;25
+2014;Outro;RO;13
+2014;Ign/Branco;AC;3
+2014;Medicamento;AC;1
+2014;AgrotÛxico agrÌcola;AC;0
+2014;AgrotÛxico domÈstico;AC;0
+2014;AgrotÛxico sa˙de p˙blica;AC;0
+2014;Raticida;AC;0
+2014;Prod. veterin·rio;AC;0
+2014;Prod. uso domiciliar;AC;0
+2014;CosmÈtico;AC;0
+2014;Prod. quÌmico;AC;0
+2014;Metal;AC;0
+2014;Drogas de abuso;AC;0
+2014;Planta tÛxica;AC;0
+2014;Alimento e bebida;AC;0
+2014;Outro;AC;0
+2014;Ign/Branco;AM;129
+2014;Medicamento;AM;131
+2014;AgrotÛxico agrÌcola;AM;10
+2014;AgrotÛxico domÈstico;AM;16
+2014;AgrotÛxico sa˙de p˙blica;AM;1
+2014;Raticida;AM;25
+2014;Prod. veterin·rio;AM;7
+2014;Prod. uso domiciliar;AM;49
+2014;CosmÈtico;AM;8
+2014;Prod. quÌmico;AM;46
+2014;Metal;AM;2
+2014;Drogas de abuso;AM;64
+2014;Planta tÛxica;AM;2
+2014;Alimento e bebida;AM;56
+2014;Outro;AM;6
+2014;Ign/Branco;RR;49
+2014;Medicamento;RR;111
+2014;AgrotÛxico agrÌcola;RR;9
+2014;AgrotÛxico domÈstico;RR;9
+2014;AgrotÛxico sa˙de p˙blica;RR;5
+2014;Raticida;RR;36
+2014;Prod. veterin·rio;RR;7
+2014;Prod. uso domiciliar;RR;30
+2014;CosmÈtico;RR;9
+2014;Prod. quÌmico;RR;12
+2014;Metal;RR;0
+2014;Drogas de abuso;RR;12
+2014;Planta tÛxica;RR;7
+2014;Alimento e bebida;RR;23
+2014;Outro;RR;12
+2014;Ign/Branco;PA;37
+2014;Medicamento;PA;86
+2014;AgrotÛxico agrÌcola;PA;27
+2014;AgrotÛxico domÈstico;PA;24
+2014;AgrotÛxico sa˙de p˙blica;PA;3
+2014;Raticida;PA;80
+2014;Prod. veterin·rio;PA;7
+2014;Prod. uso domiciliar;PA;27
+2014;CosmÈtico;PA;7
+2014;Prod. quÌmico;PA;25
+2014;Metal;PA;2
+2014;Drogas de abuso;PA;3
+2014;Planta tÛxica;PA;0
+2014;Alimento e bebida;PA;30
+2014;Outro;PA;18
+2014;Ign/Branco;AP;7
+2014;Medicamento;AP;3
+2014;AgrotÛxico agrÌcola;AP;1
+2014;AgrotÛxico domÈstico;AP;0
+2014;AgrotÛxico sa˙de p˙blica;AP;0
+2014;Raticida;AP;17
+2014;Prod. veterin·rio;AP;0
+2014;Prod. uso domiciliar;AP;1
+2014;CosmÈtico;AP;0
+2014;Prod. quÌmico;AP;3
+2014;Metal;AP;0
+2014;Drogas de abuso;AP;0
+2014;Planta tÛxica;AP;0
+2014;Alimento e bebida;AP;0
+2014;Outro;AP;0
+2014;Ign/Branco;TO;105
+2014;Medicamento;TO;423
+2014;AgrotÛxico agrÌcola;TO;140
+2014;AgrotÛxico domÈstico;TO;51
+2014;AgrotÛxico sa˙de p˙blica;TO;5
+2014;Raticida;TO;70
+2014;Prod. veterin·rio;TO;30
+2014;Prod. uso domiciliar;TO;117
+2014;CosmÈtico;TO;26
+2014;Prod. quÌmico;TO;59
+2014;Metal;TO;1
+2014;Drogas de abuso;TO;8
+2014;Planta tÛxica;TO;17
+2014;Alimento e bebida;TO;154
+2014;Outro;TO;57
+2014;Ign/Branco;MA;73
+2014;Medicamento;MA;209
+2014;AgrotÛxico agrÌcola;MA;16
+2014;AgrotÛxico domÈstico;MA;4
+2014;AgrotÛxico sa˙de p˙blica;MA;0
+2014;Raticida;MA;44
+2014;Prod. veterin·rio;MA;8
+2014;Prod. uso domiciliar;MA;35
+2014;CosmÈtico;MA;7
+2014;Prod. quÌmico;MA;12
+2014;Metal;MA;1
+2014;Drogas de abuso;MA;3
+2014;Planta tÛxica;MA;5
+2014;Alimento e bebida;MA;31
+2014;Outro;MA;19
+2014;Ign/Branco;PI;182
+2014;Medicamento;PI;533
+2014;AgrotÛxico agrÌcola;PI;25
+2014;AgrotÛxico domÈstico;PI;15
+2014;AgrotÛxico sa˙de p˙blica;PI;3
+2014;Raticida;PI;50
+2014;Prod. veterin·rio;PI;18
+2014;Prod. uso domiciliar;PI;81
+2014;CosmÈtico;PI;23
+2014;Prod. quÌmico;PI;44
+2014;Metal;PI;0
+2014;Drogas de abuso;PI;16
+2014;Planta tÛxica;PI;9
+2014;Alimento e bebida;PI;75
+2014;Outro;PI;20
+2014;Ign/Branco;CE;781
+2014;Medicamento;CE;744
+2014;AgrotÛxico agrÌcola;CE;198
+2014;AgrotÛxico domÈstico;CE;49
+2014;AgrotÛxico sa˙de p˙blica;CE;5
+2014;Raticida;CE;146
+2014;Prod. veterin·rio;CE;34
+2014;Prod. uso domiciliar;CE;90
+2014;CosmÈtico;CE;20
+2014;Prod. quÌmico;CE;110
+2014;Metal;CE;6
+2014;Drogas de abuso;CE;282
+2014;Planta tÛxica;CE;11
+2014;Alimento e bebida;CE;278
+2014;Outro;CE;76
+2014;Ign/Branco;RN;1024
+2014;Medicamento;RN;375
+2014;AgrotÛxico agrÌcola;RN;7
+2014;AgrotÛxico domÈstico;RN;8
+2014;AgrotÛxico sa˙de p˙blica;RN;1
+2014;Raticida;RN;41
+2014;Prod. veterin·rio;RN;4
+2014;Prod. uso domiciliar;RN;60
+2014;CosmÈtico;RN;27
+2014;Prod. quÌmico;RN;16
+2014;Metal;RN;1
+2014;Drogas de abuso;RN;870
+2014;Planta tÛxica;RN;5
+2014;Alimento e bebida;RN;215
+2014;Outro;RN;22
+2014;Ign/Branco;PB;275
+2014;Medicamento;PB;614
+2014;AgrotÛxico agrÌcola;PB;32
+2014;AgrotÛxico domÈstico;PB;35
+2014;AgrotÛxico sa˙de p˙blica;PB;4
+2014;Raticida;PB;111
+2014;Prod. veterin·rio;PB;25
+2014;Prod. uso domiciliar;PB;135
+2014;CosmÈtico;PB;37
+2014;Prod. quÌmico;PB;65
+2014;Metal;PB;2
+2014;Drogas de abuso;PB;149
+2014;Planta tÛxica;PB;24
+2014;Alimento e bebida;PB;437
+2014;Outro;PB;65
+2014;Ign/Branco;PE;927
+2014;Medicamento;PE;2708
+2014;AgrotÛxico agrÌcola;PE;410
+2014;AgrotÛxico domÈstico;PE;162
+2014;AgrotÛxico sa˙de p˙blica;PE;7
+2014;Raticida;PE;272
+2014;Prod. veterin·rio;PE;62
+2014;Prod. uso domiciliar;PE;461
+2014;CosmÈtico;PE;106
+2014;Prod. quÌmico;PE;322
+2014;Metal;PE;9
+2014;Drogas de abuso;PE;999
+2014;Planta tÛxica;PE;42
+2014;Alimento e bebida;PE;1808
+2014;Outro;PE;134
+2014;Ign/Branco;AL;1569
+2014;Medicamento;AL;1346
+2014;AgrotÛxico agrÌcola;AL;180
+2014;AgrotÛxico domÈstico;AL;28
+2014;AgrotÛxico sa˙de p˙blica;AL;4
+2014;Raticida;AL;129
+2014;Prod. veterin·rio;AL;38
+2014;Prod. uso domiciliar;AL;201
+2014;CosmÈtico;AL;33
+2014;Prod. quÌmico;AL;55
+2014;Metal;AL;0
+2014;Drogas de abuso;AL;302
+2014;Planta tÛxica;AL;41
+2014;Alimento e bebida;AL;470
+2014;Outro;AL;89
+2014;Ign/Branco;SE;39
+2014;Medicamento;SE;237
+2014;AgrotÛxico agrÌcola;SE;7
+2014;AgrotÛxico domÈstico;SE;17
+2014;AgrotÛxico sa˙de p˙blica;SE;0
+2014;Raticida;SE;74
+2014;Prod. veterin·rio;SE;11
+2014;Prod. uso domiciliar;SE;63
+2014;CosmÈtico;SE;8
+2014;Prod. quÌmico;SE;13
+2014;Metal;SE;2
+2014;Drogas de abuso;SE;122
+2014;Planta tÛxica;SE;6
+2014;Alimento e bebida;SE;35
+2014;Outro;SE;5
+2014;Ign/Branco;BA;461
+2014;Medicamento;BA;1026
+2014;AgrotÛxico agrÌcola;BA;233
+2014;AgrotÛxico domÈstico;BA;56
+2014;AgrotÛxico sa˙de p˙blica;BA;9
+2014;Raticida;BA;242
+2014;Prod. veterin·rio;BA;49
+2014;Prod. uso domiciliar;BA;211
+2014;CosmÈtico;BA;60
+2014;Prod. quÌmico;BA;95
+2014;Metal;BA;5
+2014;Drogas de abuso;BA;178
+2014;Planta tÛxica;BA;60
+2014;Alimento e bebida;BA;530
+2014;Outro;BA;87
+2014;Ign/Branco;MG;1121
+2014;Medicamento;MG;8370
+2014;AgrotÛxico agrÌcola;MG;650
+2014;AgrotÛxico domÈstico;MG;184
+2014;AgrotÛxico sa˙de p˙blica;MG;27
+2014;Raticida;MG;967
+2014;Prod. veterin·rio;MG;215
+2014;Prod. uso domiciliar;MG;806
+2014;CosmÈtico;MG;219
+2014;Prod. quÌmico;MG;610
+2014;Metal;MG;16
+2014;Drogas de abuso;MG;1579
+2014;Planta tÛxica;MG;146
+2014;Alimento e bebida;MG;1389
+2014;Outro;MG;598
+2014;Ign/Branco;ES;188
+2014;Medicamento;ES;2013
+2014;AgrotÛxico agrÌcola;ES;360
+2014;AgrotÛxico domÈstico;ES;65
+2014;AgrotÛxico sa˙de p˙blica;ES;32
+2014;Raticida;ES;150
+2014;Prod. veterin·rio;ES;51
+2014;Prod. uso domiciliar;ES;341
+2014;CosmÈtico;ES;85
+2014;Prod. quÌmico;ES;164
+2014;Metal;ES;5
+2014;Drogas de abuso;ES;483
+2014;Planta tÛxica;ES;49
+2014;Alimento e bebida;ES;893
+2014;Outro;ES;168
+2014;Ign/Branco;RJ;446
+2014;Medicamento;RJ;690
+2014;AgrotÛxico agrÌcola;RJ;62
+2014;AgrotÛxico domÈstico;RJ;27
+2014;AgrotÛxico sa˙de p˙blica;RJ;8
+2014;Raticida;RJ;198
+2014;Prod. veterin·rio;RJ;21
+2014;Prod. uso domiciliar;RJ;133
+2014;CosmÈtico;RJ;14
+2014;Prod. quÌmico;RJ;82
+2014;Metal;RJ;4
+2014;Drogas de abuso;RJ;694
+2014;Planta tÛxica;RJ;8
+2014;Alimento e bebida;RJ;311
+2014;Outro;RJ;62
+2014;Ign/Branco;SP;1656
+2014;Medicamento;SP;10305
+2014;AgrotÛxico agrÌcola;SP;778
+2014;AgrotÛxico domÈstico;SP;218
+2014;AgrotÛxico sa˙de p˙blica;SP;79
+2014;Raticida;SP;1044
+2014;Prod. veterin·rio;SP;193
+2014;Prod. uso domiciliar;SP;1593
+2014;CosmÈtico;SP;209
+2014;Prod. quÌmico;SP;688
+2014;Metal;SP;81
+2014;Drogas de abuso;SP;5702
+2014;Planta tÛxica;SP;45
+2014;Alimento e bebida;SP;1764
+2014;Outro;SP;526
+2014;Ign/Branco;PR;366
+2014;Medicamento;PR;4566
+2014;AgrotÛxico agrÌcola;PR;700
+2014;AgrotÛxico domÈstico;PR;213
+2014;AgrotÛxico sa˙de p˙blica;PR;24
+2014;Raticida;PR;530
+2014;Prod. veterin·rio;PR;128
+2014;Prod. uso domiciliar;PR;622
+2014;CosmÈtico;PR;65
+2014;Prod. quÌmico;PR;591
+2014;Metal;PR;13
+2014;Drogas de abuso;PR;770
+2014;Planta tÛxica;PR;92
+2014;Alimento e bebida;PR;137
+2014;Outro;PR;291
+2014;Ign/Branco;SC;305
+2014;Medicamento;SC;2345
+2014;AgrotÛxico agrÌcola;SC;287
+2014;AgrotÛxico domÈstico;SC;115
+2014;AgrotÛxico sa˙de p˙blica;SC;3
+2014;Raticida;SC;149
+2014;Prod. veterin·rio;SC;35
+2014;Prod. uso domiciliar;SC;166
+2014;CosmÈtico;SC;19
+2014;Prod. quÌmico;SC;147
+2014;Metal;SC;4
+2014;Drogas de abuso;SC;368
+2014;Planta tÛxica;SC;43
+2014;Alimento e bebida;SC;396
+2014;Outro;SC;106
+2014;Ign/Branco;RS;255
+2014;Medicamento;RS;700
+2014;AgrotÛxico agrÌcola;RS;166
+2014;AgrotÛxico domÈstico;RS;26
+2014;AgrotÛxico sa˙de p˙blica;RS;2
+2014;Raticida;RS;50
+2014;Prod. veterin·rio;RS;25
+2014;Prod. uso domiciliar;RS;58
+2014;CosmÈtico;RS;6
+2014;Prod. quÌmico;RS;115
+2014;Metal;RS;2
+2014;Drogas de abuso;RS;54
+2014;Planta tÛxica;RS;29
+2014;Alimento e bebida;RS;183
+2014;Outro;RS;50
+2014;Ign/Branco;MS;129
+2014;Medicamento;MS;582
+2014;AgrotÛxico agrÌcola;MS;79
+2014;AgrotÛxico domÈstico;MS;35
+2014;AgrotÛxico sa˙de p˙blica;MS;6
+2014;Raticida;MS;69
+2014;Prod. veterin·rio;MS;42
+2014;Prod. uso domiciliar;MS;126
+2014;CosmÈtico;MS;8
+2014;Prod. quÌmico;MS;42
+2014;Metal;MS;0
+2014;Drogas de abuso;MS;51
+2014;Planta tÛxica;MS;13
+2014;Alimento e bebida;MS;165
+2014;Outro;MS;46
+2014;Ign/Branco;MT;84
+2014;Medicamento;MT;259
+2014;AgrotÛxico agrÌcola;MT;83
+2014;AgrotÛxico domÈstico;MT;37
+2014;AgrotÛxico sa˙de p˙blica;MT;1
+2014;Raticida;MT;74
+2014;Prod. veterin·rio;MT;21
+2014;Prod. uso domiciliar;MT;81
+2014;CosmÈtico;MT;7
+2014;Prod. quÌmico;MT;57
+2014;Metal;MT;0
+2014;Drogas de abuso;MT;46
+2014;Planta tÛxica;MT;6
+2014;Alimento e bebida;MT;132
+2014;Outro;MT;30
+2014;Ign/Branco;GO;260
+2014;Medicamento;GO;1247
+2014;AgrotÛxico agrÌcola;GO;278
+2014;AgrotÛxico domÈstico;GO;114
+2014;AgrotÛxico sa˙de p˙blica;GO;21
+2014;Raticida;GO;330
+2014;Prod. veterin·rio;GO;104
+2014;Prod. uso domiciliar;GO;253
+2014;CosmÈtico;GO;76
+2014;Prod. quÌmico;GO;233
+2014;Metal;GO;5
+2014;Drogas de abuso;GO;668
+2014;Planta tÛxica;GO;45
+2014;Alimento e bebida;GO;263
+2014;Outro;GO;61
+2014;Ign/Branco;DF;177
+2014;Medicamento;DF;863
+2014;AgrotÛxico agrÌcola;DF;42
+2014;AgrotÛxico domÈstico;DF;39
+2014;AgrotÛxico sa˙de p˙blica;DF;2
+2014;Raticida;DF;138
+2014;Prod. veterin·rio;DF;15
+2014;Prod. uso domiciliar;DF;152
+2014;CosmÈtico;DF;39
+2014;Prod. quÌmico;DF;90
+2014;Metal;DF;5
+2014;Drogas de abuso;DF;206
+2014;Planta tÛxica;DF;19
+2014;Alimento e bebida;DF;93
+2014;Outro;DF;20
+2015;Ign/Branco;RO;46
+2015;Medicamento;RO;82
+2015;AgrotÛxico agrÌcola;RO;70
+2015;AgrotÛxico domÈstico;RO;15
+2015;AgrotÛxico sa˙de p˙blica;RO;0
+2015;Raticida;RO;44
+2015;Prod. veterin·rio;RO;18
+2015;Prod. uso domiciliar;RO;28
+2015;CosmÈtico;RO;4
+2015;Prod. quÌmico;RO;24
+2015;Metal;RO;2
+2015;Drogas de abuso;RO;5
+2015;Planta tÛxica;RO;2
+2015;Alimento e bebida;RO;30
+2015;Outro;RO;10
+2015;Ign/Branco;AC;6
+2015;Medicamento;AC;23
+2015;AgrotÛxico agrÌcola;AC;7
+2015;AgrotÛxico domÈstico;AC;6
+2015;AgrotÛxico sa˙de p˙blica;AC;0
+2015;Raticida;AC;8
+2015;Prod. veterin·rio;AC;1
+2015;Prod. uso domiciliar;AC;1
+2015;CosmÈtico;AC;2
+2015;Prod. quÌmico;AC;6
+2015;Metal;AC;0
+2015;Drogas de abuso;AC;2
+2015;Planta tÛxica;AC;0
+2015;Alimento e bebida;AC;4
+2015;Outro;AC;1
+2015;Ign/Branco;AM;119
+2015;Medicamento;AM;199
+2015;AgrotÛxico agrÌcola;AM;21
+2015;AgrotÛxico domÈstico;AM;23
+2015;AgrotÛxico sa˙de p˙blica;AM;3
+2015;Raticida;AM;20
+2015;Prod. veterin·rio;AM;3
+2015;Prod. uso domiciliar;AM;87
+2015;CosmÈtico;AM;8
+2015;Prod. quÌmico;AM;39
+2015;Metal;AM;0
+2015;Drogas de abuso;AM;473
+2015;Planta tÛxica;AM;8
+2015;Alimento e bebida;AM;165
+2015;Outro;AM;26
+2015;Ign/Branco;RR;14
+2015;Medicamento;RR;66
+2015;AgrotÛxico agrÌcola;RR;16
+2015;AgrotÛxico domÈstico;RR;8
+2015;AgrotÛxico sa˙de p˙blica;RR;0
+2015;Raticida;RR;26
+2015;Prod. veterin·rio;RR;4
+2015;Prod. uso domiciliar;RR;36
+2015;CosmÈtico;RR;15
+2015;Prod. quÌmico;RR;6
+2015;Metal;RR;0
+2015;Drogas de abuso;RR;9
+2015;Planta tÛxica;RR;3
+2015;Alimento e bebida;RR;66
+2015;Outro;RR;10
+2015;Ign/Branco;PA;20
+2015;Medicamento;PA;59
+2015;AgrotÛxico agrÌcola;PA;30
+2015;AgrotÛxico domÈstico;PA;20
+2015;AgrotÛxico sa˙de p˙blica;PA;2
+2015;Raticida;PA;65
+2015;Prod. veterin·rio;PA;7
+2015;Prod. uso domiciliar;PA;29
+2015;CosmÈtico;PA;4
+2015;Prod. quÌmico;PA;21
+2015;Metal;PA;0
+2015;Drogas de abuso;PA;2
+2015;Planta tÛxica;PA;8
+2015;Alimento e bebida;PA;12
+2015;Outro;PA;6
+2015;Ign/Branco;AP;2
+2015;Medicamento;AP;0
+2015;AgrotÛxico agrÌcola;AP;0
+2015;AgrotÛxico domÈstico;AP;0
+2015;AgrotÛxico sa˙de p˙blica;AP;0
+2015;Raticida;AP;7
+2015;Prod. veterin·rio;AP;0
+2015;Prod. uso domiciliar;AP;0
+2015;CosmÈtico;AP;0
+2015;Prod. quÌmico;AP;1
+2015;Metal;AP;0
+2015;Drogas de abuso;AP;0
+2015;Planta tÛxica;AP;0
+2015;Alimento e bebida;AP;0
+2015;Outro;AP;0
+2015;Ign/Branco;TO;86
+2015;Medicamento;TO;411
+2015;AgrotÛxico agrÌcola;TO;145
+2015;AgrotÛxico domÈstico;TO;44
+2015;AgrotÛxico sa˙de p˙blica;TO;15
+2015;Raticida;TO;72
+2015;Prod. veterin·rio;TO;40
+2015;Prod. uso domiciliar;TO;156
+2015;CosmÈtico;TO;35
+2015;Prod. quÌmico;TO;41
+2015;Metal;TO;3
+2015;Drogas de abuso;TO;15
+2015;Planta tÛxica;TO;23
+2015;Alimento e bebida;TO;84
+2015;Outro;TO;52
+2015;Ign/Branco;MA;69
+2015;Medicamento;MA;140
+2015;AgrotÛxico agrÌcola;MA;10
+2015;AgrotÛxico domÈstico;MA;13
+2015;AgrotÛxico sa˙de p˙blica;MA;1
+2015;Raticida;MA;33
+2015;Prod. veterin·rio;MA;6
+2015;Prod. uso domiciliar;MA;23
+2015;CosmÈtico;MA;4
+2015;Prod. quÌmico;MA;19
+2015;Metal;MA;1
+2015;Drogas de abuso;MA;11
+2015;Planta tÛxica;MA;2
+2015;Alimento e bebida;MA;38
+2015;Outro;MA;7
+2015;Ign/Branco;PI;153
+2015;Medicamento;PI;616
+2015;AgrotÛxico agrÌcola;PI;23
+2015;AgrotÛxico domÈstico;PI;13
+2015;AgrotÛxico sa˙de p˙blica;PI;2
+2015;Raticida;PI;48
+2015;Prod. veterin·rio;PI;14
+2015;Prod. uso domiciliar;PI;80
+2015;CosmÈtico;PI;26
+2015;Prod. quÌmico;PI;38
+2015;Metal;PI;0
+2015;Drogas de abuso;PI;17
+2015;Planta tÛxica;PI;10
+2015;Alimento e bebida;PI;79
+2015;Outro;PI;20
+2015;Ign/Branco;CE;927
+2015;Medicamento;CE;795
+2015;AgrotÛxico agrÌcola;CE;266
+2015;AgrotÛxico domÈstico;CE;45
+2015;AgrotÛxico sa˙de p˙blica;CE;1
+2015;Raticida;CE;141
+2015;Prod. veterin·rio;CE;28
+2015;Prod. uso domiciliar;CE;83
+2015;CosmÈtico;CE;29
+2015;Prod. quÌmico;CE;55
+2015;Metal;CE;2
+2015;Drogas de abuso;CE;125
+2015;Planta tÛxica;CE;15
+2015;Alimento e bebida;CE;355
+2015;Outro;CE;41
+2015;Ign/Branco;RN;962
+2015;Medicamento;RN;335
+2015;AgrotÛxico agrÌcola;RN;7
+2015;AgrotÛxico domÈstico;RN;12
+2015;AgrotÛxico sa˙de p˙blica;RN;0
+2015;Raticida;RN;45
+2015;Prod. veterin·rio;RN;4
+2015;Prod. uso domiciliar;RN;57
+2015;CosmÈtico;RN;26
+2015;Prod. quÌmico;RN;29
+2015;Metal;RN;0
+2015;Drogas de abuso;RN;466
+2015;Planta tÛxica;RN;6
+2015;Alimento e bebida;RN;228
+2015;Outro;RN;139
+2015;Ign/Branco;PB;440
+2015;Medicamento;PB;764
+2015;AgrotÛxico agrÌcola;PB;26
+2015;AgrotÛxico domÈstico;PB;46
+2015;AgrotÛxico sa˙de p˙blica;PB;1
+2015;Raticida;PB;149
+2015;Prod. veterin·rio;PB;22
+2015;Prod. uso domiciliar;PB;118
+2015;CosmÈtico;PB;46
+2015;Prod. quÌmico;PB;74
+2015;Metal;PB;4
+2015;Drogas de abuso;PB;201
+2015;Planta tÛxica;PB;16
+2015;Alimento e bebida;PB;360
+2015;Outro;PB;92
+2015;Ign/Branco;PE;950
+2015;Medicamento;PE;2825
+2015;AgrotÛxico agrÌcola;PE;456
+2015;AgrotÛxico domÈstico;PE;130
+2015;AgrotÛxico sa˙de p˙blica;PE;13
+2015;Raticida;PE;305
+2015;Prod. veterin·rio;PE;65
+2015;Prod. uso domiciliar;PE;498
+2015;CosmÈtico;PE;120
+2015;Prod. quÌmico;PE;262
+2015;Metal;PE;9
+2015;Drogas de abuso;PE;791
+2015;Planta tÛxica;PE;49
+2015;Alimento e bebida;PE;1629
+2015;Outro;PE;133
+2015;Ign/Branco;AL;568
+2015;Medicamento;AL;1047
+2015;AgrotÛxico agrÌcola;AL;84
+2015;AgrotÛxico domÈstico;AL;15
+2015;AgrotÛxico sa˙de p˙blica;AL;1
+2015;Raticida;AL;123
+2015;Prod. veterin·rio;AL;30
+2015;Prod. uso domiciliar;AL;159
+2015;CosmÈtico;AL;26
+2015;Prod. quÌmico;AL;47
+2015;Metal;AL;2
+2015;Drogas de abuso;AL;64
+2015;Planta tÛxica;AL;28
+2015;Alimento e bebida;AL;196
+2015;Outro;AL;77
+2015;Ign/Branco;SE;43
+2015;Medicamento;SE;152
+2015;AgrotÛxico agrÌcola;SE;26
+2015;AgrotÛxico domÈstico;SE;13
+2015;AgrotÛxico sa˙de p˙blica;SE;1
+2015;Raticida;SE;68
+2015;Prod. veterin·rio;SE;6
+2015;Prod. uso domiciliar;SE;41
+2015;CosmÈtico;SE;11
+2015;Prod. quÌmico;SE;5
+2015;Metal;SE;1
+2015;Drogas de abuso;SE;68
+2015;Planta tÛxica;SE;4
+2015;Alimento e bebida;SE;35
+2015;Outro;SE;4
+2015;Ign/Branco;BA;597
+2015;Medicamento;BA;1113
+2015;AgrotÛxico agrÌcola;BA;207
+2015;AgrotÛxico domÈstico;BA;128
+2015;AgrotÛxico sa˙de p˙blica;BA;6
+2015;Raticida;BA;333
+2015;Prod. veterin·rio;BA;44
+2015;Prod. uso domiciliar;BA;235
+2015;CosmÈtico;BA;34
+2015;Prod. quÌmico;BA;100
+2015;Metal;BA;7
+2015;Drogas de abuso;BA;126
+2015;Planta tÛxica;BA;37
+2015;Alimento e bebida;BA;499
+2015;Outro;BA;94
+2015;Ign/Branco;MG;1111
+2015;Medicamento;MG;8383
+2015;AgrotÛxico agrÌcola;MG;550
+2015;AgrotÛxico domÈstico;MG;189
+2015;AgrotÛxico sa˙de p˙blica;MG;30
+2015;Raticida;MG;958
+2015;Prod. veterin·rio;MG;226
+2015;Prod. uso domiciliar;MG;925
+2015;CosmÈtico;MG;223
+2015;Prod. quÌmico;MG;599
+2015;Metal;MG;21
+2015;Drogas de abuso;MG;1577
+2015;Planta tÛxica;MG;122
+2015;Alimento e bebida;MG;1236
+2015;Outro;MG;495
+2015;Ign/Branco;ES;186
+2015;Medicamento;ES;1788
+2015;AgrotÛxico agrÌcola;ES;307
+2015;AgrotÛxico domÈstico;ES;41
+2015;AgrotÛxico sa˙de p˙blica;ES;31
+2015;Raticida;ES;119
+2015;Prod. veterin·rio;ES;42
+2015;Prod. uso domiciliar;ES;241
+2015;CosmÈtico;ES;97
+2015;Prod. quÌmico;ES;100
+2015;Metal;ES;3
+2015;Drogas de abuso;ES;321
+2015;Planta tÛxica;ES;27
+2015;Alimento e bebida;ES;729
+2015;Outro;ES;119
+2015;Ign/Branco;RJ;340
+2015;Medicamento;RJ;853
+2015;AgrotÛxico agrÌcola;RJ;69
+2015;AgrotÛxico domÈstico;RJ;29
+2015;AgrotÛxico sa˙de p˙blica;RJ;3
+2015;Raticida;RJ;250
+2015;Prod. veterin·rio;RJ;15
+2015;Prod. uso domiciliar;RJ;138
+2015;CosmÈtico;RJ;16
+2015;Prod. quÌmico;RJ;116
+2015;Metal;RJ;15
+2015;Drogas de abuso;RJ;607
+2015;Planta tÛxica;RJ;10
+2015;Alimento e bebida;RJ;157
+2015;Outro;RJ;70
+2015;Ign/Branco;SP;1572
+2015;Medicamento;SP;10144
+2015;AgrotÛxico agrÌcola;SP;624
+2015;AgrotÛxico domÈstico;SP;269
+2015;AgrotÛxico sa˙de p˙blica;SP;50
+2015;Raticida;SP;1029
+2015;Prod. veterin·rio;SP;147
+2015;Prod. uso domiciliar;SP;1525
+2015;CosmÈtico;SP;205
+2015;Prod. quÌmico;SP;763
+2015;Metal;SP;45
+2015;Drogas de abuso;SP;5003
+2015;Planta tÛxica;SP;73
+2015;Alimento e bebida;SP;1754
+2015;Outro;SP;567
+2015;Ign/Branco;PR;316
+2015;Medicamento;PR;4757
+2015;AgrotÛxico agrÌcola;PR;630
+2015;AgrotÛxico domÈstico;PR;207
+2015;AgrotÛxico sa˙de p˙blica;PR;48
+2015;Raticida;PR;541
+2015;Prod. veterin·rio;PR;130
+2015;Prod. uso domiciliar;PR;682
+2015;CosmÈtico;PR;69
+2015;Prod. quÌmico;PR;550
+2015;Metal;PR;14
+2015;Drogas de abuso;PR;926
+2015;Planta tÛxica;PR;84
+2015;Alimento e bebida;PR;95
+2015;Outro;PR;129
+2015;Ign/Branco;SC;342
+2015;Medicamento;SC;2783
+2015;AgrotÛxico agrÌcola;SC;288
+2015;AgrotÛxico domÈstico;SC;136
+2015;AgrotÛxico sa˙de p˙blica;SC;9
+2015;Raticida;SC;185
+2015;Prod. veterin·rio;SC;91
+2015;Prod. uso domiciliar;SC;219
+2015;CosmÈtico;SC;26
+2015;Prod. quÌmico;SC;228
+2015;Metal;SC;5
+2015;Drogas de abuso;SC;472
+2015;Planta tÛxica;SC;32
+2015;Alimento e bebida;SC;280
+2015;Outro;SC;184
+2015;Ign/Branco;RS;242
+2015;Medicamento;RS;860
+2015;AgrotÛxico agrÌcola;RS;174
+2015;AgrotÛxico domÈstico;RS;50
+2015;AgrotÛxico sa˙de p˙blica;RS;2
+2015;Raticida;RS;44
+2015;Prod. veterin·rio;RS;29
+2015;Prod. uso domiciliar;RS;67
+2015;CosmÈtico;RS;7
+2015;Prod. quÌmico;RS;204
+2015;Metal;RS;13
+2015;Drogas de abuso;RS;72
+2015;Planta tÛxica;RS;37
+2015;Alimento e bebida;RS;143
+2015;Outro;RS;196
+2015;Ign/Branco;MS;104
+2015;Medicamento;MS;676
+2015;AgrotÛxico agrÌcola;MS;68
+2015;AgrotÛxico domÈstico;MS;30
+2015;AgrotÛxico sa˙de p˙blica;MS;10
+2015;Raticida;MS;81
+2015;Prod. veterin·rio;MS;52
+2015;Prod. uso domiciliar;MS;69
+2015;CosmÈtico;MS;14
+2015;Prod. quÌmico;MS;42
+2015;Metal;MS;1
+2015;Drogas de abuso;MS;18
+2015;Planta tÛxica;MS;12
+2015;Alimento e bebida;MS;36
+2015;Outro;MS;45
+2015;Ign/Branco;MT;98
+2015;Medicamento;MT;261
+2015;AgrotÛxico agrÌcola;MT;69
+2015;AgrotÛxico domÈstico;MT;42
+2015;AgrotÛxico sa˙de p˙blica;MT;7
+2015;Raticida;MT;77
+2015;Prod. veterin·rio;MT;23
+2015;Prod. uso domiciliar;MT;54
+2015;CosmÈtico;MT;3
+2015;Prod. quÌmico;MT;46
+2015;Metal;MT;0
+2015;Drogas de abuso;MT;42
+2015;Planta tÛxica;MT;5
+2015;Alimento e bebida;MT;255
+2015;Outro;MT;25
+2015;Ign/Branco;GO;316
+2015;Medicamento;GO;1140
+2015;AgrotÛxico agrÌcola;GO;193
+2015;AgrotÛxico domÈstico;GO;81
+2015;AgrotÛxico sa˙de p˙blica;GO;10
+2015;Raticida;GO;307
+2015;Prod. veterin·rio;GO;90
+2015;Prod. uso domiciliar;GO;248
+2015;CosmÈtico;GO;78
+2015;Prod. quÌmico;GO;244
+2015;Metal;GO;8
+2015;Drogas de abuso;GO;615
+2015;Planta tÛxica;GO;54
+2015;Alimento e bebida;GO;297
+2015;Outro;GO;33
+2015;Ign/Branco;DF;358
+2015;Medicamento;DF;618
+2015;AgrotÛxico agrÌcola;DF;144
+2015;AgrotÛxico domÈstico;DF;19
+2015;AgrotÛxico sa˙de p˙blica;DF;34
+2015;Raticida;DF;114
+2015;Prod. veterin·rio;DF;7
+2015;Prod. uso domiciliar;DF;88
+2015;CosmÈtico;DF;19
+2015;Prod. quÌmico;DF;65
+2015;Metal;DF;2
+2015;Drogas de abuso;DF;272
+2015;Planta tÛxica;DF;3
+2015;Alimento e bebida;DF;103
+2015;Outro;DF;38
+2016;Ign/Branco;RO;45
+2016;Medicamento;RO;105
+2016;AgrotÛxico agrÌcola;RO;106
+2016;AgrotÛxico domÈstico;RO;13
+2016;AgrotÛxico sa˙de p˙blica;RO;1
+2016;Raticida;RO;36
+2016;Prod. veterin·rio;RO;13
+2016;Prod. uso domiciliar;RO;20
+2016;CosmÈtico;RO;1
+2016;Prod. quÌmico;RO;20
+2016;Metal;RO;0
+2016;Drogas de abuso;RO;5
+2016;Planta tÛxica;RO;1
+2016;Alimento e bebida;RO;27
+2016;Outro;RO;8
+2016;Ign/Branco;AC;28
+2016;Medicamento;AC;52
+2016;AgrotÛxico agrÌcola;AC;4
+2016;AgrotÛxico domÈstico;AC;2
+2016;AgrotÛxico sa˙de p˙blica;AC;1
+2016;Raticida;AC;8
+2016;Prod. veterin·rio;AC;0
+2016;Prod. uso domiciliar;AC;2
+2016;CosmÈtico;AC;1
+2016;Prod. quÌmico;AC;4
+2016;Metal;AC;0
+2016;Drogas de abuso;AC;1
+2016;Planta tÛxica;AC;0
+2016;Alimento e bebida;AC;6
+2016;Outro;AC;28
+2016;Ign/Branco;AM;94
+2016;Medicamento;AM;174
+2016;AgrotÛxico agrÌcola;AM;18
+2016;AgrotÛxico domÈstico;AM;21
+2016;AgrotÛxico sa˙de p˙blica;AM;2
+2016;Raticida;AM;22
+2016;Prod. veterin·rio;AM;2
+2016;Prod. uso domiciliar;AM;55
+2016;CosmÈtico;AM;7
+2016;Prod. quÌmico;AM;15
+2016;Metal;AM;9
+2016;Drogas de abuso;AM;506
+2016;Planta tÛxica;AM;4
+2016;Alimento e bebida;AM;172
+2016;Outro;AM;25
+2016;Ign/Branco;RR;71
+2016;Medicamento;RR;113
+2016;AgrotÛxico agrÌcola;RR;12
+2016;AgrotÛxico domÈstico;RR;8
+2016;AgrotÛxico sa˙de p˙blica;RR;1
+2016;Raticida;RR;24
+2016;Prod. veterin·rio;RR;4
+2016;Prod. uso domiciliar;RR;27
+2016;CosmÈtico;RR;5
+2016;Prod. quÌmico;RR;7
+2016;Metal;RR;103
+2016;Drogas de abuso;RR;11
+2016;Planta tÛxica;RR;7
+2016;Alimento e bebida;RR;64
+2016;Outro;RR;30
+2016;Ign/Branco;PA;29
+2016;Medicamento;PA;88
+2016;AgrotÛxico agrÌcola;PA;65
+2016;AgrotÛxico domÈstico;PA;19
+2016;AgrotÛxico sa˙de p˙blica;PA;2
+2016;Raticida;PA;57
+2016;Prod. veterin·rio;PA;13
+2016;Prod. uso domiciliar;PA;29
+2016;CosmÈtico;PA;5
+2016;Prod. quÌmico;PA;28
+2016;Metal;PA;0
+2016;Drogas de abuso;PA;4
+2016;Planta tÛxica;PA;8
+2016;Alimento e bebida;PA;18
+2016;Outro;PA;8
+2016;Ign/Branco;AP;3
+2016;Medicamento;AP;6
+2016;AgrotÛxico agrÌcola;AP;0
+2016;AgrotÛxico domÈstico;AP;1
+2016;AgrotÛxico sa˙de p˙blica;AP;0
+2016;Raticida;AP;5
+2016;Prod. veterin·rio;AP;1
+2016;Prod. uso domiciliar;AP;2
+2016;CosmÈtico;AP;0
+2016;Prod. quÌmico;AP;0
+2016;Metal;AP;0
+2016;Drogas de abuso;AP;0
+2016;Planta tÛxica;AP;0
+2016;Alimento e bebida;AP;0
+2016;Outro;AP;6
+2016;Ign/Branco;TO;119
+2016;Medicamento;TO;447
+2016;AgrotÛxico agrÌcola;TO;117
+2016;AgrotÛxico domÈstico;TO;41
+2016;AgrotÛxico sa˙de p˙blica;TO;5
+2016;Raticida;TO;79
+2016;Prod. veterin·rio;TO;47
+2016;Prod. uso domiciliar;TO;123
+2016;CosmÈtico;TO;25
+2016;Prod. quÌmico;TO;62
+2016;Metal;TO;0
+2016;Drogas de abuso;TO;19
+2016;Planta tÛxica;TO;23
+2016;Alimento e bebida;TO;171
+2016;Outro;TO;66
+2016;Ign/Branco;MA;73
+2016;Medicamento;MA;217
+2016;AgrotÛxico agrÌcola;MA;23
+2016;AgrotÛxico domÈstico;MA;14
+2016;AgrotÛxico sa˙de p˙blica;MA;8
+2016;Raticida;MA;27
+2016;Prod. veterin·rio;MA;6
+2016;Prod. uso domiciliar;MA;31
+2016;CosmÈtico;MA;8
+2016;Prod. quÌmico;MA;16
+2016;Metal;MA;0
+2016;Drogas de abuso;MA;8
+2016;Planta tÛxica;MA;1
+2016;Alimento e bebida;MA;51
+2016;Outro;MA;10
+2016;Ign/Branco;PI;108
+2016;Medicamento;PI;796
+2016;AgrotÛxico agrÌcola;PI;40
+2016;AgrotÛxico domÈstico;PI;21
+2016;AgrotÛxico sa˙de p˙blica;PI;3
+2016;Raticida;PI;67
+2016;Prod. veterin·rio;PI;19
+2016;Prod. uso domiciliar;PI;108
+2016;CosmÈtico;PI;29
+2016;Prod. quÌmico;PI;36
+2016;Metal;PI;0
+2016;Drogas de abuso;PI;54
+2016;Planta tÛxica;PI;16
+2016;Alimento e bebida;PI;148
+2016;Outro;PI;52
+2016;Ign/Branco;CE;885
+2016;Medicamento;CE;807
+2016;AgrotÛxico agrÌcola;CE;147
+2016;AgrotÛxico domÈstico;CE;61
+2016;AgrotÛxico sa˙de p˙blica;CE;1
+2016;Raticida;CE;112
+2016;Prod. veterin·rio;CE;39
+2016;Prod. uso domiciliar;CE;81
+2016;CosmÈtico;CE;24
+2016;Prod. quÌmico;CE;63
+2016;Metal;CE;1
+2016;Drogas de abuso;CE;72
+2016;Planta tÛxica;CE;7
+2016;Alimento e bebida;CE;198
+2016;Outro;CE;41
+2016;Ign/Branco;RN;750
+2016;Medicamento;RN;372
+2016;AgrotÛxico agrÌcola;RN;3
+2016;AgrotÛxico domÈstico;RN;13
+2016;AgrotÛxico sa˙de p˙blica;RN;1
+2016;Raticida;RN;39
+2016;Prod. veterin·rio;RN;10
+2016;Prod. uso domiciliar;RN;48
+2016;CosmÈtico;RN;18
+2016;Prod. quÌmico;RN;24
+2016;Metal;RN;0
+2016;Drogas de abuso;RN;352
+2016;Planta tÛxica;RN;7
+2016;Alimento e bebida;RN;137
+2016;Outro;RN;26
+2016;Ign/Branco;PB;285
+2016;Medicamento;PB;467
+2016;AgrotÛxico agrÌcola;PB;37
+2016;AgrotÛxico domÈstico;PB;12
+2016;AgrotÛxico sa˙de p˙blica;PB;8
+2016;Raticida;PB;47
+2016;Prod. veterin·rio;PB;13
+2016;Prod. uso domiciliar;PB;89
+2016;CosmÈtico;PB;17
+2016;Prod. quÌmico;PB;34
+2016;Metal;PB;4
+2016;Drogas de abuso;PB;52
+2016;Planta tÛxica;PB;7
+2016;Alimento e bebida;PB;124
+2016;Outro;PB;25
+2016;Ign/Branco;PE;865
+2016;Medicamento;PE;3212
+2016;AgrotÛxico agrÌcola;PE;459
+2016;AgrotÛxico domÈstico;PE;170
+2016;AgrotÛxico sa˙de p˙blica;PE;10
+2016;Raticida;PE;261
+2016;Prod. veterin·rio;PE;76
+2016;Prod. uso domiciliar;PE;577
+2016;CosmÈtico;PE;160
+2016;Prod. quÌmico;PE;305
+2016;Metal;PE;16
+2016;Drogas de abuso;PE;815
+2016;Planta tÛxica;PE;44
+2016;Alimento e bebida;PE;1144
+2016;Outro;PE;121
+2016;Ign/Branco;AL;833
+2016;Medicamento;AL;1009
+2016;AgrotÛxico agrÌcola;AL;62
+2016;AgrotÛxico domÈstico;AL;32
+2016;AgrotÛxico sa˙de p˙blica;AL;7
+2016;Raticida;AL;144
+2016;Prod. veterin·rio;AL;18
+2016;Prod. uso domiciliar;AL;145
+2016;CosmÈtico;AL;21
+2016;Prod. quÌmico;AL;39
+2016;Metal;AL;3
+2016;Drogas de abuso;AL;72
+2016;Planta tÛxica;AL;24
+2016;Alimento e bebida;AL;184
+2016;Outro;AL;78
+2016;Ign/Branco;SE;165
+2016;Medicamento;SE;179
+2016;AgrotÛxico agrÌcola;SE;9
+2016;AgrotÛxico domÈstico;SE;16
+2016;AgrotÛxico sa˙de p˙blica;SE;4
+2016;Raticida;SE;72
+2016;Prod. veterin·rio;SE;2
+2016;Prod. uso domiciliar;SE;46
+2016;CosmÈtico;SE;5
+2016;Prod. quÌmico;SE;7
+2016;Metal;SE;0
+2016;Drogas de abuso;SE;49
+2016;Planta tÛxica;SE;1
+2016;Alimento e bebida;SE;66
+2016;Outro;SE;12
+2016;Ign/Branco;BA;504
+2016;Medicamento;BA;999
+2016;AgrotÛxico agrÌcola;BA;169
+2016;AgrotÛxico domÈstico;BA;65
+2016;AgrotÛxico sa˙de p˙blica;BA;9
+2016;Raticida;BA;314
+2016;Prod. veterin·rio;BA;47
+2016;Prod. uso domiciliar;BA;216
+2016;CosmÈtico;BA;46
+2016;Prod. quÌmico;BA;112
+2016;Metal;BA;5
+2016;Drogas de abuso;BA;184
+2016;Planta tÛxica;BA;75
+2016;Alimento e bebida;BA;421
+2016;Outro;BA;115
+2016;Ign/Branco;MG;1090
+2016;Medicamento;MG;7812
+2016;AgrotÛxico agrÌcola;MG;531
+2016;AgrotÛxico domÈstico;MG;165
+2016;AgrotÛxico sa˙de p˙blica;MG;30
+2016;Raticida;MG;876
+2016;Prod. veterin·rio;MG;203
+2016;Prod. uso domiciliar;MG;793
+2016;CosmÈtico;MG;197
+2016;Prod. quÌmico;MG;448
+2016;Metal;MG;15
+2016;Drogas de abuso;MG;1695
+2016;Planta tÛxica;MG;111
+2016;Alimento e bebida;MG;1173
+2016;Outro;MG;455
+2016;Ign/Branco;ES;157
+2016;Medicamento;ES;2406
+2016;AgrotÛxico agrÌcola;ES;363
+2016;AgrotÛxico domÈstico;ES;70
+2016;AgrotÛxico sa˙de p˙blica;ES;30
+2016;Raticida;ES;125
+2016;Prod. veterin·rio;ES;57
+2016;Prod. uso domiciliar;ES;469
+2016;CosmÈtico;ES;169
+2016;Prod. quÌmico;ES;155
+2016;Metal;ES;5
+2016;Drogas de abuso;ES;226
+2016;Planta tÛxica;ES;84
+2016;Alimento e bebida;ES;488
+2016;Outro;ES;118
+2016;Ign/Branco;RJ;385
+2016;Medicamento;RJ;1293
+2016;AgrotÛxico agrÌcola;RJ;45
+2016;AgrotÛxico domÈstico;RJ;42
+2016;AgrotÛxico sa˙de p˙blica;RJ;4
+2016;Raticida;RJ;326
+2016;Prod. veterin·rio;RJ;14
+2016;Prod. uso domiciliar;RJ;202
+2016;CosmÈtico;RJ;40
+2016;Prod. quÌmico;RJ;100
+2016;Metal;RJ;4
+2016;Drogas de abuso;RJ;781
+2016;Planta tÛxica;RJ;13
+2016;Alimento e bebida;RJ;326
+2016;Outro;RJ;92
+2016;Ign/Branco;SP;1599
+2016;Medicamento;SP;11128
+2016;AgrotÛxico agrÌcola;SP;693
+2016;AgrotÛxico domÈstico;SP;251
+2016;AgrotÛxico sa˙de p˙blica;SP;22
+2016;Raticida;SP;934
+2016;Prod. veterin·rio;SP;152
+2016;Prod. uso domiciliar;SP;1630
+2016;CosmÈtico;SP;190
+2016;Prod. quÌmico;SP;964
+2016;Metal;SP;26
+2016;Drogas de abuso;SP;5861
+2016;Planta tÛxica;SP;92
+2016;Alimento e bebida;SP;2087
+2016;Outro;SP;616
+2016;Ign/Branco;PR;378
+2016;Medicamento;PR;5294
+2016;AgrotÛxico agrÌcola;PR;569
+2016;AgrotÛxico domÈstico;PR;203
+2016;AgrotÛxico sa˙de p˙blica;PR;14
+2016;Raticida;PR;473
+2016;Prod. veterin·rio;PR;144
+2016;Prod. uso domiciliar;PR;723
+2016;CosmÈtico;PR;70
+2016;Prod. quÌmico;PR;592
+2016;Metal;PR;19
+2016;Drogas de abuso;PR;917
+2016;Planta tÛxica;PR;124
+2016;Alimento e bebida;PR;204
+2016;Outro;PR;122
+2016;Ign/Branco;SC;396
+2016;Medicamento;SC;2943
+2016;AgrotÛxico agrÌcola;SC;286
+2016;AgrotÛxico domÈstico;SC;99
+2016;AgrotÛxico sa˙de p˙blica;SC;5
+2016;Raticida;SC;171
+2016;Prod. veterin·rio;SC;36
+2016;Prod. uso domiciliar;SC;218
+2016;CosmÈtico;SC;20
+2016;Prod. quÌmico;SC;197
+2016;Metal;SC;8
+2016;Drogas de abuso;SC;404
+2016;Planta tÛxica;SC;34
+2016;Alimento e bebida;SC;205
+2016;Outro;SC;185
+2016;Ign/Branco;RS;288
+2016;Medicamento;RS;1283
+2016;AgrotÛxico agrÌcola;RS;247
+2016;AgrotÛxico domÈstico;RS;64
+2016;AgrotÛxico sa˙de p˙blica;RS;39
+2016;Raticida;RS;71
+2016;Prod. veterin·rio;RS;32
+2016;Prod. uso domiciliar;RS;111
+2016;CosmÈtico;RS;9
+2016;Prod. quÌmico;RS;228
+2016;Metal;RS;8
+2016;Drogas de abuso;RS;102
+2016;Planta tÛxica;RS;29
+2016;Alimento e bebida;RS;113
+2016;Outro;RS;151
+2016;Ign/Branco;MS;176
+2016;Medicamento;MS;673
+2016;AgrotÛxico agrÌcola;MS;54
+2016;AgrotÛxico domÈstico;MS;38
+2016;AgrotÛxico sa˙de p˙blica;MS;3
+2016;Raticida;MS;52
+2016;Prod. veterin·rio;MS;43
+2016;Prod. uso domiciliar;MS;73
+2016;CosmÈtico;MS;7
+2016;Prod. quÌmico;MS;41
+2016;Metal;MS;0
+2016;Drogas de abuso;MS;15
+2016;Planta tÛxica;MS;19
+2016;Alimento e bebida;MS;44
+2016;Outro;MS;47
+2016;Ign/Branco;MT;133
+2016;Medicamento;MT;239
+2016;AgrotÛxico agrÌcola;MT;92
+2016;AgrotÛxico domÈstico;MT;43
+2016;AgrotÛxico sa˙de p˙blica;MT;6
+2016;Raticida;MT;61
+2016;Prod. veterin·rio;MT;20
+2016;Prod. uso domiciliar;MT;47
+2016;CosmÈtico;MT;8
+2016;Prod. quÌmico;MT;82
+2016;Metal;MT;2
+2016;Drogas de abuso;MT;34
+2016;Planta tÛxica;MT;6
+2016;Alimento e bebida;MT;95
+2016;Outro;MT;26
+2016;Ign/Branco;GO;293
+2016;Medicamento;GO;1287
+2016;AgrotÛxico agrÌcola;GO;246
+2016;AgrotÛxico domÈstico;GO;95
+2016;AgrotÛxico sa˙de p˙blica;GO;6
+2016;Raticida;GO;281
+2016;Prod. veterin·rio;GO;102
+2016;Prod. uso domiciliar;GO;269
+2016;CosmÈtico;GO;69
+2016;Prod. quÌmico;GO;230
+2016;Metal;GO;26
+2016;Drogas de abuso;GO;675
+2016;Planta tÛxica;GO;49
+2016;Alimento e bebida;GO;192
+2016;Outro;GO;57
+2016;Ign/Branco;DF;427
+2016;Medicamento;DF;779
+2016;AgrotÛxico agrÌcola;DF;113
+2016;AgrotÛxico domÈstico;DF;28
+2016;AgrotÛxico sa˙de p˙blica;DF;11
+2016;Raticida;DF;91
+2016;Prod. veterin·rio;DF;13
+2016;Prod. uso domiciliar;DF;102
+2016;CosmÈtico;DF;19
+2016;Prod. quÌmico;DF;43
+2016;Metal;DF;2
+2016;Drogas de abuso;DF;90
+2016;Planta tÛxica;DF;11
+2016;Alimento e bebida;DF;89
+2016;Outro;DF;44
+2017;Ign/Branco;RO;153
+2017;Medicamento;RO;159
+2017;AgrotÛxico agrÌcola;RO;138
+2017;AgrotÛxico domÈstico;RO;38
+2017;AgrotÛxico sa˙de p˙blica;RO;2
+2017;Raticida;RO;44
+2017;Prod. veterin·rio;RO;11
+2017;Prod. uso domiciliar;RO;20
+2017;CosmÈtico;RO;8
+2017;Prod. quÌmico;RO;18
+2017;Metal;RO;1
+2017;Drogas de abuso;RO;9
+2017;Planta tÛxica;RO;7
+2017;Alimento e bebida;RO;47
+2017;Outro;RO;18
+2017;Ign/Branco;AC;15
+2017;Medicamento;AC;120
+2017;AgrotÛxico agrÌcola;AC;20
+2017;AgrotÛxico domÈstico;AC;9
+2017;AgrotÛxico sa˙de p˙blica;AC;0
+2017;Raticida;AC;14
+2017;Prod. veterin·rio;AC;4
+2017;Prod. uso domiciliar;AC;15
+2017;CosmÈtico;AC;3
+2017;Prod. quÌmico;AC;8
+2017;Metal;AC;0
+2017;Drogas de abuso;AC;6
+2017;Planta tÛxica;AC;1
+2017;Alimento e bebida;AC;11
+2017;Outro;AC;131
+2017;Ign/Branco;AM;150
+2017;Medicamento;AM;111
+2017;AgrotÛxico agrÌcola;AM;19
+2017;AgrotÛxico domÈstico;AM;15
+2017;AgrotÛxico sa˙de p˙blica;AM;1
+2017;Raticida;AM;25
+2017;Prod. veterin·rio;AM;4
+2017;Prod. uso domiciliar;AM;49
+2017;CosmÈtico;AM;10
+2017;Prod. quÌmico;AM;18
+2017;Metal;AM;3
+2017;Drogas de abuso;AM;498
+2017;Planta tÛxica;AM;7
+2017;Alimento e bebida;AM;411
+2017;Outro;AM;58
+2017;Ign/Branco;RR;66
+2017;Medicamento;RR;135
+2017;AgrotÛxico agrÌcola;RR;16
+2017;AgrotÛxico domÈstico;RR;9
+2017;AgrotÛxico sa˙de p˙blica;RR;3
+2017;Raticida;RR;32
+2017;Prod. veterin·rio;RR;8
+2017;Prod. uso domiciliar;RR;33
+2017;CosmÈtico;RR;17
+2017;Prod. quÌmico;RR;15
+2017;Metal;RR;0
+2017;Drogas de abuso;RR;12
+2017;Planta tÛxica;RR;2
+2017;Alimento e bebida;RR;121
+2017;Outro;RR;24
+2017;Ign/Branco;PA;51
+2017;Medicamento;PA;111
+2017;AgrotÛxico agrÌcola;PA;92
+2017;AgrotÛxico domÈstico;PA;22
+2017;AgrotÛxico sa˙de p˙blica;PA;4
+2017;Raticida;PA;43
+2017;Prod. veterin·rio;PA;5
+2017;Prod. uso domiciliar;PA;34
+2017;CosmÈtico;PA;6
+2017;Prod. quÌmico;PA;21
+2017;Metal;PA;0
+2017;Drogas de abuso;PA;5
+2017;Planta tÛxica;PA;11
+2017;Alimento e bebida;PA;36
+2017;Outro;PA;25
+2017;Ign/Branco;AP;8
+2017;Medicamento;AP;5
+2017;AgrotÛxico agrÌcola;AP;0
+2017;AgrotÛxico domÈstico;AP;1
+2017;AgrotÛxico sa˙de p˙blica;AP;0
+2017;Raticida;AP;5
+2017;Prod. veterin·rio;AP;1
+2017;Prod. uso domiciliar;AP;1
+2017;CosmÈtico;AP;0
+2017;Prod. quÌmico;AP;1
+2017;Metal;AP;1
+2017;Drogas de abuso;AP;0
+2017;Planta tÛxica;AP;0
+2017;Alimento e bebida;AP;1
+2017;Outro;AP;0
+2017;Ign/Branco;TO;127
+2017;Medicamento;TO;576
+2017;AgrotÛxico agrÌcola;TO;106
+2017;AgrotÛxico domÈstico;TO;65
+2017;AgrotÛxico sa˙de p˙blica;TO;10
+2017;Raticida;TO;71
+2017;Prod. veterin·rio;TO;47
+2017;Prod. uso domiciliar;TO;107
+2017;CosmÈtico;TO;23
+2017;Prod. quÌmico;TO;56
+2017;Metal;TO;1
+2017;Drogas de abuso;TO;31
+2017;Planta tÛxica;TO;35
+2017;Alimento e bebida;TO;212
+2017;Outro;TO;65
+2017;Ign/Branco;MA;98
+2017;Medicamento;MA;323
+2017;AgrotÛxico agrÌcola;MA;27
+2017;AgrotÛxico domÈstico;MA;21
+2017;AgrotÛxico sa˙de p˙blica;MA;2
+2017;Raticida;MA;57
+2017;Prod. veterin·rio;MA;5
+2017;Prod. uso domiciliar;MA;23
+2017;CosmÈtico;MA;12
+2017;Prod. quÌmico;MA;27
+2017;Metal;MA;0
+2017;Drogas de abuso;MA;25
+2017;Planta tÛxica;MA;11
+2017;Alimento e bebida;MA;107
+2017;Outro;MA;22
+2017;Ign/Branco;PI;90
+2017;Medicamento;PI;911
+2017;AgrotÛxico agrÌcola;PI;43
+2017;AgrotÛxico domÈstico;PI;24
+2017;AgrotÛxico sa˙de p˙blica;PI;0
+2017;Raticida;PI;60
+2017;Prod. veterin·rio;PI;17
+2017;Prod. uso domiciliar;PI;85
+2017;CosmÈtico;PI;26
+2017;Prod. quÌmico;PI;46
+2017;Metal;PI;1
+2017;Drogas de abuso;PI;91
+2017;Planta tÛxica;PI;17
+2017;Alimento e bebida;PI;102
+2017;Outro;PI;98
+2017;Ign/Branco;CE;764
+2017;Medicamento;CE;1160
+2017;AgrotÛxico agrÌcola;CE;132
+2017;AgrotÛxico domÈstico;CE;49
+2017;AgrotÛxico sa˙de p˙blica;CE;3
+2017;Raticida;CE;114
+2017;Prod. veterin·rio;CE;35
+2017;Prod. uso domiciliar;CE;131
+2017;CosmÈtico;CE;14
+2017;Prod. quÌmico;CE;69
+2017;Metal;CE;3
+2017;Drogas de abuso;CE;357
+2017;Planta tÛxica;CE;13
+2017;Alimento e bebida;CE;201
+2017;Outro;CE;50
+2017;Ign/Branco;RN;808
+2017;Medicamento;RN;577
+2017;AgrotÛxico agrÌcola;RN;13
+2017;AgrotÛxico domÈstico;RN;20
+2017;AgrotÛxico sa˙de p˙blica;RN;3
+2017;Raticida;RN;44
+2017;Prod. veterin·rio;RN;19
+2017;Prod. uso domiciliar;RN;64
+2017;CosmÈtico;RN;23
+2017;Prod. quÌmico;RN;35
+2017;Metal;RN;0
+2017;Drogas de abuso;RN;362
+2017;Planta tÛxica;RN;6
+2017;Alimento e bebida;RN;208
+2017;Outro;RN;24
+2017;Ign/Branco;PB;400
+2017;Medicamento;PB;951
+2017;AgrotÛxico agrÌcola;PB;58
+2017;AgrotÛxico domÈstico;PB;49
+2017;AgrotÛxico sa˙de p˙blica;PB;3
+2017;Raticida;PB;134
+2017;Prod. veterin·rio;PB;22
+2017;Prod. uso domiciliar;PB;153
+2017;CosmÈtico;PB;39
+2017;Prod. quÌmico;PB;72
+2017;Metal;PB;12
+2017;Drogas de abuso;PB;301
+2017;Planta tÛxica;PB;24
+2017;Alimento e bebida;PB;275
+2017;Outro;PB;95
+2017;Ign/Branco;PE;794
+2017;Medicamento;PE;4579
+2017;AgrotÛxico agrÌcola;PE;494
+2017;AgrotÛxico domÈstico;PE;169
+2017;AgrotÛxico sa˙de p˙blica;PE;33
+2017;Raticida;PE;201
+2017;Prod. veterin·rio;PE;108
+2017;Prod. uso domiciliar;PE;587
+2017;CosmÈtico;PE;212
+2017;Prod. quÌmico;PE;230
+2017;Metal;PE;16
+2017;Drogas de abuso;PE;1081
+2017;Planta tÛxica;PE;87
+2017;Alimento e bebida;PE;1041
+2017;Outro;PE;235
+2017;Ign/Branco;AL;919
+2017;Medicamento;AL;1402
+2017;AgrotÛxico agrÌcola;AL;117
+2017;AgrotÛxico domÈstico;AL;54
+2017;AgrotÛxico sa˙de p˙blica;AL;1
+2017;Raticida;AL;127
+2017;Prod. veterin·rio;AL;37
+2017;Prod. uso domiciliar;AL;193
+2017;CosmÈtico;AL;53
+2017;Prod. quÌmico;AL;35
+2017;Metal;AL;1
+2017;Drogas de abuso;AL;108
+2017;Planta tÛxica;AL;54
+2017;Alimento e bebida;AL;350
+2017;Outro;AL;127
+2017;Ign/Branco;SE;196
+2017;Medicamento;SE;256
+2017;AgrotÛxico agrÌcola;SE;12
+2017;AgrotÛxico domÈstico;SE;5
+2017;AgrotÛxico sa˙de p˙blica;SE;0
+2017;Raticida;SE;53
+2017;Prod. veterin·rio;SE;6
+2017;Prod. uso domiciliar;SE;32
+2017;CosmÈtico;SE;9
+2017;Prod. quÌmico;SE;12
+2017;Metal;SE;0
+2017;Drogas de abuso;SE;38
+2017;Planta tÛxica;SE;7
+2017;Alimento e bebida;SE;55
+2017;Outro;SE;11
+2017;Ign/Branco;BA;699
+2017;Medicamento;BA;1676
+2017;AgrotÛxico agrÌcola;BA;175
+2017;AgrotÛxico domÈstico;BA;72
+2017;AgrotÛxico sa˙de p˙blica;BA;4
+2017;Raticida;BA;332
+2017;Prod. veterin·rio;BA;41
+2017;Prod. uso domiciliar;BA;309
+2017;CosmÈtico;BA;76
+2017;Prod. quÌmico;BA;159
+2017;Metal;BA;0
+2017;Drogas de abuso;BA;298
+2017;Planta tÛxica;BA;53
+2017;Alimento e bebida;BA;630
+2017;Outro;BA;209
+2017;Ign/Branco;MG;1388
+2017;Medicamento;MG;9984
+2017;AgrotÛxico agrÌcola;MG;624
+2017;AgrotÛxico domÈstico;MG;198
+2017;AgrotÛxico sa˙de p˙blica;MG;29
+2017;Raticida;MG;905
+2017;Prod. veterin·rio;MG;214
+2017;Prod. uso domiciliar;MG;954
+2017;CosmÈtico;MG;219
+2017;Prod. quÌmico;MG;480
+2017;Metal;MG;9
+2017;Drogas de abuso;MG;2327
+2017;Planta tÛxica;MG;117
+2017;Alimento e bebida;MG;1097
+2017;Outro;MG;581
+2017;Ign/Branco;ES;155
+2017;Medicamento;ES;3051
+2017;AgrotÛxico agrÌcola;ES;429
+2017;AgrotÛxico domÈstico;ES;86
+2017;AgrotÛxico sa˙de p˙blica;ES;29
+2017;Raticida;ES;155
+2017;Prod. veterin·rio;ES;48
+2017;Prod. uso domiciliar;ES;536
+2017;CosmÈtico;ES;171
+2017;Prod. quÌmico;ES;190
+2017;Metal;ES;6
+2017;Drogas de abuso;ES;333
+2017;Planta tÛxica;ES;78
+2017;Alimento e bebida;ES;438
+2017;Outro;ES;145
+2017;Ign/Branco;RJ;633
+2017;Medicamento;RJ;2063
+2017;AgrotÛxico agrÌcola;RJ;65
+2017;AgrotÛxico domÈstico;RJ;28
+2017;AgrotÛxico sa˙de p˙blica;RJ;10
+2017;Raticida;RJ;383
+2017;Prod. veterin·rio;RJ;27
+2017;Prod. uso domiciliar;RJ;270
+2017;CosmÈtico;RJ;35
+2017;Prod. quÌmico;RJ;147
+2017;Metal;RJ;6
+2017;Drogas de abuso;RJ;1191
+2017;Planta tÛxica;RJ;14
+2017;Alimento e bebida;RJ;579
+2017;Outro;RJ;132
+2017;Ign/Branco;SP;2068
+2017;Medicamento;SP;16265
+2017;AgrotÛxico agrÌcola;SP;738
+2017;AgrotÛxico domÈstico;SP;353
+2017;AgrotÛxico sa˙de p˙blica;SP;34
+2017;Raticida;SP;1158
+2017;Prod. veterin·rio;SP;186
+2017;Prod. uso domiciliar;SP;1945
+2017;CosmÈtico;SP;303
+2017;Prod. quÌmico;SP;740
+2017;Metal;SP;21
+2017;Drogas de abuso;SP;8545
+2017;Planta tÛxica;SP;124
+2017;Alimento e bebida;SP;2398
+2017;Outro;SP;924
+2017;Ign/Branco;PR;384
+2017;Medicamento;PR;7684
+2017;AgrotÛxico agrÌcola;PR;703
+2017;AgrotÛxico domÈstico;PR;245
+2017;AgrotÛxico sa˙de p˙blica;PR;12
+2017;Raticida;PR;523
+2017;Prod. veterin·rio;PR;140
+2017;Prod. uso domiciliar;PR;901
+2017;CosmÈtico;PR;98
+2017;Prod. quÌmico;PR;602
+2017;Metal;PR;19
+2017;Drogas de abuso;PR;1410
+2017;Planta tÛxica;PR;177
+2017;Alimento e bebida;PR;303
+2017;Outro;PR;228
+2017;Ign/Branco;SC;447
+2017;Medicamento;SC;3602
+2017;AgrotÛxico agrÌcola;SC;317
+2017;AgrotÛxico domÈstico;SC;135
+2017;AgrotÛxico sa˙de p˙blica;SC;10
+2017;Raticida;SC;186
+2017;Prod. veterin·rio;SC;50
+2017;Prod. uso domiciliar;SC;261
+2017;CosmÈtico;SC;24
+2017;Prod. quÌmico;SC;161
+2017;Metal;SC;5
+2017;Drogas de abuso;SC;551
+2017;Planta tÛxica;SC;30
+2017;Alimento e bebida;SC;317
+2017;Outro;SC;223
+2017;Ign/Branco;RS;542
+2017;Medicamento;RS;2682
+2017;AgrotÛxico agrÌcola;RS;442
+2017;AgrotÛxico domÈstico;RS;80
+2017;AgrotÛxico sa˙de p˙blica;RS;9
+2017;Raticida;RS;124
+2017;Prod. veterin·rio;RS;68
+2017;Prod. uso domiciliar;RS;184
+2017;CosmÈtico;RS;19
+2017;Prod. quÌmico;RS;238
+2017;Metal;RS;11
+2017;Drogas de abuso;RS;176
+2017;Planta tÛxica;RS;43
+2017;Alimento e bebida;RS;132
+2017;Outro;RS;234
+2017;Ign/Branco;MS;158
+2017;Medicamento;MS;1042
+2017;AgrotÛxico agrÌcola;MS;85
+2017;AgrotÛxico domÈstico;MS;58
+2017;AgrotÛxico sa˙de p˙blica;MS;5
+2017;Raticida;MS;73
+2017;Prod. veterin·rio;MS;43
+2017;Prod. uso domiciliar;MS;109
+2017;CosmÈtico;MS;14
+2017;Prod. quÌmico;MS;130
+2017;Metal;MS;1
+2017;Drogas de abuso;MS;33
+2017;Planta tÛxica;MS;16
+2017;Alimento e bebida;MS;80
+2017;Outro;MS;63
+2017;Ign/Branco;MT;175
+2017;Medicamento;MT;275
+2017;AgrotÛxico agrÌcola;MT;88
+2017;AgrotÛxico domÈstico;MT;40
+2017;AgrotÛxico sa˙de p˙blica;MT;3
+2017;Raticida;MT;44
+2017;Prod. veterin·rio;MT;20
+2017;Prod. uso domiciliar;MT;42
+2017;CosmÈtico;MT;5
+2017;Prod. quÌmico;MT;72
+2017;Metal;MT;1
+2017;Drogas de abuso;MT;31
+2017;Planta tÛxica;MT;7
+2017;Alimento e bebida;MT;67
+2017;Outro;MT;64
+2017;Ign/Branco;GO;558
+2017;Medicamento;GO;1711
+2017;AgrotÛxico agrÌcola;GO;293
+2017;AgrotÛxico domÈstico;GO;112
+2017;AgrotÛxico sa˙de p˙blica;GO;13
+2017;Raticida;GO;273
+2017;Prod. veterin·rio;GO;135
+2017;Prod. uso domiciliar;GO;290
+2017;CosmÈtico;GO;91
+2017;Prod. quÌmico;GO;219
+2017;Metal;GO;35
+2017;Drogas de abuso;GO;699
+2017;Planta tÛxica;GO;43
+2017;Alimento e bebida;GO;344
+2017;Outro;GO;66
+2017;Ign/Branco;DF;539
+2017;Medicamento;DF;1126
+2017;AgrotÛxico agrÌcola;DF;70
+2017;AgrotÛxico domÈstico;DF;17
+2017;AgrotÛxico sa˙de p˙blica;DF;2
+2017;Raticida;DF;111
+2017;Prod. veterin·rio;DF;9
+2017;Prod. uso domiciliar;DF;150
+2017;CosmÈtico;DF;28
+2017;Prod. quÌmico;DF;49
+2017;Metal;DF;7
+2017;Drogas de abuso;DF;155
+2017;Planta tÛxica;DF;19
+2017;Alimento e bebida;DF;180
+2017;Outro;DF;52
+2018;Ign/Branco;RO;113
+2018;Medicamento;RO;245
+2018;AgrotÛxico agrÌcola;RO;140
+2018;AgrotÛxico domÈstico;RO;31
+2018;AgrotÛxico sa˙de p˙blica;RO;14
+2018;Raticida;RO;51
+2018;Prod. veterin·rio;RO;29
+2018;Prod. uso domiciliar;RO;28
+2018;CosmÈtico;RO;5
+2018;Prod. quÌmico;RO;24
+2018;Metal;RO;0
+2018;Drogas de abuso;RO;7
+2018;Planta tÛxica;RO;3
+2018;Alimento e bebida;RO;61
+2018;Outro;RO;26
+2018;Ign/Branco;AC;37
+2018;Medicamento;AC;177
+2018;AgrotÛxico agrÌcola;AC;39
+2018;AgrotÛxico domÈstico;AC;9
+2018;AgrotÛxico sa˙de p˙blica;AC;0
+2018;Raticida;AC;17
+2018;Prod. veterin·rio;AC;4
+2018;Prod. uso domiciliar;AC;13
+2018;CosmÈtico;AC;2
+2018;Prod. quÌmico;AC;17
+2018;Metal;AC;0
+2018;Drogas de abuso;AC;17
+2018;Planta tÛxica;AC;0
+2018;Alimento e bebida;AC;15
+2018;Outro;AC;47
+2018;Ign/Branco;AM;105
+2018;Medicamento;AM;119
+2018;AgrotÛxico agrÌcola;AM;19
+2018;AgrotÛxico domÈstico;AM;16
+2018;AgrotÛxico sa˙de p˙blica;AM;0
+2018;Raticida;AM;24
+2018;Prod. veterin·rio;AM;6
+2018;Prod. uso domiciliar;AM;40
+2018;CosmÈtico;AM;6
+2018;Prod. quÌmico;AM;30
+2018;Metal;AM;0
+2018;Drogas de abuso;AM;421
+2018;Planta tÛxica;AM;2
+2018;Alimento e bebida;AM;267
+2018;Outro;AM;28
+2018;Ign/Branco;RR;83
+2018;Medicamento;RR;230
+2018;AgrotÛxico agrÌcola;RR;32
+2018;AgrotÛxico domÈstico;RR;10
+2018;AgrotÛxico sa˙de p˙blica;RR;1
+2018;Raticida;RR;39
+2018;Prod. veterin·rio;RR;9
+2018;Prod. uso domiciliar;RR;43
+2018;CosmÈtico;RR;13
+2018;Prod. quÌmico;RR;16
+2018;Metal;RR;4
+2018;Drogas de abuso;RR;44
+2018;Planta tÛxica;RR;5
+2018;Alimento e bebida;RR;219
+2018;Outro;RR;31
+2018;Ign/Branco;PA;297
+2018;Medicamento;PA;130
+2018;AgrotÛxico agrÌcola;PA;151
+2018;AgrotÛxico domÈstico;PA;33
+2018;AgrotÛxico sa˙de p˙blica;PA;34
+2018;Raticida;PA;27
+2018;Prod. veterin·rio;PA;13
+2018;Prod. uso domiciliar;PA;35
+2018;CosmÈtico;PA;4
+2018;Prod. quÌmico;PA;52
+2018;Metal;PA;3
+2018;Drogas de abuso;PA;5
+2018;Planta tÛxica;PA;6
+2018;Alimento e bebida;PA;33
+2018;Outro;PA;24
+2018;Ign/Branco;AP;13
+2018;Medicamento;AP;21
+2018;AgrotÛxico agrÌcola;AP;1
+2018;AgrotÛxico domÈstico;AP;1
+2018;AgrotÛxico sa˙de p˙blica;AP;0
+2018;Raticida;AP;6
+2018;Prod. veterin·rio;AP;1
+2018;Prod. uso domiciliar;AP;6
+2018;CosmÈtico;AP;0
+2018;Prod. quÌmico;AP;3
+2018;Metal;AP;0
+2018;Drogas de abuso;AP;1
+2018;Planta tÛxica;AP;3
+2018;Alimento e bebida;AP;0
+2018;Outro;AP;4
+2018;Ign/Branco;TO;189
+2018;Medicamento;TO;840
+2018;AgrotÛxico agrÌcola;TO;133
+2018;AgrotÛxico domÈstico;TO;88
+2018;AgrotÛxico sa˙de p˙blica;TO;5
+2018;Raticida;TO;83
+2018;Prod. veterin·rio;TO;45
+2018;Prod. uso domiciliar;TO;167
+2018;CosmÈtico;TO;30
+2018;Prod. quÌmico;TO;51
+2018;Metal;TO;3
+2018;Drogas de abuso;TO;32
+2018;Planta tÛxica;TO;34
+2018;Alimento e bebida;TO;181
+2018;Outro;TO;60
+2018;Ign/Branco;MA;113
+2018;Medicamento;MA;416
+2018;AgrotÛxico agrÌcola;MA;37
+2018;AgrotÛxico domÈstico;MA;10
+2018;AgrotÛxico sa˙de p˙blica;MA;2
+2018;Raticida;MA;54
+2018;Prod. veterin·rio;MA;9
+2018;Prod. uso domiciliar;MA;43
+2018;CosmÈtico;MA;9
+2018;Prod. quÌmico;MA;29
+2018;Metal;MA;5
+2018;Drogas de abuso;MA;108
+2018;Planta tÛxica;MA;7
+2018;Alimento e bebida;MA;149
+2018;Outro;MA;20
+2018;Ign/Branco;PI;131
+2018;Medicamento;PI;1094
+2018;AgrotÛxico agrÌcola;PI;40
+2018;AgrotÛxico domÈstico;PI;25
+2018;AgrotÛxico sa˙de p˙blica;PI;2
+2018;Raticida;PI;80
+2018;Prod. veterin·rio;PI;31
+2018;Prod. uso domiciliar;PI;142
+2018;CosmÈtico;PI;41
+2018;Prod. quÌmico;PI;45
+2018;Metal;PI;1
+2018;Drogas de abuso;PI;107
+2018;Planta tÛxica;PI;27
+2018;Alimento e bebida;PI;105
+2018;Outro;PI;152
+2018;Ign/Branco;CE;289
+2018;Medicamento;CE;1762
+2018;AgrotÛxico agrÌcola;CE;117
+2018;AgrotÛxico domÈstico;CE;61
+2018;AgrotÛxico sa˙de p˙blica;CE;5
+2018;Raticida;CE;121
+2018;Prod. veterin·rio;CE;53
+2018;Prod. uso domiciliar;CE;159
+2018;CosmÈtico;CE;28
+2018;Prod. quÌmico;CE;91
+2018;Metal;CE;9
+2018;Drogas de abuso;CE;165
+2018;Planta tÛxica;CE;7
+2018;Alimento e bebida;CE;209
+2018;Outro;CE;87
+2018;Ign/Branco;RN;1060
+2018;Medicamento;RN;754
+2018;AgrotÛxico agrÌcola;RN;16
+2018;AgrotÛxico domÈstico;RN;15
+2018;AgrotÛxico sa˙de p˙blica;RN;0
+2018;Raticida;RN;61
+2018;Prod. veterin·rio;RN;12
+2018;Prod. uso domiciliar;RN;63
+2018;CosmÈtico;RN;30
+2018;Prod. quÌmico;RN;54
+2018;Metal;RN;0
+2018;Drogas de abuso;RN;510
+2018;Planta tÛxica;RN;15
+2018;Alimento e bebida;RN;210
+2018;Outro;RN;47
+2018;Ign/Branco;PB;308
+2018;Medicamento;PB;1154
+2018;AgrotÛxico agrÌcola;PB;67
+2018;AgrotÛxico domÈstico;PB;42
+2018;AgrotÛxico sa˙de p˙blica;PB;2
+2018;Raticida;PB;154
+2018;Prod. veterin·rio;PB;23
+2018;Prod. uso domiciliar;PB;177
+2018;CosmÈtico;PB;41
+2018;Prod. quÌmico;PB;101
+2018;Metal;PB;4
+2018;Drogas de abuso;PB;359
+2018;Planta tÛxica;PB;12
+2018;Alimento e bebida;PB;313
+2018;Outro;PB;82
+2018;Ign/Branco;PE;741
+2018;Medicamento;PE;4817
+2018;AgrotÛxico agrÌcola;PE;574
+2018;AgrotÛxico domÈstico;PE;146
+2018;AgrotÛxico sa˙de p˙blica;PE;10
+2018;Raticida;PE;170
+2018;Prod. veterin·rio;PE;87
+2018;Prod. uso domiciliar;PE;626
+2018;CosmÈtico;PE;200
+2018;Prod. quÌmico;PE;187
+2018;Metal;PE;15
+2018;Drogas de abuso;PE;1489
+2018;Planta tÛxica;PE;69
+2018;Alimento e bebida;PE;885
+2018;Outro;PE;217
+2018;Ign/Branco;AL;990
+2018;Medicamento;AL;1801
+2018;AgrotÛxico agrÌcola;AL;104
+2018;AgrotÛxico domÈstico;AL;50
+2018;AgrotÛxico sa˙de p˙blica;AL;2
+2018;Raticida;AL;140
+2018;Prod. veterin·rio;AL;25
+2018;Prod. uso domiciliar;AL;194
+2018;CosmÈtico;AL;45
+2018;Prod. quÌmico;AL;35
+2018;Metal;AL;4
+2018;Drogas de abuso;AL;77
+2018;Planta tÛxica;AL;23
+2018;Alimento e bebida;AL;447
+2018;Outro;AL;217
+2018;Ign/Branco;SE;64
+2018;Medicamento;SE;366
+2018;AgrotÛxico agrÌcola;SE;31
+2018;AgrotÛxico domÈstico;SE;10
+2018;AgrotÛxico sa˙de p˙blica;SE;1
+2018;Raticida;SE;39
+2018;Prod. veterin·rio;SE;7
+2018;Prod. uso domiciliar;SE;73
+2018;CosmÈtico;SE;13
+2018;Prod. quÌmico;SE;11
+2018;Metal;SE;2
+2018;Drogas de abuso;SE;52
+2018;Planta tÛxica;SE;8
+2018;Alimento e bebida;SE;74
+2018;Outro;SE;26
+2018;Ign/Branco;BA;904
+2018;Medicamento;BA;1934
+2018;AgrotÛxico agrÌcola;BA;249
+2018;AgrotÛxico domÈstico;BA;62
+2018;AgrotÛxico sa˙de p˙blica;BA;49
+2018;Raticida;BA;386
+2018;Prod. veterin·rio;BA;66
+2018;Prod. uso domiciliar;BA;355
+2018;CosmÈtico;BA;81
+2018;Prod. quÌmico;BA;144
+2018;Metal;BA;4
+2018;Drogas de abuso;BA;324
+2018;Planta tÛxica;BA;34
+2018;Alimento e bebida;BA;568
+2018;Outro;BA;159
+2018;Ign/Branco;MG;1583
+2018;Medicamento;MG;11574
+2018;AgrotÛxico agrÌcola;MG;577
+2018;AgrotÛxico domÈstico;MG;187
+2018;AgrotÛxico sa˙de p˙blica;MG;34
+2018;Raticida;MG;965
+2018;Prod. veterin·rio;MG;274
+2018;Prod. uso domiciliar;MG;951
+2018;CosmÈtico;MG;184
+2018;Prod. quÌmico;MG;429
+2018;Metal;MG;41
+2018;Drogas de abuso;MG;2384
+2018;Planta tÛxica;MG;166
+2018;Alimento e bebida;MG;1074
+2018;Outro;MG;677
+2018;Ign/Branco;ES;195
+2018;Medicamento;ES;3608
+2018;AgrotÛxico agrÌcola;ES;418
+2018;AgrotÛxico domÈstico;ES;97
+2018;AgrotÛxico sa˙de p˙blica;ES;49
+2018;Raticida;ES;148
+2018;Prod. veterin·rio;ES;52
+2018;Prod. uso domiciliar;ES;503
+2018;CosmÈtico;ES;171
+2018;Prod. quÌmico;ES;185
+2018;Metal;ES;4
+2018;Drogas de abuso;ES;347
+2018;Planta tÛxica;ES;91
+2018;Alimento e bebida;ES;313
+2018;Outro;ES;99
+2018;Ign/Branco;RJ;775
+2018;Medicamento;RJ;2873
+2018;AgrotÛxico agrÌcola;RJ;77
+2018;AgrotÛxico domÈstico;RJ;39
+2018;AgrotÛxico sa˙de p˙blica;RJ;9
+2018;Raticida;RJ;370
+2018;Prod. veterin·rio;RJ;46
+2018;Prod. uso domiciliar;RJ;336
+2018;CosmÈtico;RJ;43
+2018;Prod. quÌmico;RJ;144
+2018;Metal;RJ;5
+2018;Drogas de abuso;RJ;1652
+2018;Planta tÛxica;RJ;16
+2018;Alimento e bebida;RJ;753
+2018;Outro;RJ;163
+2018;Ign/Branco;SP;2517
+2018;Medicamento;SP;20118
+2018;AgrotÛxico agrÌcola;SP;632
+2018;AgrotÛxico domÈstico;SP;327
+2018;AgrotÛxico sa˙de p˙blica;SP;46
+2018;Raticida;SP;1183
+2018;Prod. veterin·rio;SP;208
+2018;Prod. uso domiciliar;SP;2147
+2018;CosmÈtico;SP;240
+2018;Prod. quÌmico;SP;844
+2018;Metal;SP;29
+2018;Drogas de abuso;SP;9743
+2018;Planta tÛxica;SP;101
+2018;Alimento e bebida;SP;2528
+2018;Outro;SP;971
+2018;Ign/Branco;PR;526
+2018;Medicamento;PR;9404
+2018;AgrotÛxico agrÌcola;PR;972
+2018;AgrotÛxico domÈstico;PR;253
+2018;AgrotÛxico sa˙de p˙blica;PR;15
+2018;Raticida;PR;474
+2018;Prod. veterin·rio;PR;158
+2018;Prod. uso domiciliar;PR;918
+2018;CosmÈtico;PR;103
+2018;Prod. quÌmico;PR;697
+2018;Metal;PR;17
+2018;Drogas de abuso;PR;1706
+2018;Planta tÛxica;PR;192
+2018;Alimento e bebida;PR;404
+2018;Outro;PR;186
+2018;Ign/Branco;SC;538
+2018;Medicamento;SC;4642
+2018;AgrotÛxico agrÌcola;SC;319
+2018;AgrotÛxico domÈstico;SC;145
+2018;AgrotÛxico sa˙de p˙blica;SC;20
+2018;Raticida;SC;211
+2018;Prod. veterin·rio;SC;43
+2018;Prod. uso domiciliar;SC;316
+2018;CosmÈtico;SC;26
+2018;Prod. quÌmico;SC;160
+2018;Metal;SC;10
+2018;Drogas de abuso;SC;445
+2018;Planta tÛxica;SC;45
+2018;Alimento e bebida;SC;414
+2018;Outro;SC;265
+2018;Ign/Branco;RS;639
+2018;Medicamento;RS;3795
+2018;AgrotÛxico agrÌcola;RS;487
+2018;AgrotÛxico domÈstico;RS;113
+2018;AgrotÛxico sa˙de p˙blica;RS;11
+2018;Raticida;RS;178
+2018;Prod. veterin·rio;RS;84
+2018;Prod. uso domiciliar;RS;239
+2018;CosmÈtico;RS;20
+2018;Prod. quÌmico;RS;255
+2018;Metal;RS;4
+2018;Drogas de abuso;RS;237
+2018;Planta tÛxica;RS;67
+2018;Alimento e bebida;RS;111
+2018;Outro;RS;277
+2018;Ign/Branco;MS;174
+2018;Medicamento;MS;1259
+2018;AgrotÛxico agrÌcola;MS;73
+2018;AgrotÛxico domÈstico;MS;57
+2018;AgrotÛxico sa˙de p˙blica;MS;13
+2018;Raticida;MS;106
+2018;Prod. veterin·rio;MS;50
+2018;Prod. uso domiciliar;MS;127
+2018;CosmÈtico;MS;11
+2018;Prod. quÌmico;MS;65
+2018;Metal;MS;5
+2018;Drogas de abuso;MS;45
+2018;Planta tÛxica;MS;9
+2018;Alimento e bebida;MS;95
+2018;Outro;MS;87
+2018;Ign/Branco;MT;124
+2018;Medicamento;MT;349
+2018;AgrotÛxico agrÌcola;MT;86
+2018;AgrotÛxico domÈstico;MT;41
+2018;AgrotÛxico sa˙de p˙blica;MT;3
+2018;Raticida;MT;60
+2018;Prod. veterin·rio;MT;32
+2018;Prod. uso domiciliar;MT;47
+2018;CosmÈtico;MT;14
+2018;Prod. quÌmico;MT;67
+2018;Metal;MT;0
+2018;Drogas de abuso;MT;39
+2018;Planta tÛxica;MT;8
+2018;Alimento e bebida;MT;107
+2018;Outro;MT;45
+2018;Ign/Branco;GO;492
+2018;Medicamento;GO;1979
+2018;AgrotÛxico agrÌcola;GO;360
+2018;AgrotÛxico domÈstico;GO;122
+2018;AgrotÛxico sa˙de p˙blica;GO;11
+2018;Raticida;GO;287
+2018;Prod. veterin·rio;GO;103
+2018;Prod. uso domiciliar;GO;252
+2018;CosmÈtico;GO;70
+2018;Prod. quÌmico;GO;172
+2018;Metal;GO;26
+2018;Drogas de abuso;GO;762
+2018;Planta tÛxica;GO;66
+2018;Alimento e bebida;GO;227
+2018;Outro;GO;46
+2018;Ign/Branco;DF;697
+2018;Medicamento;DF;1779
+2018;AgrotÛxico agrÌcola;DF;40
+2018;AgrotÛxico domÈstico;DF;40
+2018;AgrotÛxico sa˙de p˙blica;DF;2
+2018;Raticida;DF;148
+2018;Prod. veterin·rio;DF;22
+2018;Prod. uso domiciliar;DF;179
+2018;CosmÈtico;DF;33
+2018;Prod. quÌmico;DF;113
+2018;Metal;DF;7
+2018;Drogas de abuso;DF;284
+2018;Planta tÛxica;DF;24
+2018;Alimento e bebida;DF;226
+2018;Outro;DF;189
+2019;Ign/Branco;RO;151
+2019;Medicamento;RO;424
+2019;AgrotÛxico agrÌcola;RO;175
+2019;AgrotÛxico domÈstico;RO;32
+2019;AgrotÛxico sa˙de p˙blica;RO;2
+2019;Raticida;RO;64
+2019;Prod. veterin·rio;RO;40
+2019;Prod. uso domiciliar;RO;45
+2019;CosmÈtico;RO;5
+2019;Prod. quÌmico;RO;22
+2019;Metal;RO;1
+2019;Drogas de abuso;RO;11
+2019;Planta tÛxica;RO;5
+2019;Alimento e bebida;RO;88
+2019;Outro;RO;32
+2019;Ign/Branco;AC;137
+2019;Medicamento;AC;239
+2019;AgrotÛxico agrÌcola;AC;26
+2019;AgrotÛxico domÈstico;AC;9
+2019;AgrotÛxico sa˙de p˙blica;AC;2
+2019;Raticida;AC;20
+2019;Prod. veterin·rio;AC;4
+2019;Prod. uso domiciliar;AC;16
+2019;CosmÈtico;AC;7
+2019;Prod. quÌmico;AC;3
+2019;Metal;AC;1
+2019;Drogas de abuso;AC;25
+2019;Planta tÛxica;AC;0
+2019;Alimento e bebida;AC;29
+2019;Outro;AC;17
+2019;Ign/Branco;AM;189
+2019;Medicamento;AM;225
+2019;AgrotÛxico agrÌcola;AM;22
+2019;AgrotÛxico domÈstico;AM;16
+2019;AgrotÛxico sa˙de p˙blica;AM;15
+2019;Raticida;AM;42
+2019;Prod. veterin·rio;AM;13
+2019;Prod. uso domiciliar;AM;62
+2019;CosmÈtico;AM;12
+2019;Prod. quÌmico;AM;28
+2019;Metal;AM;0
+2019;Drogas de abuso;AM;694
+2019;Planta tÛxica;AM;2
+2019;Alimento e bebida;AM;290
+2019;Outro;AM;75
+2019;Ign/Branco;RR;69
+2019;Medicamento;RR;384
+2019;AgrotÛxico agrÌcola;RR;23
+2019;AgrotÛxico domÈstico;RR;16
+2019;AgrotÛxico sa˙de p˙blica;RR;58
+2019;Raticida;RR;41
+2019;Prod. veterin·rio;RR;13
+2019;Prod. uso domiciliar;RR;62
+2019;CosmÈtico;RR;13
+2019;Prod. quÌmico;RR;29
+2019;Metal;RR;0
+2019;Drogas de abuso;RR;35
+2019;Planta tÛxica;RR;7
+2019;Alimento e bebida;RR;208
+2019;Outro;RR;37
+2019;Ign/Branco;PA;145
+2019;Medicamento;PA;272
+2019;AgrotÛxico agrÌcola;PA;94
+2019;AgrotÛxico domÈstico;PA;44
+2019;AgrotÛxico sa˙de p˙blica;PA;5
+2019;Raticida;PA;65
+2019;Prod. veterin·rio;PA;23
+2019;Prod. uso domiciliar;PA;48
+2019;CosmÈtico;PA;7
+2019;Prod. quÌmico;PA;50
+2019;Metal;PA;1
+2019;Drogas de abuso;PA;11
+2019;Planta tÛxica;PA;8
+2019;Alimento e bebida;PA;47
+2019;Outro;PA;37
+2019;Ign/Branco;AP;10
+2019;Medicamento;AP;44
+2019;AgrotÛxico agrÌcola;AP;1
+2019;AgrotÛxico domÈstico;AP;1
+2019;AgrotÛxico sa˙de p˙blica;AP;0
+2019;Raticida;AP;9
+2019;Prod. veterin·rio;AP;0
+2019;Prod. uso domiciliar;AP;11
+2019;CosmÈtico;AP;2
+2019;Prod. quÌmico;AP;1
+2019;Metal;AP;0
+2019;Drogas de abuso;AP;2
+2019;Planta tÛxica;AP;3
+2019;Alimento e bebida;AP;0
+2019;Outro;AP;7
+2019;Ign/Branco;TO;142
+2019;Medicamento;TO;991
+2019;AgrotÛxico agrÌcola;TO;147
+2019;AgrotÛxico domÈstico;TO;64
+2019;AgrotÛxico sa˙de p˙blica;TO;7
+2019;Raticida;TO;70
+2019;Prod. veterin·rio;TO;42
+2019;Prod. uso domiciliar;TO;118
+2019;CosmÈtico;TO;21
+2019;Prod. quÌmico;TO;50
+2019;Metal;TO;2
+2019;Drogas de abuso;TO;35
+2019;Planta tÛxica;TO;30
+2019;Alimento e bebida;TO;146
+2019;Outro;TO;93
+2019;Ign/Branco;MA;108
+2019;Medicamento;MA;557
+2019;AgrotÛxico agrÌcola;MA;43
+2019;AgrotÛxico domÈstico;MA;20
+2019;AgrotÛxico sa˙de p˙blica;MA;12
+2019;Raticida;MA;53
+2019;Prod. veterin·rio;MA;19
+2019;Prod. uso domiciliar;MA;67
+2019;CosmÈtico;MA;12
+2019;Prod. quÌmico;MA;25
+2019;Metal;MA;3
+2019;Drogas de abuso;MA;17
+2019;Planta tÛxica;MA;7
+2019;Alimento e bebida;MA;251
+2019;Outro;MA;24
+2019;Ign/Branco;PI;123
+2019;Medicamento;PI;1117
+2019;AgrotÛxico agrÌcola;PI;25
+2019;AgrotÛxico domÈstico;PI;33
+2019;AgrotÛxico sa˙de p˙blica;PI;5
+2019;Raticida;PI;50
+2019;Prod. veterin·rio;PI;22
+2019;Prod. uso domiciliar;PI;136
+2019;CosmÈtico;PI;41
+2019;Prod. quÌmico;PI;29
+2019;Metal;PI;2
+2019;Drogas de abuso;PI;157
+2019;Planta tÛxica;PI;16
+2019;Alimento e bebida;PI;140
+2019;Outro;PI;132
+2019;Ign/Branco;CE;425
+2019;Medicamento;CE;2308
+2019;AgrotÛxico agrÌcola;CE;141
+2019;AgrotÛxico domÈstico;CE;58
+2019;AgrotÛxico sa˙de p˙blica;CE;6
+2019;Raticida;CE;151
+2019;Prod. veterin·rio;CE;54
+2019;Prod. uso domiciliar;CE;191
+2019;CosmÈtico;CE;43
+2019;Prod. quÌmico;CE;83
+2019;Metal;CE;10
+2019;Drogas de abuso;CE;107
+2019;Planta tÛxica;CE;13
+2019;Alimento e bebida;CE;187
+2019;Outro;CE;84
+2019;Ign/Branco;RN;983
+2019;Medicamento;RN;1139
+2019;AgrotÛxico agrÌcola;RN;21
+2019;AgrotÛxico domÈstico;RN;15
+2019;AgrotÛxico sa˙de p˙blica;RN;3
+2019;Raticida;RN;89
+2019;Prod. veterin·rio;RN;17
+2019;Prod. uso domiciliar;RN;102
+2019;CosmÈtico;RN;37
+2019;Prod. quÌmico;RN;44
+2019;Metal;RN;3
+2019;Drogas de abuso;RN;487
+2019;Planta tÛxica;RN;8
+2019;Alimento e bebida;RN;335
+2019;Outro;RN;81
+2019;Ign/Branco;PB;357
+2019;Medicamento;PB;1693
+2019;AgrotÛxico agrÌcola;PB;75
+2019;AgrotÛxico domÈstico;PB;62
+2019;AgrotÛxico sa˙de p˙blica;PB;4
+2019;Raticida;PB;141
+2019;Prod. veterin·rio;PB;18
+2019;Prod. uso domiciliar;PB;219
+2019;CosmÈtico;PB;59
+2019;Prod. quÌmico;PB;60
+2019;Metal;PB;3
+2019;Drogas de abuso;PB;486
+2019;Planta tÛxica;PB;18
+2019;Alimento e bebida;PB;364
+2019;Outro;PB;107
+2019;Ign/Branco;PE;849
+2019;Medicamento;PE;6335
+2019;AgrotÛxico agrÌcola;PE;579
+2019;AgrotÛxico domÈstico;PE;190
+2019;AgrotÛxico sa˙de p˙blica;PE;15
+2019;Raticida;PE;209
+2019;Prod. veterin·rio;PE;116
+2019;Prod. uso domiciliar;PE;685
+2019;CosmÈtico;PE;224
+2019;Prod. quÌmico;PE;226
+2019;Metal;PE;0
+2019;Drogas de abuso;PE;1740
+2019;Planta tÛxica;PE;78
+2019;Alimento e bebida;PE;702
+2019;Outro;PE;541
+2019;Ign/Branco;AL;878
+2019;Medicamento;AL;1969
+2019;AgrotÛxico agrÌcola;AL;111
+2019;AgrotÛxico domÈstico;AL;36
+2019;AgrotÛxico sa˙de p˙blica;AL;4
+2019;Raticida;AL;155
+2019;Prod. veterin·rio;AL;22
+2019;Prod. uso domiciliar;AL;195
+2019;CosmÈtico;AL;57
+2019;Prod. quÌmico;AL;48
+2019;Metal;AL;1
+2019;Drogas de abuso;AL;81
+2019;Planta tÛxica;AL;27
+2019;Alimento e bebida;AL;319
+2019;Outro;AL;111
+2019;Ign/Branco;SE;71
+2019;Medicamento;SE;337
+2019;AgrotÛxico agrÌcola;SE;44
+2019;AgrotÛxico domÈstico;SE;7
+2019;AgrotÛxico sa˙de p˙blica;SE;0
+2019;Raticida;SE;50
+2019;Prod. veterin·rio;SE;10
+2019;Prod. uso domiciliar;SE;58
+2019;CosmÈtico;SE;11
+2019;Prod. quÌmico;SE;18
+2019;Metal;SE;1
+2019;Drogas de abuso;SE;44
+2019;Planta tÛxica;SE;9
+2019;Alimento e bebida;SE;50
+2019;Outro;SE;20
+2019;Ign/Branco;BA;903
+2019;Medicamento;BA;2143
+2019;AgrotÛxico agrÌcola;BA;258
+2019;AgrotÛxico domÈstico;BA;67
+2019;AgrotÛxico sa˙de p˙blica;BA;32
+2019;Raticida;BA;276
+2019;Prod. veterin·rio;BA;59
+2019;Prod. uso domiciliar;BA;281
+2019;CosmÈtico;BA;80
+2019;Prod. quÌmico;BA;153
+2019;Metal;BA;6
+2019;Drogas de abuso;BA;147
+2019;Planta tÛxica;BA;45
+2019;Alimento e bebida;BA;468
+2019;Outro;BA;175
+2019;Ign/Branco;MG;2024
+2019;Medicamento;MG;14036
+2019;AgrotÛxico agrÌcola;MG;582
+2019;AgrotÛxico domÈstico;MG;199
+2019;AgrotÛxico sa˙de p˙blica;MG;53
+2019;Raticida;MG;925
+2019;Prod. veterin·rio;MG;236
+2019;Prod. uso domiciliar;MG;955
+2019;CosmÈtico;MG;155
+2019;Prod. quÌmico;MG;377
+2019;Metal;MG;45
+2019;Drogas de abuso;MG;1778
+2019;Planta tÛxica;MG;114
+2019;Alimento e bebida;MG;904
+2019;Outro;MG;622
+2019;Ign/Branco;ES;162
+2019;Medicamento;ES;3998
+2019;AgrotÛxico agrÌcola;ES;431
+2019;AgrotÛxico domÈstico;ES;97
+2019;AgrotÛxico sa˙de p˙blica;ES;63
+2019;Raticida;ES;137
+2019;Prod. veterin·rio;ES;39
+2019;Prod. uso domiciliar;ES;463
+2019;CosmÈtico;ES;155
+2019;Prod. quÌmico;ES;198
+2019;Metal;ES;11
+2019;Drogas de abuso;ES;487
+2019;Planta tÛxica;ES;86
+2019;Alimento e bebida;ES;363
+2019;Outro;ES;130
+2019;Ign/Branco;RJ;721
+2019;Medicamento;RJ;3697
+2019;AgrotÛxico agrÌcola;RJ;64
+2019;AgrotÛxico domÈstico;RJ;42
+2019;AgrotÛxico sa˙de p˙blica;RJ;4
+2019;Raticida;RJ;333
+2019;Prod. veterin·rio;RJ;36
+2019;Prod. uso domiciliar;RJ;311
+2019;CosmÈtico;RJ;35
+2019;Prod. quÌmico;RJ;173
+2019;Metal;RJ;9
+2019;Drogas de abuso;RJ;1067
+2019;Planta tÛxica;RJ;22
+2019;Alimento e bebida;RJ;667
+2019;Outro;RJ;248
+2019;Ign/Branco;SP;2848
+2019;Medicamento;SP;23380
+2019;AgrotÛxico agrÌcola;SP;523
+2019;AgrotÛxico domÈstico;SP;320
+2019;AgrotÛxico sa˙de p˙blica;SP;58
+2019;Raticida;SP;1129
+2019;Prod. veterin·rio;SP;173
+2019;Prod. uso domiciliar;SP;2065
+2019;CosmÈtico;SP;240
+2019;Prod. quÌmico;SP;649
+2019;Metal;SP;46
+2019;Drogas de abuso;SP;9451
+2019;Planta tÛxica;SP;91
+2019;Alimento e bebida;SP;1776
+2019;Outro;SP;889
+2019;Ign/Branco;PR;828
+2019;Medicamento;PR;12182
+2019;AgrotÛxico agrÌcola;PR;810
+2019;AgrotÛxico domÈstico;PR;259
+2019;AgrotÛxico sa˙de p˙blica;PR;20
+2019;Raticida;PR;506
+2019;Prod. veterin·rio;PR;163
+2019;Prod. uso domiciliar;PR;965
+2019;CosmÈtico;PR;114
+2019;Prod. quÌmico;PR;636
+2019;Metal;PR;25
+2019;Drogas de abuso;PR;3036
+2019;Planta tÛxica;PR;233
+2019;Alimento e bebida;PR;190
+2019;Outro;PR;309
+2019;Ign/Branco;SC;640
+2019;Medicamento;SC;6103
+2019;AgrotÛxico agrÌcola;SC;377
+2019;AgrotÛxico domÈstico;SC;158
+2019;AgrotÛxico sa˙de p˙blica;SC;6
+2019;Raticida;SC;233
+2019;Prod. veterin·rio;SC;51
+2019;Prod. uso domiciliar;SC;314
+2019;CosmÈtico;SC;30
+2019;Prod. quÌmico;SC;203
+2019;Metal;SC;17
+2019;Drogas de abuso;SC;464
+2019;Planta tÛxica;SC;93
+2019;Alimento e bebida;SC;229
+2019;Outro;SC;219
+2019;Ign/Branco;RS;944
+2019;Medicamento;RS;4681
+2019;AgrotÛxico agrÌcola;RS;619
+2019;AgrotÛxico domÈstico;RS;115
+2019;AgrotÛxico sa˙de p˙blica;RS;20
+2019;Raticida;RS;200
+2019;Prod. veterin·rio;RS;93
+2019;Prod. uso domiciliar;RS;242
+2019;CosmÈtico;RS;32
+2019;Prod. quÌmico;RS;285
+2019;Metal;RS;16
+2019;Drogas de abuso;RS;313
+2019;Planta tÛxica;RS;88
+2019;Alimento e bebida;RS;215
+2019;Outro;RS;288
+2019;Ign/Branco;MS;203
+2019;Medicamento;MS;1668
+2019;AgrotÛxico agrÌcola;MS;89
+2019;AgrotÛxico domÈstico;MS;60
+2019;AgrotÛxico sa˙de p˙blica;MS;1
+2019;Raticida;MS;110
+2019;Prod. veterin·rio;MS;59
+2019;Prod. uso domiciliar;MS;102
+2019;CosmÈtico;MS;19
+2019;Prod. quÌmico;MS;112
+2019;Metal;MS;1
+2019;Drogas de abuso;MS;39
+2019;Planta tÛxica;MS;17
+2019;Alimento e bebida;MS;80
+2019;Outro;MS;82
+2019;Ign/Branco;MT;122
+2019;Medicamento;MT;653
+2019;AgrotÛxico agrÌcola;MT;80
+2019;AgrotÛxico domÈstico;MT;44
+2019;AgrotÛxico sa˙de p˙blica;MT;4
+2019;Raticida;MT;61
+2019;Prod. veterin·rio;MT;36
+2019;Prod. uso domiciliar;MT;59
+2019;CosmÈtico;MT;10
+2019;Prod. quÌmico;MT;41
+2019;Metal;MT;1
+2019;Drogas de abuso;MT;33
+2019;Planta tÛxica;MT;3
+2019;Alimento e bebida;MT;198
+2019;Outro;MT;42
+2019;Ign/Branco;GO;486
+2019;Medicamento;GO;2873
+2019;AgrotÛxico agrÌcola;GO;314
+2019;AgrotÛxico domÈstico;GO;130
+2019;AgrotÛxico sa˙de p˙blica;GO;51
+2019;Raticida;GO;338
+2019;Prod. veterin·rio;GO;101
+2019;Prod. uso domiciliar;GO;358
+2019;CosmÈtico;GO;68
+2019;Prod. quÌmico;GO;215
+2019;Metal;GO;32
+2019;Drogas de abuso;GO;956
+2019;Planta tÛxica;GO;40
+2019;Alimento e bebida;GO;165
+2019;Outro;GO;82
+2019;Ign/Branco;DF;787
+2019;Medicamento;DF;2745
+2019;AgrotÛxico agrÌcola;DF;26
+2019;AgrotÛxico domÈstico;DF;36
+2019;AgrotÛxico sa˙de p˙blica;DF;0
+2019;Raticida;DF;161
+2019;Prod. veterin·rio;DF;17
+2019;Prod. uso domiciliar;DF;239
+2019;CosmÈtico;DF;42
+2019;Prod. quÌmico;DF;77
+2019;Metal;DF;8
+2019;Drogas de abuso;DF;366
+2019;Planta tÛxica;DF;31
+2019;Alimento e bebida;DF;162
+2019;Outro;DF;285
+2020;Ign/Branco;RO;9
+2020;Medicamento;RO;0
+2020;AgrotÛxico agrÌcola;RO;0
+2020;AgrotÛxico domÈstico;RO;0
+2020;AgrotÛxico sa˙de p˙blica;RO;0
+2020;Raticida;RO;0
+2020;Prod. veterin·rio;RO;0
+2020;Prod. uso domiciliar;RO;0
+2020;CosmÈtico;RO;0
+2020;Prod. quÌmico;RO;0
+2020;Metal;RO;0
+2020;Drogas de abuso;RO;0
+2020;Planta tÛxica;RO;0
+2020;Alimento e bebida;RO;0
+2020;Outro;RO;0
+2020;Ign/Branco;AC;33
+2020;Medicamento;AC;39
+2020;AgrotÛxico agrÌcola;AC;10
+2020;AgrotÛxico domÈstico;AC;5
+2020;AgrotÛxico sa˙de p˙blica;AC;0
+2020;Raticida;AC;6
+2020;Prod. veterin·rio;AC;1
+2020;Prod. uso domiciliar;AC;5
+2020;CosmÈtico;AC;0
+2020;Prod. quÌmico;AC;2
+2020;Metal;AC;0
+2020;Drogas de abuso;AC;4
+2020;Planta tÛxica;AC;0
+2020;Alimento e bebida;AC;7
+2020;Outro;AC;3
+2020;Ign/Branco;AM;36
+2020;Medicamento;AM;36
+2020;AgrotÛxico agrÌcola;AM;12
+2020;AgrotÛxico domÈstico;AM;6
+2020;AgrotÛxico sa˙de p˙blica;AM;1
+2020;Raticida;AM;6
+2020;Prod. veterin·rio;AM;0
+2020;Prod. uso domiciliar;AM;13
+2020;CosmÈtico;AM;0
+2020;Prod. quÌmico;AM;4
+2020;Metal;AM;0
+2020;Drogas de abuso;AM;69
+2020;Planta tÛxica;AM;1
+2020;Alimento e bebida;AM;44
+2020;Outro;AM;14
+2020;Ign/Branco;RR;8
+2020;Medicamento;RR;104
+2020;AgrotÛxico agrÌcola;RR;9
+2020;AgrotÛxico domÈstico;RR;4
+2020;AgrotÛxico sa˙de p˙blica;RR;1
+2020;Raticida;RR;13
+2020;Prod. veterin·rio;RR;5
+2020;Prod. uso domiciliar;RR;24
+2020;CosmÈtico;RR;4
+2020;Prod. quÌmico;RR;9
+2020;Metal;RR;0
+2020;Drogas de abuso;RR;13
+2020;Planta tÛxica;RR;4
+2020;Alimento e bebida;RR;79
+2020;Outro;RR;11
+2020;Ign/Branco;PA;89
+2020;Medicamento;PA;57
+2020;AgrotÛxico agrÌcola;PA;45
+2020;AgrotÛxico domÈstico;PA;22
+2020;AgrotÛxico sa˙de p˙blica;PA;0
+2020;Raticida;PA;13
+2020;Prod. veterin·rio;PA;6
+2020;Prod. uso domiciliar;PA;15
+2020;CosmÈtico;PA;3
+2020;Prod. quÌmico;PA;20
+2020;Metal;PA;1
+2020;Drogas de abuso;PA;1
+2020;Planta tÛxica;PA;1
+2020;Alimento e bebida;PA;2
+2020;Outro;PA;2
+2020;Ign/Branco;AP;1
+2020;Medicamento;AP;3
+2020;AgrotÛxico agrÌcola;AP;0
+2020;AgrotÛxico domÈstico;AP;2
+2020;AgrotÛxico sa˙de p˙blica;AP;0
+2020;Raticida;AP;0
+2020;Prod. veterin·rio;AP;0
+2020;Prod. uso domiciliar;AP;0
+2020;CosmÈtico;AP;0
+2020;Prod. quÌmico;AP;0
+2020;Metal;AP;0
+2020;Drogas de abuso;AP;0
+2020;Planta tÛxica;AP;0
+2020;Alimento e bebida;AP;0
+2020;Outro;AP;1
+2020;Ign/Branco;TO;65
+2020;Medicamento;TO;312
+2020;AgrotÛxico agrÌcola;TO;67
+2020;AgrotÛxico domÈstico;TO;33
+2020;AgrotÛxico sa˙de p˙blica;TO;1
+2020;Raticida;TO;23
+2020;Prod. veterin·rio;TO;19
+2020;Prod. uso domiciliar;TO;49
+2020;CosmÈtico;TO;6
+2020;Prod. quÌmico;TO;8
+2020;Metal;TO;0
+2020;Drogas de abuso;TO;29
+2020;Planta tÛxica;TO;6
+2020;Alimento e bebida;TO;71
+2020;Outro;TO;29
+2020;Ign/Branco;MA;18
+2020;Medicamento;MA;146
+2020;AgrotÛxico agrÌcola;MA;27
+2020;AgrotÛxico domÈstico;MA;11
+2020;AgrotÛxico sa˙de p˙blica;MA;1
+2020;Raticida;MA;12
+2020;Prod. veterin·rio;MA;4
+2020;Prod. uso domiciliar;MA;16
+2020;CosmÈtico;MA;5
+2020;Prod. quÌmico;MA;8
+2020;Metal;MA;1
+2020;Drogas de abuso;MA;6
+2020;Planta tÛxica;MA;9
+2020;Alimento e bebida;MA;94
+2020;Outro;MA;9
+2020;Ign/Branco;PI;29
+2020;Medicamento;PI;137
+2020;AgrotÛxico agrÌcola;PI;22
+2020;AgrotÛxico domÈstico;PI;6
+2020;AgrotÛxico sa˙de p˙blica;PI;0
+2020;Raticida;PI;2
+2020;Prod. veterin·rio;PI;1
+2020;Prod. uso domiciliar;PI;14
+2020;CosmÈtico;PI;2
+2020;Prod. quÌmico;PI;3
+2020;Metal;PI;0
+2020;Drogas de abuso;PI;31
+2020;Planta tÛxica;PI;2
+2020;Alimento e bebida;PI;37
+2020;Outro;PI;20
+2020;Ign/Branco;CE;132
+2020;Medicamento;CE;539
+2020;AgrotÛxico agrÌcola;CE;64
+2020;AgrotÛxico domÈstico;CE;14
+2020;AgrotÛxico sa˙de p˙blica;CE;18
+2020;Raticida;CE;32
+2020;Prod. veterin·rio;CE;8
+2020;Prod. uso domiciliar;CE;50
+2020;CosmÈtico;CE;7
+2020;Prod. quÌmico;CE;16
+2020;Metal;CE;2
+2020;Drogas de abuso;CE;26
+2020;Planta tÛxica;CE;5
+2020;Alimento e bebida;CE;65
+2020;Outro;CE;24
+2020;Ign/Branco;RN;439
+2020;Medicamento;RN;393
+2020;AgrotÛxico agrÌcola;RN;5
+2020;AgrotÛxico domÈstico;RN;9
+2020;AgrotÛxico sa˙de p˙blica;RN;4
+2020;Raticida;RN;48
+2020;Prod. veterin·rio;RN;10
+2020;Prod. uso domiciliar;RN;33
+2020;CosmÈtico;RN;25
+2020;Prod. quÌmico;RN;17
+2020;Metal;RN;0
+2020;Drogas de abuso;RN;234
+2020;Planta tÛxica;RN;6
+2020;Alimento e bebida;RN;203
+2020;Outro;RN;33
+2020;Ign/Branco;PB;120
+2020;Medicamento;PB;314
+2020;AgrotÛxico agrÌcola;PB;9
+2020;AgrotÛxico domÈstico;PB;15
+2020;AgrotÛxico sa˙de p˙blica;PB;0
+2020;Raticida;PB;30
+2020;Prod. veterin·rio;PB;6
+2020;Prod. uso domiciliar;PB;38
+2020;CosmÈtico;PB;14
+2020;Prod. quÌmico;PB;15
+2020;Metal;PB;1
+2020;Drogas de abuso;PB;161
+2020;Planta tÛxica;PB;2
+2020;Alimento e bebida;PB;98
+2020;Outro;PB;30
+2020;Ign/Branco;PE;275
+2020;Medicamento;PE;1452
+2020;AgrotÛxico agrÌcola;PE;145
+2020;AgrotÛxico domÈstico;PE;67
+2020;AgrotÛxico sa˙de p˙blica;PE;4
+2020;Raticida;PE;47
+2020;Prod. veterin·rio;PE;36
+2020;Prod. uso domiciliar;PE;152
+2020;CosmÈtico;PE;50
+2020;Prod. quÌmico;PE;63
+2020;Metal;PE;2
+2020;Drogas de abuso;PE;454
+2020;Planta tÛxica;PE;30
+2020;Alimento e bebida;PE;158
+2020;Outro;PE;102
+2020;Ign/Branco;AL;283
+2020;Medicamento;AL;519
+2020;AgrotÛxico agrÌcola;AL;16
+2020;AgrotÛxico domÈstico;AL;13
+2020;AgrotÛxico sa˙de p˙blica;AL;1
+2020;Raticida;AL;36
+2020;Prod. veterin·rio;AL;5
+2020;Prod. uso domiciliar;AL;56
+2020;CosmÈtico;AL;14
+2020;Prod. quÌmico;AL;14
+2020;Metal;AL;0
+2020;Drogas de abuso;AL;22
+2020;Planta tÛxica;AL;2
+2020;Alimento e bebida;AL;112
+2020;Outro;AL;27
+2020;Ign/Branco;SE;42
+2020;Medicamento;SE;146
+2020;AgrotÛxico agrÌcola;SE;8
+2020;AgrotÛxico domÈstico;SE;1
+2020;AgrotÛxico sa˙de p˙blica;SE;0
+2020;Raticida;SE;8
+2020;Prod. veterin·rio;SE;3
+2020;Prod. uso domiciliar;SE;23
+2020;CosmÈtico;SE;6
+2020;Prod. quÌmico;SE;6
+2020;Metal;SE;2
+2020;Drogas de abuso;SE;13
+2020;Planta tÛxica;SE;0
+2020;Alimento e bebida;SE;12
+2020;Outro;SE;8
+2020;Ign/Branco;BA;321
+2020;Medicamento;BA;572
+2020;AgrotÛxico agrÌcola;BA;77
+2020;AgrotÛxico domÈstico;BA;15
+2020;AgrotÛxico sa˙de p˙blica;BA;7
+2020;Raticida;BA;70
+2020;Prod. veterin·rio;BA;18
+2020;Prod. uso domiciliar;BA;69
+2020;CosmÈtico;BA;17
+2020;Prod. quÌmico;BA;36
+2020;Metal;BA;1
+2020;Drogas de abuso;BA;37
+2020;Planta tÛxica;BA;11
+2020;Alimento e bebida;BA;90
+2020;Outro;BA;26
+2020;Ign/Branco;MG;709
+2020;Medicamento;MG;3915
+2020;AgrotÛxico agrÌcola;MG;223
+2020;AgrotÛxico domÈstico;MG;71
+2020;AgrotÛxico sa˙de p˙blica;MG;7
+2020;Raticida;MG;239
+2020;Prod. veterin·rio;MG;49
+2020;Prod. uso domiciliar;MG;280
+2020;CosmÈtico;MG;44
+2020;Prod. quÌmico;MG;137
+2020;Metal;MG;9
+2020;Drogas de abuso;MG;414
+2020;Planta tÛxica;MG;31
+2020;Alimento e bebida;MG;201
+2020;Outro;MG;168
+2020;Ign/Branco;ES;3
+2020;Medicamento;ES;92
+2020;AgrotÛxico agrÌcola;ES;2
+2020;AgrotÛxico domÈstico;ES;1
+2020;AgrotÛxico sa˙de p˙blica;ES;0
+2020;Raticida;ES;3
+2020;Prod. veterin·rio;ES;0
+2020;Prod. uso domiciliar;ES;8
+2020;CosmÈtico;ES;8
+2020;Prod. quÌmico;ES;1
+2020;Metal;ES;0
+2020;Drogas de abuso;ES;18
+2020;Planta tÛxica;ES;4
+2020;Alimento e bebida;ES;25
+2020;Outro;ES;3
+2020;Ign/Branco;RJ;328
+2020;Medicamento;RJ;949
+2020;AgrotÛxico agrÌcola;RJ;20
+2020;AgrotÛxico domÈstico;RJ;12
+2020;AgrotÛxico sa˙de p˙blica;RJ;1
+2020;Raticida;RJ;62
+2020;Prod. veterin·rio;RJ;9
+2020;Prod. uso domiciliar;RJ;62
+2020;CosmÈtico;RJ;6
+2020;Prod. quÌmico;RJ;40
+2020;Metal;RJ;4
+2020;Drogas de abuso;RJ;235
+2020;Planta tÛxica;RJ;6
+2020;Alimento e bebida;RJ;168
+2020;Outro;RJ;48
+2020;Ign/Branco;SP;1006
+2020;Medicamento;SP;7088
+2020;AgrotÛxico agrÌcola;SP;186
+2020;AgrotÛxico domÈstico;SP;107
+2020;AgrotÛxico sa˙de p˙blica;SP;15
+2020;Raticida;SP;364
+2020;Prod. veterin·rio;SP;63
+2020;Prod. uso domiciliar;SP;636
+2020;CosmÈtico;SP;69
+2020;Prod. quÌmico;SP;205
+2020;Metal;SP;15
+2020;Drogas de abuso;SP;2420
+2020;Planta tÛxica;SP;31
+2020;Alimento e bebida;SP;648
+2020;Outro;SP;217
+2020;Ign/Branco;PR;569
+2020;Medicamento;PR;2566
+2020;AgrotÛxico agrÌcola;PR;223
+2020;AgrotÛxico domÈstico;PR;75
+2020;AgrotÛxico sa˙de p˙blica;PR;10
+2020;Raticida;PR;152
+2020;Prod. veterin·rio;PR;59
+2020;Prod. uso domiciliar;PR;231
+2020;CosmÈtico;PR;41
+2020;Prod. quÌmico;PR;142
+2020;Metal;PR;3
+2020;Drogas de abuso;PR;584
+2020;Planta tÛxica;PR;102
+2020;Alimento e bebida;PR;42
+2020;Outro;PR;113
+2020;Ign/Branco;SC;221
+2020;Medicamento;SC;1517
+2020;AgrotÛxico agrÌcola;SC;87
+2020;AgrotÛxico domÈstico;SC;32
+2020;AgrotÛxico sa˙de p˙blica;SC;0
+2020;Raticida;SC;54
+2020;Prod. veterin·rio;SC;12
+2020;Prod. uso domiciliar;SC;66
+2020;CosmÈtico;SC;4
+2020;Prod. quÌmico;SC;45
+2020;Metal;SC;5
+2020;Drogas de abuso;SC;104
+2020;Planta tÛxica;SC;51
+2020;Alimento e bebida;SC;53
+2020;Outro;SC;70
+2020;Ign/Branco;RS;289
+2020;Medicamento;RS;1184
+2020;AgrotÛxico agrÌcola;RS;152
+2020;AgrotÛxico domÈstico;RS;24
+2020;AgrotÛxico sa˙de p˙blica;RS;6
+2020;Raticida;RS;32
+2020;Prod. veterin·rio;RS;18
+2020;Prod. uso domiciliar;RS;57
+2020;CosmÈtico;RS;6
+2020;Prod. quÌmico;RS;71
+2020;Metal;RS;3
+2020;Drogas de abuso;RS;94
+2020;Planta tÛxica;RS;25
+2020;Alimento e bebida;RS;51
+2020;Outro;RS;57
+2020;Ign/Branco;MS;58
+2020;Medicamento;MS;306
+2020;AgrotÛxico agrÌcola;MS;37
+2020;AgrotÛxico domÈstico;MS;17
+2020;AgrotÛxico sa˙de p˙blica;MS;4
+2020;Raticida;MS;12
+2020;Prod. veterin·rio;MS;11
+2020;Prod. uso domiciliar;MS;34
+2020;CosmÈtico;MS;2
+2020;Prod. quÌmico;MS;20
+2020;Metal;MS;0
+2020;Drogas de abuso;MS;10
+2020;Planta tÛxica;MS;10
+2020;Alimento e bebida;MS;20
+2020;Outro;MS;15
+2020;Ign/Branco;MT;60
+2020;Medicamento;MT;161
+2020;AgrotÛxico agrÌcola;MT;39
+2020;AgrotÛxico domÈstico;MT;14
+2020;AgrotÛxico sa˙de p˙blica;MT;7
+2020;Raticida;MT;19
+2020;Prod. veterin·rio;MT;5
+2020;Prod. uso domiciliar;MT;15
+2020;CosmÈtico;MT;1
+2020;Prod. quÌmico;MT;14
+2020;Metal;MT;1
+2020;Drogas de abuso;MT;25
+2020;Planta tÛxica;MT;5
+2020;Alimento e bebida;MT;54
+2020;Outro;MT;10
+2020;Ign/Branco;GO;138
+2020;Medicamento;GO;833
+2020;AgrotÛxico agrÌcola;GO;93
+2020;AgrotÛxico domÈstico;GO;65
+2020;AgrotÛxico sa˙de p˙blica;GO;5
+2020;Raticida;GO;102
+2020;Prod. veterin·rio;GO;22
+2020;Prod. uso domiciliar;GO;94
+2020;CosmÈtico;GO;23
+2020;Prod. quÌmico;GO;58
+2020;Metal;GO;8
+2020;Drogas de abuso;GO;354
+2020;Planta tÛxica;GO;8
+2020;Alimento e bebida;GO;56
+2020;Outro;GO;18
+2020;Ign/Branco;DF;126
+2020;Medicamento;DF;414
+2020;AgrotÛxico agrÌcola;DF;2
+2020;AgrotÛxico domÈstico;DF;5
+2020;AgrotÛxico sa˙de p˙blica;DF;0
+2020;Raticida;DF;32
+2020;Prod. veterin·rio;DF;3
+2020;Prod. uso domiciliar;DF;32
+2020;CosmÈtico;DF;9
+2020;Prod. quÌmico;DF;7
+2020;Metal;DF;2
+2020;Drogas de abuso;DF;52
+2020;Planta tÛxica;DF;1
+2020;Alimento e bebida;DF;30
+2020;Outro;DF;72
