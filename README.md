@@ -77,12 +77,16 @@ A análise exploratória foi realizada principalmente com o auxílio das ferrame
 Não conseguimos relacionar nossos dados com quantidade por automedicação de maneira direta, pois não há base de dados sobre automedicação no Brasil, mas optamos que que a partir de 2007 até 2019 há um alto índice de intoxicação pelo “agente tóxico” medicamento, quando comparado aos demais agentes como drogas de abuso, defensivo agrícola, entre outros, conforme demonstrado pela relação abaixo por ano -  o que sugere se tratar de casos de intoxicação medicamentosa. A Figura 1 apresenta uma síntese das análises dos dados do SINAN associados às intoxicações.
 
 **Figura 1**. Resultado quantitativo do levantamento de dados associados à intoxicação do SINAN.
-TODO() link image
+<p align="center">
+  <img src="assets/e2-i1.png" align="center">
+</p>
 
 Através desta avaliação podemos concluir que o agente tóxico medicamento é o que mais vem sendo notificado em relação aos demais por ano e crescendo ano a ano desde 2007. Partindo destes resultados, realizamos uma segunda análise para verificar a procedência desse montante de notificações. Assim, verificamos que a maioria das notificações é proveniente dos estados de São Paulo, Minas Gerais e Paraná. Notamos ainda que, curiosamente, Pernambuco e Santa Catarina apresentam um índice de notificações bem próximas conforme é possível observar nos gráficos abaixo (Figura 2):
 
 **Figura 2**. Resultado da separação dos dados de intoxicação causadas por medicamento por Unidade Federativa
-TODO() link image
+<p align="center">
+  <img src="assets/e2-i2.png" align="center">
+</p>
 
 **Pergunta: Qual a relação entre a quantidade de notificações de intoxicações por automedicação e o poder socioeconômico das regiões brasileiras?**
 
@@ -93,7 +97,9 @@ Não foi possível avaliar por este critério de automedicação conforme justif
 No SINAN, não existe uma relação epidemiológica ligada diretamente à condição sócio econômica, mas podemos verificar pelo IBGE e por região quais as condições de renda e fazer uma correlação e verificar este fato. Salientamos que a análise em questão será realizada num próximo passo de avaliação de dados. Uma segunda etapa em relação a este perfil de análise seria fazer uma avaliação por faixa etária, onde já constatamos que há uma relação forte entre a faixa de 29 a 59 anos (Figura 3) como sujeitos das notificações levantadas. 
 
 **Figura 3**. Resultado da separação dos dados de intoxicação por medicamento de acordo com a faixa etária do sujeito da notificação.
-TODO() link image
+<p align="center">
+  <img src="assets/e2-i3.png" align="center">
+</p>
 
 # Ferramentas
 - Python / Orange;
