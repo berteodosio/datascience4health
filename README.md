@@ -101,6 +101,11 @@ No SINAN, não existe uma relação epidemiológica ligada diretamente à condi�
   <img src="assets/e2-i3.png" align="center">
 </p>
 
+Como podemos notar nos gráficos gerados acima, estados com maior população como São Paulo e Minas Gerais possuem mais notificações de intoxicação. Para uma analise mais precisa verificamos a quantidade de notificações por habitantes. O gráfico abaixo mostra esta relação com a quantidade de notificações para um grupo de 100 mil habitantes por estado. Os dados populacionais foram obtidos na projeção do IBGE para o ano de 2019. 
+<p align="center">
+  <img src="assets/Notificacoes2019Per100K-hab.png" align="center">
+</p>
+
 # Ferramentas
 - Python / Orange;
 - Ferramenta de controle de planilhas (Google Sheets);
