@@ -35,6 +35,39 @@ Os slides da proposta original do projeto podem ser encontrados aqui: https://gi
 Os slides da apresentação final do projeto estão disponíveis em:
 https://docs.google.com/presentation/d/e/2PACX-1vSbvtTkR4ttn-mb_54xGK2dKQIzksI9xq-47L0eMnpazRe4zRLiyh1QhYonAJVwe5-oEH6GwT53igcn/pub?start=false&loop=false&delayms=3000
 
+# Introdução e Referenciais de Teóricos
+No período compreendido entre 2010 e 2017, foram notificados mais de 500.000 casos de intoxicações no SINAN. Tais dados apontam para uma maior incidência de casos de intoxicação medicamentosa do que por agrotóxicos, conforme busca feita pelo grupo na mencionada base de dados. Simultaneamente, um estudo feito pelo Conselho Federal de Farmácia em 2019 mostrou que 77% da população brasileira se automedica [1], o que chamou a atenção para a questão da automedicação como possível fator capaz de levar a casos de intoxicação medicamentosa. Ainda neste contexto, a Organização Mundial da Saúde prevê que cerca de 10 milhões de óbitos sejam causados por automedicação por ano em 2050 [2]. Tratam-se de previsões sombrias e alarmantes que infelizmente são coerentes com os dados do estudo na população brasileira em 2019. Esta pesquisa de 2019 apontou ainda que as principais classes medicamentosas associadas à automedicação são: analgésicos e relaxantes musculares, com destaque para a dipirona como medicamento mais consumido nesse contexto. Além desse panorama, cabe destacar a grande variabilidade entre as cinco regiões brasileiras, tanto do ponto de vista socioeconômico quanto às notificações de intoxicações.
+
+## Contextualização do projeto
+Este trabalho foi realizado como projeto da disciplina "Ciência e Visualização de Dados em Saúde", oferecida no primeiro semestre de 2021 na UNICAMP. Dados os altos números de notificações por intoxicação nos últimos anos, optamos por realizar um estudo nesta área, com o objetivo de responder especialmente questões relacionadas à intoxicação por automedicação.
+
+## Caracterização do problema
+Nosso problema original consistia em responder perguntas de pesquisa relacionadas à quantidade de intoxicações medicamentosas nos últimos anos e, especialmente, intoxicações originárias a partir de automedicação. Infelizmente, por conta da falta de dados relativos à automedicação no Brasil, tivemos que alterar o rumo do nosso trabalho de forma a focar nas notificações por intoxicação de um modo geral - sem separação entre automedicação versus outros casos. Desta forma fizemos a relação de notificação de intoxicação do agente tóxico medicamento por região, comparando a renda mensal, número de leitos por hospital público e privado e o custo da internação assim como o tempo médio de internação.
+
+## Motivação
+Considerando todo o cenário crescente da disponibilidade de informações e o acesso facilitado a elas, além da perspectiva cada vez mais presente da disseminação de informações enganosas por redes sociais, um tema que sofreu uma disseminação indiscriminada com muita frequência nesses últimos anos é o da medicação e automedicação [3]. A constante repetição de informações infundadas sobre o uso das medicações sem nenhuma comprovação de eficácia, fez com que até mesmo, profissionais da saúde aderissem a algumas dessas idéias sem fundamentos [4,5]. Dessa maneira, tal impacto que estas informações causaram, tiveram como consequência a deterioração da saúde de pacientes que não apresentavam um estado grave, e o aumento de internações por pessoas que se automedicaram, baseado nessas informações disseminadas.
+
+## Relevância
+Dada a quantidade de notificações por intoxicação medicamentosa existentes nos últimos anos - mais de 530.000 apenas no SINAN - não é difícil concluir que tratamos de um assunto importante. A quantidade assombrosa de notificações associada à cultura do povo brasileiro de tomar remédios "por conta própria" [6] nos levou a realizar um estudo sobre este assunto, de forma a tentar encontrar respostas para as nossas perguntas iniciais e, possivelmente, contribuir para que o número de intoxicações possa vir a cair no futuro. Entendemos que, para que isso aconteça, são necessárias grandes alterações no modo de vida do brasileiro - incluindo alterações culturais, que não acontecem de um dia para o outro.
+
+## Trabalhos relacionados
+Os seguintes trabalhos publicados foram utilizados, em caráter complementar durante a análise dos dados, como forma de verificarmos se estávamos indo na direção certa:
+
+- Ferreira, D. G. Intoxicação medicamentosa: aspectos relevantes da casuística de motivações suicidas. Repositório da Universidade Federal da Paraíba, 2014. Disponível em: https://repositorio.ufpb.br/jspui/handle/123456789/557
+- Bortoletto, M. E. & Bochner, R. Impacto dos medicamentos nas intoxicações humanas no Brasil. Cad. Saúde Pública, 1999. Disponível em: https://www.scielosp.org/article/csp/1999.v15n4/859-869/pt/
+- Alcântara, D. A., Vieira, J. E. S. & Albuquerque, V. L. M. Intoxicação Medicamentosa em Criança. Revista Brasileira da Promoção à Saúde, 2003. Disponível em: https://www.redalyc.org/pdf/408/40816203.pdf
+- Silva, E. R. & Álvares, A. C. M. Intoxicação medicamentosa relacionada à tentativa de autoextermínio. REICEN - Revista de Iniciação Científica e Extensão 2019. Disponível em: https://revistasfacesa.senaaires.com.br/index.php/iniciacao-cientifica/article/view/154
+- Margonato, F. B., Thomson, Z. & Paoliello, M. M. B. Determinantes nas intoxicações medicamentosas agudas na zona urbana de um município do Sul do Brasil. Cad. Saúde Pública, 2008. Disponível em: https://www.scielosp.org/article/ssm/content/raw/?resource_ssm_path=/media/assets/csp/v24n2/11.pdf
+- Pereira, M. J. A. et al. Perfil dos casos notificados de intoxicação exógena por medicamentos no estado do Ceará, revista Multidisciplinar e de Psicologia, 2021. Disponível em:. https://idonline.emnuvens.com.br/id/article/view/2984
+
+## Indicação (bastante resumida) da análise proposta
+O perfil de intoxicação de medicamentos é bem alto especialmente emtrês principais estados: São Paulo, Minas Gerais e Paraná - onde apresentam uma renda per capita maior e com maior número populacional, assim como número de hospitais públicos e privados, prevalecendo maior acesso ao tratamento. Percebemos que as idades que mais notificam são entre 20 a 49 anos, pois também são as pessoas que mais tomam medicamentos sem o devido acompanhamento. Hipotetizamos  possíveis causas como: resultados de buscas pessoais e/ou indicações de amigos ou colegas.
+
+## Indicação (bastante resumida) dos resultados alcançados
+Conseguimos alcançar o objetivo inicial de verificar o nível de notificação por intoxicação por medicamento, fazer correlação entre a faixa etária que notifica e ainda a relação de reações adversas por estado, ficando claro que existe a mesma proporcionalidade das notificações do site SINAN. Não conseguimos atingir os objetivos iniciais de realizar análises em relação às notificações por automedicação e relacionar com a quantidade de publicidade existente para medicamentos, por falta de bases de dados que apresentem estes valores.
+
+
+
 
 
 # Perguntas de Pesquisa
@@ -44,9 +77,18 @@ https://docs.google.com/presentation/d/e/2PACX-1vSbvtTkR4ttn-mb_54xGK2dKQIzksI9x
 
 A Análise Exploratória contribuiu para que possamos nos aproximar das respostas das Perguntas de Pesquisa. Optamos por subdividir os resultados da Análise de acordo com as perguntas que a mesma ajuda a responder.
 
+# Objetivos do Projeto
+Na abordagem do problema apresentado, buscamos primariamente responder às perguntas de pesquisa através da execução de análises exploratórias em diferentes bases de dados. Além de analisar os dados destas bases, buscamos encontrar correlações entre as variáveis apresentadas de forma a poder observar resultados relevantes.
 
 # Metodologia
-Acreditamos que utilizaremos análises estatística e temporal, usando técnicas como regressão linear para explorar os dados obtidos. Pretendemos seguir a metodologia KDD durante todo o processo de desenvolvimento do projeto.
+No início do projeto, pretendíamos seguir a metodologia KDD para nos guiar no desenvolvimento do mesmo. Estávamos em dúvida principalmente entre o KDD e o CRISP-DM, mas optamos por seguir o primeiro por acreditarmos que o mesmo é mais apropriado para projetos de pesquisa - diferentemente do CRISP-DM, que tem maior adoção na indústria, conforme visto nas aulas da disciplina.
+
+No entanto, durante o decorrer do projeto, acabamos por nos afastar da metodologia KDD e seguimos uma metodologia livre, não-específica. Alguns dos motivos que nos levaram a involuntariamente nos afastar do KDD foram, principalmente:
+
+- Dificuldade em encontrar bases de dados para responder às nossas perguntas de pesquisas originais
+- Necessidade de dar passos atrás e realizar alterações no objetivo do projeto, dadas as limitações das bases de dados encontradas
+
+
 
 
 ## Bases de Dados e Evolução
