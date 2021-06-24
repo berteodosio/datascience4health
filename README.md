@@ -120,7 +120,7 @@ A base, que faz parte do DATASUS, tem uma entrada de dados de notificações de 
 
 |Base de Dados  | Endereço na Web | Resumo descritivo|
 |--|--|--|
-| IBGE  | https://www.ibge.gov.br/estatisticas/sociais/educacao/9662-censo-demografico-2010.html | Base de dados obtidos pelo Instituto Brasileiro de Geografia e Estatística, compreendendo desde dados de censos  e PNS.|
+| IBGE  | https://sidra.ibge.gov.br/tabela/6579 | Base de dados obtidos pelo Instituto Brasileiro de Geografia e Estatística, compreendendo desde dados de censos  e PNS.|
 
 A base do IBGE exige uma busca pelo estudo estatístico adequado para que a base possa ser cruzada com os dados existentes, no entanto, a base do IBGE é quem fornece a fonte de dados mais completa a respeito das condições socioeconômicas por gênero, microrregiões, Unidade Federal, faixa etária e grau de escolaridade.
 
@@ -129,36 +129,51 @@ A base do IBGE exige uma busca pelo estudo estatístico adequado para que a base
 
 A análise exploratória foi realizada principalmente com o auxílio das ferramentas PowerBI e Orange. Optamos por dividir a análise em partes, segundo as Perguntas de Pesquisa que temos a pretensão de responder com o nosso projeto. Originalmente, nosso projeto possuía quatro perguntas de pesquisa - decidimos remover a última - "Qual o impacto das campanhas publicitárias na decisão dos brasileiros em se automedicar?" por não encontrarmos bases de dados com dados de campanhas publicitárias que poderíamos utilizar para cruzar com os dados que temos de intoxicação.
 
-**Pergunta: Qual a relação entre a quantidade de notificações por intoxicação e a quantidade de intoxicações por automedicação na população brasileira?**
+**Pergunta de pesquisa 1: Qual a relação entre a quantidade de notificações por intoxicação e a quantidade de intoxicações por automedicação na população brasileira?**
 
-Não conseguimos relacionar nossos dados com quantidade por automedicação de maneira direta, pois não há base de dados sobre automedicação no Brasil, mas optamos que que a partir de 2007 até 2019 há um alto índice de intoxicação pelo “agente tóxico” medicamento, quando comparado aos demais agentes como drogas de abuso, defensivo agrícola, entre outros, conforme demonstrado pela relação abaixo por ano -  o que sugere se tratar de casos de intoxicação medicamentosa. A Figura 1 apresenta uma síntese das análises dos dados do SINAN associados às intoxicações.
+Não conseguimos relacionar nossos dados com quantidade por automedicação de maneira direta, pois não há base de dados sobre automedicação no Brasil, mas optamos que que a partir de 2007 até 2019 há um alto índice de intoxicação pelo “agente tóxico” medicamento, quando comparado aos demais agentes como drogas de abuso, defensivo agrícola, entre outros, conforme demonstrado pela relação abaixo por ano - o que sugere se tratar de casos de intoxicação medicamentosa. A **Figura 1** apresenta uma síntese das análises dos dados do SINAN associados às intoxicações.
 
 **Figura 1**. Resultado quantitativo do levantamento de dados associados à intoxicação do SINAN.
 <p align="center">
   <img src="assets/e2-i1.png" align="center">
 </p>
 
-Através desta avaliação podemos concluir que o agente tóxico medicamento é o que mais vem sendo notificado em relação aos demais por ano e crescendo ano a ano desde 2007. Partindo destes resultados, realizamos uma segunda análise para verificar a procedência desse montante de notificações. Assim, verificamos que a maioria das notificações é proveniente dos estados de São Paulo, Minas Gerais e Paraná. Notamos ainda que, curiosamente, Pernambuco e Santa Catarina apresentam um índice de notificações bem próximas conforme é possível observar nos gráficos abaixo (Figura 2):
+Através desta avaliação podemos concluir que o agente tóxico medicamento é o que mais vem sendo notificado em relação aos demais por ano e crescendo ano a ano desde 2007. Partindo destes resultados, realizamos uma segunda análise para verificar a procedência desse montante de notificações. Assim, verificamos que a maioria das notificações é proveniente dos estados de São Paulo, Minas Gerais e Paraná. Notamos ainda que, curiosamente, Pernambuco e Santa Catarina apresentam um índice de notificações bem próximas conforme é possível observar nos gráficos abaixo **(Figura 2)**:
 
 **Figura 2**. Resultado da separação dos dados de intoxicação causadas por medicamento por Unidade Federativa
 <p align="center">
   <img src="assets/e2-i2.png" align="center">
 </p>
 
-**Pergunta: Qual a relação entre a quantidade de notificações de intoxicações por automedicação e o poder socioeconômico das regiões brasileiras?**
+Outro ponto observado é que o aumento no número de notificações de intoxicação por uso de medicamento aumentou ao passar dos anos de maneira semelhante em todos os estados. O gráfico abaixo **(Figura 3)** mostra um exemplo com os estados: Rio de Janeiro, Rio Grande do Sul, Distrito Federal e Bahia.
+
+**Figura 3**. Distribuição temporal das notificações de intoxicação por estado.
+<p align="center">
+  <img src="assets/ef-i1.png" align="center">
+</p>
+
+**Pergunta de pesquisa 2: Qual a relação entre a quantidade de notificações de intoxicações por automedicação e o poder socioeconômico das regiões brasileiras?**
 
 Não foi possível avaliar por este critério de automedicação conforme justificado acima, mas agora podemos levantar outros questionamentos: por que três estados especificamente têm o maior índice de notificações? Existe alguma relação entre estes estados ou trata-se do mero acaso no caso de Pernambuco e Santa Catarina apresentarem dados próximos? A quantidade de hospitais por estado brasileiro e se possível a concentração dos mesmos em relação às regiões mais habitadas - estes números podem impactar grandemente nos resultados de nossas análises preliminares. Além disso, uma maior procura de pessoas para realizar notificações ou para dar entrada em hospitais por intoxicação devido a dificuldades de acesso em determinadas regiões também impactaria. Temos ainda questionamento sobre uma possível relação entre o que pretendemos cruzar com informações provenientes do IBGE e do site da Receita Federal relacionando a quantidade de hospitais, de forma a tentar encontrar padrões que ajudem a responder estes questionamento, bem como buscar por possíveis correlações de cunho sócio-econômico.
+O gráfico abaixo **(Figura 4)** apresenta uma correlação moderada positiva entre a renda per capita dos estados e a quantidade de notificações para cada 100 mil habitantes. Para geração desse gráfico foram utilizados dados do IBGE sobre renda per capita nos estados, e projeção de habitantes no Brasil em 2019 [7]. 
 
-**Pergunta: Qual o perfil socioeconômico da população brasileira que realiza notificações sobre intoxicações epidemiológicas?**
+**Figura 4**. Correlação entre renda per capita estadual e quantidade de notificações por 100 mil habitantes.
+<p align="center">
+  <img src="assets/ef-i2.png" align="center">
+</p>
 
-No SINAN, não existe uma relação epidemiológica ligada diretamente à condição sócio econômica, mas podemos verificar pelo IBGE e por região quais as condições de renda e fazer uma correlação e verificar este fato. Salientamos que a análise em questão será realizada num próximo passo de avaliação de dados. Uma segunda etapa em relação a este perfil de análise seria fazer uma avaliação por faixa etária, onde já constatamos que há uma relação forte entre a faixa de 29 a 59 anos (Figura 3) como sujeitos das notificações levantadas. 
+**Pergunta de pesquisa 3: Qual o perfil socioeconômico da população brasileira que realiza notificações sobre intoxicações epidemiológicas?**
 
-**Figura 3**. Resultado da separação dos dados de intoxicação por medicamento de acordo com a faixa etária do sujeito da notificação.
+No SINAN, não existe uma relação epidemiológica ligada diretamente à condição sócio econômica, mas podemos verificar pelo IBGE e por região quais as condições de renda e fazer uma correlação e verificar este fato. Salientamos que a análise em questão será realizada num próximo passo de avaliação de dados. Uma segunda etapa em relação a este perfil de análise seria fazer uma avaliação por faixa etária, onde já constatamos que há uma relação forte entre a faixa de 29 a 59 anos **(Figura 5)** como sujeitos das notificações levantadas.
+
+**Figura 5**. Resultado da separação dos dados de intoxicação por medicamento de acordo com a faixa etária do sujeito da notificação.
 <p align="center">
   <img src="assets/e2-i3.png" align="center">
 </p>
 
-Como podemos notar nos gráficos gerados acima, estados com maior população como São Paulo e Minas Gerais possuem mais notificações de intoxicação. Para uma analise mais precisa verificamos a quantidade de notificações por habitantes. O gráfico abaixo mostra esta relação com a quantidade de notificações para um grupo de 100 mil habitantes por estado. Os dados populacionais foram obtidos na projeção do IBGE para o ano de 2019. 
+Como podemos notar nos gráficos gerados acima, estados com maior população como São Paulo e Minas Gerais possuem mais notificações de intoxicação. Para uma análise mais precisa verificamos a quantidade de notificações por habitantes. O gráfico abaixo **(Figura 6)** mostra esta relação com a quantidade de notificações para um grupo de 100 mil habitantes por estado. Os dados populacionais foram obtidos na projeção do IBGE para o ano de 2019.
+
+**Figura 6**. Relação entre quantidade de notificações	 por 100 habitantes por estado.
 <p align="center">
   <img src="assets/Notificacoes2019Per100K-hab.png" align="center">
 </p>
