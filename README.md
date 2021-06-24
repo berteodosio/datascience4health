@@ -1,9 +1,9 @@
-# Projeto `Uma análise sobre a relação entre a quantidade de notificações por intoxicação e a quantidade de intoxicações por automedicação na população brasileira`
-# Project `An analysis of the relationship between the number of intoxication notifications and the number of self-medication intoxications in the Brazilian population`
+# Projeto `Uma análise sobre a quantidade de notificações por intoxicação com medicamentos`
+# Project `An analysis of the number of notifications for drug intoxication`
 
 # Apresentação
 
-O presente projeto foi originado no contexto das atividades da disciplina de pós-graduação [*Ciência e Visualização de Dados em Saúde*](https://github.com/datasci4health/home), oferecida no primeiro semestre de 2021, na Unicamp.
+O presente projeto foi originado no contexto das atividades da disciplina de pós-graduação [*Ciência e Visualização de Dados em Saúde*](https://github.com/datasci4health/home), oferecida no primeiro semestre de 2021, na Unicamp. Segue a relação dos integrantes do grupo e respectivas áreas de especialização.
 
 |Nome  | RA | Especialização|
 |--|--|--|
@@ -15,11 +15,26 @@ O presente projeto foi originado no contexto das atividades da disciplina de pó
 
 
 # Descrição Resumida do Projeto
-No período compreendido entre 2010 e 2017, foram notificados mais de 500.000 casos de intoxicações notificadas no SINAN. Tais dados apontam para uma maior incidência de casos de intoxicação medicamentosa do que por agrotóxicos. Simultaneamente, um estudo feito pelo Conselho Federal de Farmácia em 2019 mostrou que 77% da população brasileira se automedica, o que chamou a atenção para a questão da automedicação como possível fator capaz de levar a casos de intoxicação medicamentosa. Ainda neste contexto, a Organização Mundial da Saúde prevê que cerca de 10 milhões de óbitos sejam causados por automedicação por ano em 2050. Tratam-se de previsões sombrias e alarmantes que infelizmente são coerentes com os dados do estudo na população brasileira em 2019. Esta pesquisa de 2019 apontou ainda que as principais classes medicamentosas associadas à automedicação são: analgésicos e relaxantes musculares, com destaque para a dipirona como medicamento mais consumido nesse contexto. Além desse panorama, cabe destacar a grande variabilidade entre as cinco regiões brasileiras, tanto do ponto de vista socioeconômico quanto às notificações de intoxicações. 
-
-Desta forma, nosso grupo se interessou em analisar estes tópicos, partindo desde análises dos perfis socioeconômicos das regiões brasileiras, procurando correlacionar os mesmos com a incidência de intoxicações medicamentosas até relacionar dados de intoxicações com automedicação e, se possível, considerar ainda o papel da propaganda de medicamentos sobre a automedicação.
+Na segunda década do século XXI foi possível perceber um aumento substancial no número de casos notificados de intoxicação por medicamentos, perfazendo a marca de 500.000 casos de intoxicações no SINAN. Tais dados apontam para uma maior incidência de casos de intoxicação medicamentosa do que por agrotóxicos, conforme pesquisa feita pelo grupo na mencionada base de dados. O achado em questão é coerente com o que vem sendo observado por órgãos como a Organização das Nações Unidas, por exemplo. Tratam-se de previsões sombrias e alarmantes que infelizmente são coerentes com os dados do estudo na população brasileira em 2019. Esta pesquisa de 2019 apontou ainda que as principais classes medicamentosas associadas à automedicação são: analgésicos e relaxantes musculares, com destaque para a dipirona como medicamento mais consumido nesse contexto. Além desse panorama, cabe destacar a grande variabilidade entre as cinco regiões brasileiras, tanto do ponto de vista socioeconômico quanto às notificações de intoxicações. Desta forma, o grupo se interessou em analisar estes tópicos, partindo desde análises dos perfis socioeconômicos e de faixa etária dos indivíduos afetados  das regiões brasileiras, procurando correlacionar os mesmos com a incidência de intoxicações medicamentosas. Para tanto, foram analisados dados presentes nas bases de dados públicas SINAN (Sistema Nacional de Agravos de Notificação) e IBGE, analisados com auxílio de ferramentas como o Power Bi, Orange e Collab. As análises realizadas apontaram para uma maior quantidade de notificações de intoxicação medicamentosa no estado do Paraná, após normalização pelo número estimado de habitantes. Além disso, foi possível notar uma correlação positiva entre número de notificações e renda, bem como uma maior quantidade de notificações em indivíduos adultos, quando comparado com outras faixas etárias mais extremas.
   
-Link para o vídeo https://youtu.be/Dt77q7QpOvs  
+# Vídeos do Projeto
+
+
+## Vídeo da Proposta
+O vídeo da proposta do projeto pode ser encontrado no link a seguir: https://youtu.be/Dt77q7QpOvs
+
+## Vídeo da Apresentação Final
+O vídeo da apresentação final do projeto pode ser encontrado no link a seguir: https://youtu.be/2BDkJIeEiB4
+
+# Slides do Projeto
+
+## Slides da Proposta
+Os slides da proposta original do projeto podem ser encontrados aqui: https://github.com/berteodosio/datascience4health/blob/master/assets/slides-proposta.pdf
+
+## Slides da Apresentação Final
+Os slides da apresentação final do projeto estão disponíveis em:
+https://docs.google.com/presentation/d/e/2PACX-1vSbvtTkR4ttn-mb_54xGK2dKQIzksI9xq-47L0eMnpazRe4zRLiyh1QhYonAJVwe5-oEH6GwT53igcn/pub?start=false&loop=false&delayms=3000
+
 
 
 # Perguntas de Pesquisa
