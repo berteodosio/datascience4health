@@ -178,16 +178,121 @@ Como podemos notar nos gráficos gerados acima, estados com maior população co
   <img src="assets/Notificacoes2019Per100K-hab.png" align="center">
 </p>
 
-# Ferramentas
+# Análises Realizadas
+Primeiramente optamos por fazer um estudo sobre intoxicação por medicamentos e com base em dados do SINITOX, mantido pela Fiocruz. Observamos que esta base tem tido uma entrada cada vez menor de dados de notificações de intoxicação, o que acaba fazendo com que a mesma tenha uma tendência a não refletir a realidade tão bem como esperávamos. Por esta razão, optamos por não utilizá-la.
+
+A alternativa foi coletarmos os dados da plataforma TabNet Win32 3.0, via site do DataSUS. Percebemos que aqui os dados são mais puros e precisam de uma pessoa da área de saúde cadastrada para preencher e realizar a notificação. Desta forma entendemos que estes dados são mais puros e fidedignos, sem uma tendência de manipulação ou perda.
+
+Assim, pudemos escolher por região, agente tóxico e por ano, e com isso levantamos os dados desde 2008 até 2020. Os dados extraídos foram obtidos no formato CSV, visualizados no Excel e posteriormente tratados no PowerBI e no Orange para uma melhor análise e visualização gráfica dos mesmos.
+
+## Evolução do projeto: problemas enfrentados e possíveis mudanças de trajetória. 
+Dentre os problemas que enfrentamos, podemos citar o ato de baixar o programa TabWIN de 32 bits no computador para dar melhor visibilidade, o qual não conseguimos instalar e fazer uma melhor análise. Por causa disso, tivemos que coletar dados diretamente no site do DataSUS e posteriormente realizar uma limpeza dos dados como texto. Ao final das colunas e linhas, nas linhas e colunas sem dados utilizamos o valor “0”, como um dado nulo. Posteriormente, além da limpeza, ao começar a analisar os dados obtidos, realizando comparações entre regiões, sexo, idade, percebemos que não conseguiríamos apenas com estas bases analisar relações de proporcionalidade entre a quantidade de notificações por intoxicação e a quantidade de notificações por intoxicação por automedicação, e nem mesmo relacionar isto com propagandas, uma vez que os dados presentes nesta base referem-se apenas às notificações de intoxicação em si - sem especificar se estão atreladas a automedicação ou não. Observamos também que à medida que o SINITOX foi parando de ser alimentado, o SINAN começou a receber mais dados - uma indicação de que houve uma migração do SINITOX para o SINAN.
+
+Outro problema que não há como levantar o tipo de medicamento ou a qual classe pertence, é um dado puro sobre intoxicação por medicamento, desta forma fica difícil determinar quais seriam os medicamentos que causam maior intoxicação ao qual poderia levar a uma conclusão melhor e desenvolver um trabalho de conscientização de automedicação, compreensão melhor porque determinado tipo de classe terapêutica  pode levar a intoxicação, se é um problema de auto consumo, falta de orientação, superdosagem ou qualquer outro problema relacionado.
+
+Falta dados de classe terapêutica, falta dados se a causa foi tratada pelo SUS ou por hospital privado, falta dado do tipo escolaridade, falta dado do tipo medicamento aviado com prescrição médica ou sem prescrição ou se é da linha “OTC” ou medicamento isento de prescrição médica “MIP”.
+
+A falta de uma base de dados relacionada à propaganda também nos impossibilitou de realizar análises e buscar relações entre as notificações por intoxicação / automedicação e a quantidade de propagandas / exposição na mídia de medicamentos específicos, que estavam nos nossos objetivos iniciais.
+
+
+## Ferramentas
 - Python / Orange;
 - Ferramenta de controle de planilhas (Google Sheets);
 - Git;
 - Github;
-- Tableau.
 - PowerBI
 
+Aqui relata-se que tanto o Orange como o PowerBI são ferramentas excelentes para demonstrar graficamente estas análises, sendo que o Orange apresenta alguns recursos melhores de regressão linear e análise numérica em comparação ao PowerBI. Este por sua vez é melhor visualmente nos gráficos de mapa por região e tipos de gráficos de colunas e tabelas, assim como para realizar correlações. As duas ferramentas se complementam. No entanto, para fins de familiaridade com a natureza da ferramenta, o PowerBI, que é voltado para facilitar e abstrair qualquer necessidade de processamento para o usuário, foi a ferramenta que garantiu que os membros do grupo com pouca familiaridade com programação pudessem prosseguir com certa independência no projeto. O Orange permite maior customização de recursos e portanto permite uma variabilidade maior tanto nos aspectos de visualização quanto de processamento, além de permitir lidar com dados em formatações inadequadas, que não necessariamente seriam tratados pelo PowerBI.
 
-# Cronograma
-- Até o final de Abril - Consolidação das bases de dados a serem utilizadas; Definição das perguntas de pesquisa a serem utilizadas;
-- Até o final de Maio - Consolidação de artigos / parte estatística dos bancos
-- Meados de Junho - Finalização da escrita do relatório final
+# Resultados
+Após realizar as análises mencionadas anteriormente, constatamos que o agente tóxico “medicamento”, realmente é o agente mais notificado como intoxicante em todas as regiões do Brasil como podemos notar abaixo **(Figura 7)**.
+
+
+**Figura 7**. Análise causal do maior volume de notificações do SINAN
+<p align="center">
+  <img src="assets/ef-i3-1.png" align="center">
+</p>
+<p align="center">
+  <img src="assets/ef-i3-2.png" align="center">
+</p>
+<p align="center">
+  <img src="assets/ef-i3-3.png" align="center">
+</p>
+
+No processo de análise percebemos que há alguns estados com maior concentração de notificação como São Paulo, Minas Gerais e Paraná, seguido de Pernambuco e Santa Catarina com a mesma proporcionalidade **(Figura 8)**.
+
+**Figura 8**. Resultado da separação dos dados de intoxicação por causa e Unidade Federativa
+<p align="center">
+  <img src="assets/ef-i4-1.png" align="center">
+</p>
+<p align="center">
+  <img src="assets/ef-i4-2.png" align="center">
+</p>
+
+Uma outra análise realizada foi a proporção de notificações por cada 100 mil habitantes, desta forma percebemos que o estado de São Paulo apesar de possuir a maior quantidade de notificações, fica atrás do Paraná que é o estado com mais notificações por habitante **(Figura 6)**.
+
+Aqui temos a relação de gastos entre hospital público e hospital privado em relação ao número de internações e gasto por internação **(Figura 9)**.
+
+**Figura 9**. Relação de gastos de internação em hospitais públicos e privados em relação ao número de internações.
+<p align="center">
+  <img src="assets/ef-i5-1.png" align="center">
+</p>
+<p align="center">
+  <img src="assets/ef-i5-2.png" align="center">
+</p>
+
+A média de internação é de 4 dias, com uma pequena variação até 5 dias, sendo que o número de leitos em hospital público é bem maior do que em relação ao hospital privado, sendo que também há uma procura bem maior pelo atendimento pelo SUS do que por convênios.
+
+Nota-se que a ANVISA também faz uma rastreabilidade de reações adversas por medicamentos em seu site notivisa desde 2018 e que demonstra alto grau de reações por vários tipos de medicamentos, principalmente a dipirona sódica, cujo medicamento é isento de prescrição médica e com alto grau de consumo como analgésico e antipirético.
+
+Um resumo dos resultados encontrados pode ainda ser visualizado neste link: https://bit.ly/ResultadosDataSci4Health
+
+# Discussão
+Discussão realizada em conjunto com a seção de Resultados.
+
+# Conclusão
+No SINAN, o número de notificações de intoxicações por uso de medicamentos é maior do que o de qualquer outro agente. Ao analisar as notificações de intoxicação por uso de medicamentos por estado ao longo do tempo, nota-se que o número de notificações aumenta de forma coordenada entre os estados, porém apresenta aumento significativo a partir de 2018. Apesar do estado de São Paulo apresentar maior número de notificações de intoxicação por uso de medicamentos, o Paraná é o estado com maior número de notificações para cada 100 mil habitantes. Analisando os dados de 2019, nota-se a correlação moderada positiva entre a renda per capita e as notificações de intoxicação por uso de medicamentos para 100 mil habitantes. 
+
+## Principais desafios enfrentados
+A falta de uma base com dados sobre automedicação no Brasil ao longo dos anos, impossibilitou uma análise mais profunda sobre a relação entre os dados de intoxicação por uso de medicamentos e a automedicação.
+
+Utilizamos a projeção do IBGE para capturar os dados sobre número de habitantes por estado no Brasil no ano de 2019, uma vez que o último censo foi realizado em 2010. Foi utilizada a renda per capita do IBGE por estado em 2019, uma vez que os dados de notificação não possuem dados de renda, o que impossibilitou a execução da regressão. 
+
+O problema dos dados do IBGE é que foi necessário uma fase de entendimento dos conceitos e termos relacionados, uma vez que o volume de dados é muito grande e estão organizados por terminologias técnicas muito específicas, o que dificultou por exemplo, determinar o grau de escolaridade de um determinado estado.
+
+## Principais lições aprendidas
+A qualidade e quantidade de dados é um fator fundamental para fazer uma análise mais completa das perguntas a serem respondidas. Por exemplo, como os dados de notificação não possuem o dado de automedicação, não conseguimos fazer a correlação. Com isso estudamos somente os dados de notificação de intoxicação por uso de medicamentos.
+
+
+# Trabalhos Futuros
+Investigar quais os fatores que estão causando o aumento de notificações de intoxicação por uso de medicamentos. Seguem algumas hipóteses abaixo.
+
+O aumento de notificações de intoxicação por uso de medicamentos pode ser explicado devido:
+- Ao aumento do uso do sistema do SINAN pelos médicos?
+- Ao aumento do uso do sistema do SINAN em hospitais?
+- Ao aumento de casos reais?
+
+As hipóteses acima não são excludentes, as três podem explicar uma parcela do aumento de notificações. Outro ponto a ser estudado é a influência de fatores que levam a intoxicação, como propaganda de medicamentos e automedicação, nos número de notificações. Mais um estudo futuro poderia ser a explicação do por que existe correlação moderada positiva entre a renda per capita nos estados e o número de notificações por habitantes.
+
+Algumas hipóteses são:
+- O poder aquisitivo influencia a quantidade de aquisição e consumo de medicamentos?
+- Os estados com maior renda acessam o SINAN com mais facilidade?
+- A população de estados com maior renda têm maior probabilidade de ir ao hospital em caso de intoxicação?
+
+# Referências Bibliográficas
+[1]  Conselho Federal de Farmácia, Pesquisa aponta que 77% dos brasileiros têm o hábito de se automedicar. Disponível em: https://crfsp.org.br/noticias/10535-pesquisa-aponta-que-77-dos-brasileiros-t%C3%AAm-o-h%C3%A1bito-de-se-automedicar.html. Acesso em Junho/2021
+
+[2] LABOISSIÈRE, P. ONU: uso excessivo de remédios pode matar 10 milhões ao ano até 2050. Disponível em: https://agenciabrasil.ebc.com.br/saude/noticia/2019-04/onu-uso-excessivo-de-remedios-pode-matar-10-milhoes-ao-ano-ate-2050. Acesso em Junho de 2021.
+
+[3] MELO, J. R. R. et al. Automedicação e uso indiscriminado de medicamentos durante a pandemia da COVID-19. Cad. Saúde Pública, 1999. Disponível em: https://www.scielo.br/j/csp/a/tTzxtM86YwzCwBGnVBHKmrQ/?format=html. Acesso em Junho/2021
+ 
+[4] FERREIRA, I. S. & CARVALHO, C. J. S. A influência da propaganda de medicamentos na prática da automedicação: um problema de saúde pública. Brazilian Journal of Development, 2021. Disponível em: https://www.brazilianjournals.com/index.php/BRJD/article/view/29676/23396.Junho/2021
+
+[5] FERREIRA, F. C. et al. O impacto da prática da automedicação no Brasil: Revisão Sistemática. Brazilian Applied Science Review, 2021. Disponível em:  https://www.brazilianjournals.com/index.php/BASR/article/view/31242. Acesso em Junho/2021
+ 
+
+[6] Uso de medicamentos. Abril/2019. Conselho Federal de Farmácia. Instituto de Pesquisa Datafolha. Disponível em: https://www.cff.org.br/userfiles/file/Uso%20de%20Medicamentos%20-%20Relat%c3%b3rio%20_final.pdf. Acesso em Junho/2021.
+
+
+[7] Rendimento Domiciliar per capita por estado no Brasil em 2019. Disponível em:
+https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/26956-ibge-divulga-o-rendimento-domiciliar-per-capita-2019. Acesso em Junho/2021.
